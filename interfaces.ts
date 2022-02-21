@@ -25,6 +25,7 @@ export interface Mod {
 	conflicts: string[];
 	// Room for additional meta for this mod homepage github, discord, Creator...
 	meta: Record<string, string>;
+	downloads: DownloadMod[];
 }
 
 export interface Repo {
@@ -32,6 +33,4 @@ export interface Repo {
 	id: string;
 	// Mods that exist
 	mods: Mod[];
-	// List of downloads
-	downloads: DownloadMod[];
 }

@@ -46,19 +46,23 @@ let r = await fetch(
 ).then((r) => r.json() as unknown as SkyClientMods[]);
 const decoder = new TextDecoder();
 let mods: Mod[] = [];
-let versions: DownloadMod[] = [];
 for (const mod of r) {
 	if (mod.hidden) continue;
 	if (mod.ignored) continue;
 	if (!mod.url) continue;
 	if (!mod.hash) {
-		let r = await fetch(mod.url, {
-			headers: {
-				'user-agent':
-					'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36',
-			},
-		}).then((r) => r.arrayBuffer());
-		await Deno.writeFile(`hashes/${mod.file}`, new Uint8Array(r));
+		try {
+			await Deno.stat(`hashes/${mod.file}`);
+		} catch (_) {
+			const r = await fetch(mod.url, {
+				headers: {
+					'user-agent':
+						'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36',
+				},
+			}).then((r) => r.arrayBuffer());
+			await Deno.writeFile(`hashes/${mod.file}`, new Uint8Array(r));
+		}
+
 		let cmd = await Deno.run({
 			cmd: ['md5', `hashes/${mod.file}`],
 			stdout: 'piped',
@@ -87,14 +91,16 @@ for (const mod of r) {
 		categories: mod.categories?.map((x) => x.split(';')?.[1]) || [],
 		conflicts: [],
 		meta: {},
-	});
-	versions.push({
-		mcversion: '1.8.9',
-		version: mod.file.split('-').at(-1)!.split('.')[0] || '0.1.0',
-		hash: mod.hash,
-		url: mod.url,
-		filename: mod.file,
-		id: mod.id,
+		downloads: [
+			{
+				mcversion: '1.8.9',
+				version: mod.file.split('-').at(-1)!.split('.')[0] || '0.1.0',
+				hash: mod.hash,
+				url: mod.url,
+				filename: mod.file,
+				id: mod.id,
+			},
+		],
 	});
 }
 
@@ -104,7 +110,6 @@ Deno.writeTextFile(
 		{
 			id: 'skyclient',
 			mods,
-			downloads: versions,
 		},
 		null,
 		2
