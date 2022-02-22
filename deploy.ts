@@ -19,6 +19,10 @@ export const routes = createRouteMap([
 		'/skyclient.json',
 		async () => new Response(await Deno.readTextFile('repos/skyclient.json')),
 	],
+	[
+		'/feather.json',
+		async () => new Response(await Deno.readTextFile('repos/feather.json')),
+	],
 	//TODO- add own std repo
 ]);
 
