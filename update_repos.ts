@@ -41,6 +41,64 @@ export interface Warning {
 	lines: string[];
 }
 
+export interface FeatherMods {
+	mcVersions: string[];
+	categories: Category[];
+	mods: FeatherMod[];
+	dependencies: Dependency[];
+	defaultMods: DefaultMod[];
+}
+
+export interface Category {
+	name: Name;
+	description: string;
+}
+
+export enum Name {
+	Fun = 'Fun',
+	Hypixel = 'Hypixel',
+	Media = 'Media',
+	Performance = 'Performance',
+	Tools = 'Tools',
+}
+
+export interface DefaultMod {
+	slug: string;
+	name: string;
+	author: string;
+	description: string;
+	image: string;
+	mcVersions: { [key: string]: McVersion };
+	categories?: Name[];
+}
+
+export interface McVersion {
+	sha1?: string;
+	name?: string;
+	download: string;
+	size?: number;
+	version: string;
+	type?: string;
+}
+
+export interface Dependency {
+	name: string;
+	slug: string;
+	author: string;
+	mcVersions: { [key: string]: McVersion };
+}
+
+export interface FeatherMod {
+	slug: string;
+	name: string;
+	author: string;
+	description: string;
+	image: string;
+	categories: Name[];
+	mcVersions: { [key: string]: McVersion };
+	dependencies?: string[];
+}
+
 let r = await fetch(
 	'https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/mods.json?raw=true'
 ).then((r) => r.json() as unknown as SkyClientMods[]);
@@ -110,6 +168,54 @@ Deno.writeTextFile(
 		{
 			id: 'skyclient',
 			mods,
+		},
+		null,
+		2
+	)
+);
+
+let featherMods: Mod[] = [];
+let feather = await fetch('https://electron-launcher.feathermc.com/mods.json', {
+	headers: {
+		'user-agent':
+			'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36',
+	},
+}).then((r) => r.json() as unknown as FeatherMods);
+
+for (const mod of [...feather.mods, ...feather.defaultMods]) {
+	featherMods.push({
+		id: mod.slug,
+		nicknames: [mod.name],
+		display: mod.name,
+		icon: mod.image,
+		forgeid: mod.slug,
+		description: mod.description,
+		meta: {
+			author: mod.author,
+		},
+		conflicts: [],
+		categories: mod.categories || [],
+		downloads: Object.entries(mod.mcVersions)
+			.filter((x) => x[1].type !== 'link' && x[1].sha1)
+			.map(([k, v]) => {
+				return {
+					mcversion: k,
+					version: v.version,
+					hash: `sha1;${v.sha1}`,
+					filename: v.name || v.download.split('/').at(-1)!,
+					url: v.download,
+					id: mod.slug,
+				};
+			}),
+	});
+}
+
+Deno.writeTextFile(
+	'repos/feather.json',
+	JSON.stringify(
+		{
+			id: 'feather',
+			mods: featherMods.filter((x) => x.downloads.length !== 0),
 		},
 		null,
 		2
