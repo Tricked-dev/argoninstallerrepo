@@ -528,10 +528,10 @@
       "downloads": [
         {
           "mcversion": "1.8.9",
-          "version": "2.0.2",
-          "hash": "sha1;2b2ba219fb4c2b58da6ad977e4c78af5f5b26ebb",
+          "version": "2.0.3",
+          "hash": "sha1;41b774865a702a10876d42981b39bfd689025d0b",
           "filename": "chattriggers-1.8.9.jar",
-          "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/2.0.2/ctjs-2.0.2-1.8.9.jar",
+          "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/2.0.3/ctjs-2.0.3-1.8.9.jar",
           "id": "chatTriggers"
         }
       ]
@@ -773,41 +773,6 @@
           "filename": "origins-fabric-1.18.jar",
           "url": "https://media.forgecdn.net/files/3561/745/Origins-1.18-1.3.1.jar",
           "id": "origins"
-        }
-      ]
-    },
-    {
-      "id": "skinlayers3d",
-      "nicknames": [
-        "Skin Layers 3D"
-      ],
-      "display": "Skin Layers 3D",
-      "icon": "https://images.feathermc.com/9T0ff.png",
-      "forgeid": "skinlayers3d",
-      "description": "Replaces the usually flat second layer of player skins with a 3d modeled version. Will automatically switch to the vanilla 2d rendering when players are further away than 12 blocks in order to increase the framerate. Also supports transparent parts on things like glasses!",
-      "meta": {
-        "author": "tr7zw"
-      },
-      "conflicts": [],
-      "categories": [
-        "Fun"
-      ],
-      "downloads": [
-        {
-          "mcversion": "1.17.1-fabric",
-          "version": "1.3.1",
-          "hash": "sha1;552a8b42ce1d8ac630262f559565a9f82fa68444",
-          "filename": "skinlayers3d-fabric-1.17.jar",
-          "url": "https://media.forgecdn.net/files/3541/753/3dSkinLayers-Fabric-1.3.1.jar",
-          "id": "skinlayers3d"
-        },
-        {
-          "mcversion": "1.18.1-fabric",
-          "version": "1.3.1",
-          "hash": "sha1;eddc590602e016b974ee8e5ac2837349a2d95043",
-          "filename": "skinlayers3d-fabric-1.18.jar",
-          "url": "https://media.forgecdn.net/files/3541/751/3dSkinLayers-Fabric-1.3.1.jar",
-          "id": "skinlayers3d"
         }
       ]
     },

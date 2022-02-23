@@ -137,6 +137,17 @@ for (const mod of r) {
 		console.log(mod);
 		continue;
 	}
+	const version = mod.file
+		.replace('1.8.9', '')
+		.replace('.jar', '')
+		.replace('()', '')
+		.replace('-beta', ';beta')
+		.replace('-pre', ';pre')
+		.trim()
+		.split(/-| /gim)
+		.at(-1)!
+		.replace(';beta', '-beta')
+		.replace(';pre', '-pre');
 	mods.push({
 		id: mod.id,
 		nicknames: mod.nicknames || [],
@@ -152,7 +163,7 @@ for (const mod of r) {
 		downloads: [
 			{
 				mcversion: '1.8.9',
-				version: mod.file.split('-').at(-1)!.split('.')[0] || '0.1.0',
+				version: version || '0.1.0',
 				hash: mod.hash,
 				url: mod.url,
 				filename: mod.file,
