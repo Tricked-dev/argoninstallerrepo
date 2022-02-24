@@ -23,7 +23,10 @@ export const routes = createRouteMap([
 		'/feather.json',
 		async () => new Response(await Deno.readTextFile('repos/feather.json')),
 	],
-	//TODO- add own std repo
+	[
+		'/std.json',
+		async () => new Response(await Deno.readTextFile('repos/std.json')),
+	],
 ]);
 
 const notFound = (e: MissingRouteError) => createErrorResponse(404, e);
