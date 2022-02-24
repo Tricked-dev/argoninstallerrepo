@@ -1,0 +1,18 @@
+[
+	{
+		"display": "Skytils",
+		"id": "skytils",
+		"forgeid": "skytils",
+		"categories": ["All Skyblock", "Recommended Skyblock"],
+		"nicknames": ["st"],
+		"icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/skytils.png",
+		"description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
+		"download": { "github": "Skytils/SkytilsMod", "version": "1.8.9" },
+		"meta": {
+			"author": "lily & sychic",
+			"bestmod": "ofc",
+			"discord": "discord.gg/skytils"
+		},
+		"conflicts": ["betterfps"]
+	}
+]

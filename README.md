@@ -2,7 +2,26 @@
 
 Minecraft mod installer gui application repository
 
-repo format
+current repos:
+
+- [Skyclient](https://tmod.deno.dev/skyclient.json)
+- [Feather](https://tmod.deno.dev/feather.json)
+- [std](https://tmod.deno.dev/std.json)
+
+## Contributing to the STD repo
+
+The std repo is ment to be a selective repo for useful mods you can add new mods by editing the [std_data.json](./std_data.json) file.
+
+## Creating a TMOD Installer repo
+
+Creating a TMOD Installer repo is pretty easy you can view the example above.
+
+important notes for hosting a repo:
+
+- Use a fast host the repos get downloaded on each startup and having a slow host will slow everything down things alot
+- Dont use github as a host but instead a service thats ment for things like this here's a few examples: [Deno deploy](https://deno.com/deploy), [Cloudflare Pages](https://pages.cloudflare.com/), [Cloudflare workers](https://workers.cloudflare.com/), [Heroku](https://heroku.com/), [A vps](https://www.ovhcloud.com/en/vps/), [Netlify](http://netlify.com/), [Vercel](https://vercel.com/), [More..](https://free-for.dev/#/?id=web-hosting#/?id=web-hosting#/?id=web-hosting).
+
+Typescript interfaces to create a repo:
 
 ```typescript
 interface DownloadMod {
@@ -16,8 +35,6 @@ interface DownloadMod {
 }
 
 interface Mod {
-	// ID - Mods are placed in the database using this id
-	id: string;
 	// Nicknames of this mod
 	nicknames: string[];
 	// ID OF THIS MOD
@@ -32,6 +49,7 @@ interface Mod {
 	conflicts: string[];
 	// Room for additional meta for this mod homepage github, discord, Creator...
 	meta: Record<string, string>;
+	downloads: DownloadMod[];
 }
 
 interface repo {
@@ -39,7 +57,5 @@ interface repo {
 	id: string;
 	// Mods that exist
 	mods: Mod[];
-	// List of downloads
-	downloads: DownloadMod[];
 }
 ```
