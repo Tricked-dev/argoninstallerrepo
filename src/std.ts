@@ -1,5 +1,7 @@
 import { GithubRelease, Mod } from './types.ts';
-let moddata = JSON.parse(await Deno.readTextFile('std_data.json'));
+import { turnBuffer } from './mod.ts';
+
+const moddata = JSON.parse(await Deno.readTextFile('std_data.json'));
 export default async () => {
 	const decoder = new TextDecoder();
 
@@ -22,7 +24,7 @@ export default async () => {
 						'user-agent':
 							'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36',
 					},
-				}).then((r) => r.arrayBuffer());
+				}).then(turnBuffer);
 				await Deno.writeFile(`hashes/${filename}`, new Uint8Array(r));
 			}
 
