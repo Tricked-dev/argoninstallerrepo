@@ -62,7 +62,10 @@ export default async () => {
 			}`,
 			categories: mod.categories?.map((x) => x.split(';')?.[1]) || [],
 			conflicts: [],
-			meta: {},
+			meta: {
+				author: mod.creator,
+				body_url: mod.actions?.find((x) => x.method == 'hover')?.document,
+			},
 			downloads: [
 				{
 					mcversion: '1.8.9',

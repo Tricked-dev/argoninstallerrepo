@@ -274,7 +274,7 @@ export interface Mod {
 	// Array of mod-ids this "mod" conflicts with
 	conflicts: string[];
 	// Room for additional meta for this mod homepage github, discord, Creator...
-	meta: Record<string, string>;
+	meta: Record<string, string | undefined>;
 	downloads: DownloadMod[];
 }
 
