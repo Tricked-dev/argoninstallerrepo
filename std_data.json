@@ -11,8 +11,33 @@
 		"meta": {
 			"author": "lily & sychic",
 			"bestmod": "ofc",
-			"discord": "discord.gg/skytils"
+			"discord": "https://discord.gg/skytils"
 		},
 		"conflicts": ["betterfps"]
-	}
+	},
+	{ "download": { "modrinth": "sodium" } },
+	{ "download": { "modrinth": "indium" } },
+	{ "download": { "modrinth": "lithium" } },
+	{ "download": { "modrinth": "starlight" } },
+	{ "download": { "modrinth": "lazydfu" } },
+	{ "download": { "modrinth": "ebe" } },
+	{ "download": { "modrinth": "ferrite-core" } },
+	{ "download": { "modrinth": "dynamic-fps" } },
+	{ "download": { "modrinth": "lazy-language-loader" } },
+	{ "download": { "modrinth": "sodium-extra" } },
+	{ "download": { "modrinth": "chat-lag-fix" } },
+	{ "download": { "modrinth": "phosphor" } },
+	{ "download": { "modrinth": "krypton" } },
+	{ "download": { "modrinth": "modmanager" } },
+	{ "download": { "modrinth": "tiefix" } },
+	{ "download": { "modrinth": "borderless-mining" } },
+	{ "download": { "modrinth": "notenoughcrashes" } },
+	{ "download": { "modrinth": "brb" } },
+	{ "download": { "modrinth": "inspecio" } },
+	{ "download": { "modrinth": "compactchat" } },
+	{ "download": { "modrinth": "bobby" } },
+	{ "download": { "modrinth": "lambdynamiclights" } },
+	{ "download": { "modrinth": "lambdabettergrass" } },
+	{ "download": { "modrinth": "cull-leaves" } },
+	{ "download": { "modrinth": "fabrishot" } }
 ]

@@ -29,6 +29,7 @@ export default async () => {
 				.filter((x) => x[1].type !== 'link' && x[1].sha1)
 				.map(([k, v]) => ({
 					mcversion: k,
+					mcversions: ['1.8.9'],
 					version: v.version,
 					hash: `sha1;${v.sha1}`,
 					filename: v.name || v.download.split('/').at(-1)!,

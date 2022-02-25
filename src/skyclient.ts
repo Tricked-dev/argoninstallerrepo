@@ -66,6 +66,7 @@ export default async () => {
 			downloads: [
 				{
 					mcversion: '1.8.9',
+					mcversions: ['1.8.9'],
 					version: version || '0.1.0',
 					hash: mod.hash,
 					url: mod.url,

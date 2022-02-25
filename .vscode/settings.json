@@ -2,5 +2,6 @@
 	"deno.enable": true,
 	"deno.lint": true,
 	"deno.unstable": true,
-	"deno.path": "/home/tricked/.deno/bin/deno"
+	"deno.path": "/home/tricked/.deno/bin/deno",
+	"editor.defaultFormatter": "denoland.vscode-deno"
 }
