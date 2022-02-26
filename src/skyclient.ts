@@ -51,12 +51,13 @@ export default async () => {
 			.at(-1)!
 			.replace(';beta', '-beta')
 			.replace(';pre', '-pre');
+		const github = mod.actions?.find((x) => x.text == 'Github')?.link;
 		mods.push({
 			id: mod.id,
 			nicknames: mod.nicknames || [],
 			forgeid: mod.forge_id || mod.id,
-			display: mod.display,
-			description: mod.description,
+			display: mod.display.trim(),
+			description: mod.description.trim(),
 			icon: `https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/${
 				mod.icon || 'skyclient.png'
 			}`,
@@ -65,6 +66,10 @@ export default async () => {
 			meta: {
 				author: mod.creator,
 				body_url: mod.actions?.find((x) => x.method == 'hover')?.document,
+				src: github,
+				discord: mod.discordcode
+					? `https://discord.gg/${mod.discordcode}`
+					: undefined,
 			},
 			downloads: [
 				{

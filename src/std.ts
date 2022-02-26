@@ -132,5 +132,8 @@ export default async () => {
 			// }
 		}
 	}
-	Deno.writeTextFile('repos/std.json', JSON.stringify({ id: 'std', mods }));
+	Deno.writeTextFile(
+		'repos/std.json',
+		JSON.stringify({ id: 'std', mods }, null, 2)
+	);
 };

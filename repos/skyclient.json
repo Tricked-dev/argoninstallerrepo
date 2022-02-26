@@ -74,7 +74,8 @@
       ],
       "conflicts": [],
       "meta": {
-        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md?raw=true"
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md?raw=true",
+        "discord": "https://discord.gg/AJv5ZnNT8q"
       },
       "downloads": [
         {
@@ -96,7 +97,7 @@
       ],
       "forgeid": "insomnia",
       "display": "QOL Bundle",
-      "description": " A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, levelhead, removing Dream skins.",
+      "description": "A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, levelhead, removing Dream skins.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/skyclient.png",
       "categories": [
         "All PvP",
@@ -134,7 +135,8 @@
       "conflicts": [],
       "meta": {
         "author": "W-OVERFLOW",
-        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md?raw=true"
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md?raw=true",
+        "discord": "https://discord.gg/woverflow"
       },
       "downloads": [
         {
@@ -164,7 +166,8 @@
       ],
       "conflicts": [],
       "meta": {
-        "author": "Lily"
+        "author": "Lily",
+        "src": "https://github.com/My-Name-Is-Jeff/SkyblockClient-Updater"
       },
       "downloads": [
         {
@@ -194,7 +197,8 @@
       ],
       "conflicts": [],
       "meta": {
-        "author": "koxx12"
+        "author": "koxx12",
+        "src": "https://github.com/koxx12-dev/Skyclient-Cosmetics"
       },
       "downloads": [
         {
@@ -223,7 +227,8 @@
       ],
       "conflicts": [],
       "meta": {
-        "author": "sp614x"
+        "author": "sp614x",
+        "discord": "https://discord.gg/xGVXsgbbSt"
       },
       "downloads": [
         {
@@ -251,7 +256,8 @@
       "conflicts": [],
       "meta": {
         "author": "Sk1er LLC",
-        "body_url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/patcher.md"
+        "body_url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/patcher.md",
+        "discord": "https://discord.gg/sk1er"
       },
       "downloads": [
         {
@@ -282,7 +288,8 @@
       ],
       "conflicts": [],
       "meta": {
-        "author": "W-OVERFLOW"
+        "author": "W-OVERFLOW",
+        "discord": "https://discord.gg/woverflow"
       },
       "downloads": [
         {
@@ -309,7 +316,9 @@
       ],
       "conflicts": [],
       "meta": {
-        "author": "W-OVERFLOW"
+        "author": "W-OVERFLOW",
+        "src": "https://github.com/W-OVERFLOW/Hytilities-Reborn",
+        "discord": "https://discord.gg/woverflow"
       },
       "downloads": [
         {
@@ -338,7 +347,8 @@
       ],
       "conflicts": [],
       "meta": {
-        "author": "Sk1er LLC"
+        "author": "Sk1er LLC",
+        "discord": "https://discord.gg/sk1er"
       },
       "downloads": [
         {
@@ -369,7 +379,9 @@
       "conflicts": [],
       "meta": {
         "author": "Biscuit",
-        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/sba.md?raw=true"
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/sba.md?raw=true",
+        "src": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases",
+        "discord": "https://discord.gg/qBkzcgdPqU"
       },
       "downloads": [
         {
@@ -399,7 +411,8 @@
       ],
       "conflicts": [],
       "meta": {
-        "author": "ThatGravyBoat"
+        "author": "ThatGravyBoat",
+        "discord": "https://discord.gg/moulberry"
       },
       "downloads": [
         {
@@ -430,7 +443,9 @@
       "conflicts": [],
       "meta": {
         "author": "Moulberry",
-        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/neu.md?raw=true"
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/neu.md?raw=true",
+        "src": "https://github.com/Moulberry/NotEnoughUpdates/releases",
+        "discord": "https://discord.gg/moulberry"
       },
       "downloads": [
         {
@@ -461,7 +476,9 @@
       "conflicts": [],
       "meta": {
         "author": "DankerWanker",
-        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md?raw=true"
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md?raw=true",
+        "src": "https://github.com/bowser0000/SkyblockMod/releases",
+        "discord": "https://discord.gg/BUmywXX47M"
       },
       "downloads": [
         {
@@ -492,7 +509,9 @@
       "conflicts": [],
       "meta": {
         "author": "Sychic and Lily",
-        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/skytils.md?raw=true"
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/skytils.md?raw=true",
+        "src": "https://github.com/Skytils/SkytilsMod/releases",
+        "discord": "https://discord.gg/skytils"
       },
       "downloads": [
         {
@@ -520,7 +539,9 @@
       "conflicts": [],
       "meta": {
         "author": "BananaFructa",
-        "body_url": "https://github.com/BananaFructa/Apec/blob/master/README.md?raw=true"
+        "body_url": "https://github.com/BananaFructa/Apec/blob/master/README.md?raw=true",
+        "src": "https://github.com/BananaFructa/Apec/releases",
+        "discord": "https://discord.gg/HyvcR9a3x9"
       },
       "downloads": [
         {
@@ -551,7 +572,9 @@
       "conflicts": [],
       "meta": {
         "author": "Cow",
-        "body_url": "https://github.com/cow-mc/Cowlection/blob/master/README.md?raw=true"
+        "body_url": "https://github.com/cow-mc/Cowlection/blob/master/README.md?raw=true",
+        "src": "https://github.com/cow-mc/Cowlection/releases",
+        "discord": "https://discord.gg/HyvcR9a3x9"
       },
       "downloads": [
         {
@@ -581,7 +604,8 @@
       "conflicts": [],
       "meta": {
         "author": "Cobble8",
-        "body_url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/sbp.md"
+        "body_url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/sbp.md",
+        "discord": "https://discord.gg/KsqMmBdNBE"
       },
       "downloads": [
         {
@@ -604,7 +628,7 @@
       ],
       "forgeid": "skyblock_dungeons_guide",
       "display": "Dungeons Guide",
-      "description": " A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",
+      "description": "A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/dungeonsguide.jpg",
       "categories": [
         "All Skyblock"
@@ -612,7 +636,9 @@
       "conflicts": [],
       "meta": {
         "author": "Syeyoung",
-        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md?raw=true"
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md?raw=true",
+        "src": "https://github.com/cyoung06/Skyblock-Dungeons-Guide",
+        "discord": "https://discord.gg/dg"
       },
       "downloads": [
         {
@@ -642,7 +668,9 @@
       "conflicts": [],
       "meta": {
         "author": "_risk",
-        "body_url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/drm.md"
+        "body_url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/drm.md",
+        "src": "https://github.com/Quantizr/DungeonRoomsMod",
+        "discord": "https://discord.gg/7B5RbsArYK"
       },
       "downloads": [
         {
@@ -692,7 +720,8 @@
       "categories": [],
       "conflicts": [],
       "meta": {
-        "author": "CreativeMD"
+        "author": "CreativeMD",
+        "discord": "https://discord.gg/W9QM3fS"
       },
       "downloads": [
         {
@@ -717,7 +746,9 @@
       "categories": [],
       "conflicts": [],
       "meta": {
-        "author": "ThatGravyBoat"
+        "author": "ThatGravyBoat",
+        "src": "https://github.com/ThatGravyBoat/Craftify",
+        "discord": "https://discord.gg/wQfFucgHTX"
       },
       "downloads": [
         {
@@ -771,7 +802,8 @@
       ],
       "conflicts": [],
       "meta": {
-        "author": "Sk1er LLC"
+        "author": "Sk1er LLC",
+        "discord": "https://discord.gg/sk1er"
       },
       "downloads": [
         {
@@ -800,7 +832,8 @@
       ],
       "conflicts": [],
       "meta": {
-        "author": "Kerbybit"
+        "author": "Kerbybit",
+        "discord": "https://discord.gg/chattriggers"
       },
       "downloads": [
         {
@@ -827,7 +860,9 @@
       ],
       "conflicts": [],
       "meta": {
-        "author": "Moulberry"
+        "author": "Moulberry",
+        "src": "https://github.com/Moulberry/SBCustomMobTex/releases",
+        "discord": "https://discord.gg/moulberry"
       },
       "downloads": [
         {
@@ -852,7 +887,9 @@
       "categories": [],
       "conflicts": [],
       "meta": {
-        "author": "Deftu, Powns, Refraction, Sk1er LLC"
+        "author": "Deftu, Powns, Refraction, Sk1er LLC",
+        "src": "https://github.com/Deftu/OofMod",
+        "discord": "https://discord.gg/dFb277Kexf"
       },
       "downloads": [
         {
