@@ -112,6 +112,7 @@ export default async () => {
 					body_url: r.body_url,
 					discord: r.discord_url,
 					src: r.source_url,
+					modrinth: `https://modrinth.com/mod/${mod.download.modrinth}`,
 					author: members.map((x) => x.user.username).join(', '),
 					...(mod.meta || {}),
 				},

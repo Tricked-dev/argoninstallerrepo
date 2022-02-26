@@ -1,1 +1,1839 @@
-{"id":"std","mods":[{"id":"skytils","forgeid":"skytils","display":"Skytils","description":"Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!","meta":{"author":"lily & sychic","bestmod":"ofc","discord":"https://discord.gg/skytils"},"nicknames":["st"],"conflicts":["betterfps"],"icon":"https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/skytils.png","categories":["All Skyblock","Recommended Skyblock"],"downloads":[{"version":"1.1.2","hash":"md5;824A631123E669D5EEA24776E37F1FF8","mcversion":"1.8.9","mcversions":["1.8.9"],"url":"https://github.com/Skytils/SkytilsMod/releases/download/v1.1.2/Skytils-1.1.2.jar","filename":"Skytils-1.1.2.jar"}]},{"downloads":[{"mcversion":"1.18.1-fabric","mcversions":["1.18.1-fabric"],"version":"mc1.18.1-0.4.0-alpha6","hash":"sha1;795d4c12bffdb1b21eed5ff87c07ce5ca3c0dcbf","url":"https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar","filename":"sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar"},{"mcversion":"1.17.1-fabric","mcversions":["1.17.1-fabric"],"version":"mc1.17.1-0.3.4","hash":"sha1;85f5d67f0ce9e995e738eb6b60034bc919a1859d","url":"https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4+build.13.jar","filename":"sodium-fabric-mc1.17.1-0.3.4+build.13.jar"},{"mcversion":"1.18-fabric","mcversions":["1.18-fabric"],"version":"mc1.18-0.4.0-alpha5","hash":"sha1;1af975fd055377f419baccd1784a3b2ae252de66","url":"https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar","filename":"sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar"},{"mcversion":"1.16.5-fabric","mcversions":["1.16.5-fabric"],"version":"mc1.16.5-0.2.0","hash":"sha512;de0ec6cc85a9b90a4a2dc43ca81db962691cb95362bde8db54115c8fadf257d97fc05267832b14f2e576af4743dfde9d79e3deeea0b46b2685085fa1e21d50ee","url":"https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0+build.4.jar","filename":"sodium-fabric-mc1.16.5-0.2.0+build.4.jar"},{"mcversion":"1.16.3-fabric","mcversions":["1.16.3-fabric","1.16.4-fabric","1.16.5-fabric"],"version":"mc1.16.3-0.1.0","hash":"sha1;f3349dbd065cf75718fd0186d196e7e635e658e0","url":"https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar","filename":"sodium-fabric-mc1.16.3-0.1.0.jar"}],"id":"sodium","display":"Sodium","icon":"https://cdn.modrinth.com/data/AANobbMI/icon.png","forgeid":"sodium","nicknames":[],"description":"Modern rendering engine and client-side optimization mod for Minecraft","conflicts":[],"categories":["utility"],"meta":{"body_url":"https://cdn.modrinth.com/data/AANobbMI/description.md","discord":"https://jellysquid.me/discord","src":"https://github.com/jellysquid3/sodium-fabric","author":"jellysquid3"}},{"downloads":[{"mcversion":"1.18-fabric","mcversions":["1.18-fabric","1.18.1-fabric"],"version":"1.0.2-alpha2+mc1.18.1","hash":"sha1;111912f57b1edd769b19c24419390db0652fd0c6","url":"https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.2-alpha2+mc1.18.1/indium-1.0.2-alpha2+mc1.18.1.jar","filename":"indium-1.0.2-alpha2+mc1.18.1.jar"},{"mcversion":"1.17.1-fabric","mcversions":["1.17.1-fabric"],"version":"1.0.1+mc1.17.1","hash":"sha512;d0aabd5ac37911aba79cda17dff9caecb21253e76e19dbf3b72a43f45e1c2ef4083a8ee15bfc57852842afdb12e10a6481032943315ab698e96fb3d238285e51","url":"https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.1+mc1.17.1/indium-1.0.1+mc1.17.1.jar","filename":"indium-1.0.1+mc1.17.1.jar"},{"mcversion":"1.16.5-fabric","mcversions":["1.16.5-fabric"],"version":"1.0.0+mc1.16.5","hash":"sha512;c2abb988a3a5f6a487c26f65ea80c3c7d5830dc9f1078b2e00f8dd07727c9b9287de690005b2cd8848e01a8012a0ab508a3bcb4c92f83a0afe17bbe5d56dc5c6","url":"https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.0+mc1.16.5/indium-1.0.0+mc1.16.5.jar","filename":"indium-1.0.0+mc1.16.5.jar"}],"id":"indium","display":"Indium","icon":"https://cdn.modrinth.com/data/Orvt0mRa/icon.png","forgeid":"indium","nicknames":[],"description":"Sodium addon providing support for the Fabric Rendering API, based on Indigo","conflicts":[],"categories":["utility"],"meta":{"body_url":null,"discord":null,"src":"https://github.com/comp500/Indium","author":"comp500"}},{"downloads":[{"mcversion":"1.18.1-fabric","mcversions":["1.18.1-fabric"],"version":"mc1.18.1-0.7.8","hash":"sha1;8b7cd216fee54b9acc261005cae5acbc856b1933","url":"https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.8/lithium-fabric-mc1.18.1-0.7.8.jar","filename":"lithium-fabric-mc1.18.1-0.7.8.jar"},{"mcversion":"1.18-fabric","mcversions":["1.18-fabric"],"version":"mc1.18-0.7.6-rc1","hash":"sha1;2190e753bdd33f48213ef5085908a9470622cbf0","url":"https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18-0.7.6-rc1/lithium-fabric-mc1.18-0.7.6-rc1.jar","filename":"lithium-fabric-mc1.18-0.7.6-rc1.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric"],"version":"mc1.17.1-0.7.5","hash":"sha1;f96f5d92136c51ffab451542ba6319f17ca1d762","url":"https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17.1-0.7.5/lithium-fabric-mc1.17.1-0.7.5.jar","filename":"lithium-fabric-mc1.17.1-0.7.5.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric"],"version":"mc1.17-0.7.2","hash":"sha512;ca6b619a6399c9edba99ef70a73f9836ba3dab27dc335f8d709ef732b2121855f245c0bb82dbcffa6932ae2965e9f2ec8b86d3ef3215af2afcaf9fbb8e109bc1","url":"https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17-0.7.2/lithium-fabric-mc1.17-0.7.2.jar","filename":"lithium-fabric-mc1.17-0.7.2.jar"},{"mcversion":"1.16.2-fabric","mcversions":["1.16.2-fabric","1.16.3-fabric","1.16.4-fabric","1.16.5-fabric"],"version":"mc1.16.5-0.6.6","hash":"sha512;bb2dd085a6c5fcf86ba9a63d680fb5144a5788efe9c00a9417d978722dbb84163e47bb545c310869647924dad89bcfe2bbe04cd64476b304eada914083e5c094","url":"https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.6/lithium-fabric-mc1.16.5-0.6.6.jar","filename":"lithium-fabric-mc1.16.5-0.6.6.jar"},{"mcversion":"1.16.4-fabric","mcversions":["1.16.4-fabric"],"version":"mc1.16.4-0.6.0","hash":"sha1;6ab1c5adc97ab0c66f9c9afcdb1d143a607db82c","url":"https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.4-0.6.0/lithium-fabric-mc1.16.4-0.6.0.jar","filename":"lithium-fabric-mc1.16.4-0.6.0.jar"}],"id":"lithium","display":"Lithium","icon":"https://cdn.modrinth.com/data/gvQqBUqZ/icon.png","forgeid":"lithium","nicknames":[],"description":"No-compromises game logic/server optimization mod","conflicts":[],"categories":["utility"],"meta":{"body_url":"https://cdn.modrinth.com/data/gvQqBUqZ/description.md","discord":"https://jellysquid.me/discord","src":"https://github.com/jellysquid3/lithium-fabric","author":"jellysquid3, 2No2Name"}},{"downloads":[{"mcversion":"1.18-fabric","mcversions":["1.18-fabric","1.18.1-fabric"],"version":"Starlight 1.0.0 1.18.x","hash":"sha1;743b14918588186cae2117d1a9684b400939e6f8","url":"https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.18.x/starlight-1.0.0+fabric.d0a3220.jar","filename":"starlight-1.0.0+fabric.d0a3220.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric"],"version":"Starlight 1.0.0 1.17.x","hash":"sha512;e2308963e019f030b804e787f9996044e12a63436754def273b79063b1ba3c99dc7311acbe99edab9dab290da97a75ac67e99715f485bc04d9e13e75a6a6644e","url":"https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.17.x/starlight-1.0.0+fabric.73f6d37.jar","filename":"starlight-1.0.0+fabric.73f6d37.jar"}],"id":"starlight","display":"Starlight (Fabric)","icon":"https://cdn.modrinth.com/data/H8CaAYZC/icon.png","forgeid":"starlight","nicknames":[],"description":"Rewrites the light engine to fix lighting performance and lighting errors","conflicts":[],"categories":["misc"],"meta":{"body_url":null,"discord":"https://discord.gg/tuinity","src":"https://github.com/PaperMC/Starlight","author":"spottedleaf"}},{"downloads":[{"mcversion":"1.14-fabric","mcversions":["1.14-fabric","1.14.1-fabric","1.14.2-fabric","1.14.3-fabric","1.14.4-fabric","1.15-fabric","1.15.1-fabric","1.15.2-fabric","1.16-fabric","1.16.1-fabric","1.16.2-fabric","1.16.3-fabric","1.16.4-fabric","1.16.5-fabric","1.17-fabric","1.17.1-fabric","1.18-fabric","1.18.1-fabric"],"version":"0.1.2","hash":"sha512;20b1cd3e62051c7d7498ecdc49912acb918fc4748d469c67c078cc97197289760e64b9339a4d4a03d175f648c8be8601d131776a9a6bdb8832cecdda6fc46498","url":"https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar","filename":"lazydfu-0.1.2.jar"},{"mcversion":"1.16.4-fabric","mcversions":["1.16.4-fabric","1.16.5-fabric"],"version":"0.1.1","hash":"sha1;c5c2fe768a4839ab7ca27a13c03bdc8704fbe08d","url":"https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.1/lazydfu-0.1.1.jar","filename":"lazydfu-0.1.1.jar"},{"mcversion":"1.16.4-fabric","mcversions":["1.16.4-fabric"],"version":"0.1.0","hash":"sha1;9794c68fb28cc8dcd8ca1e6d1b2c3cc86fc9d9f0","url":"https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.0/lazydfu-0.1.0.jar","filename":"lazydfu-0.1.0.jar"}],"id":"lazydfu","display":"LazyDFU","icon":"https://cdn.modrinth.com/data/hvFnDODi/icon.png","forgeid":"lazydfu","nicknames":[],"description":"Makes the initialization of DataFixerUpper \"lazy\", making the game start more quickly","conflicts":[],"categories":["utility","misc"],"meta":{"body_url":"https://cdn.modrinth.com/data/hvFnDODi/description.md","discord":"https://discord.gg/RUGArxEQ8J","src":"https://github.com/astei/lazydfu","author":"astei"}},{"downloads":[{"mcversion":"1.18-fabric","mcversions":["1.18-fabric"],"version":"0.5+1.18","hash":"sha512;d51b4515e2ad01efda2911d02888ae7e7c211ca9d9cace5d5b816eb839e125aff974cfea9791bfd122869269ebc6a216116240a34c563504fa1f0ff494d6b034","url":"https://cdn.modrinth.com/data/OVuFYfre/versions/0.5+1.18/enhancedblockentities-0.5+1.18.jar","filename":"enhancedblockentities-0.5+1.18.jar"},{"mcversion":"1.17.1-fabric","mcversions":["1.17.1-fabric"],"version":"0.5+1.17","hash":"sha512;1ed90636fe89e53ee46fff6505b3a7a622a5613e04aef872f30d7dc3f758995c4a5c55c6d572a378c1097a829767db34d25cc83f04020bfba8828fc2ef8ea9f1","url":"https://cdn.modrinth.com//data/OVuFYfre/versions/0.5+1.17/enhancedblockentities-0.5+1.17.jar","filename":"enhancedblockentities-0.5+1.17.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric"],"version":"0.4.1+1.17","hash":"sha512;c67ae2a48243b61ca3d065c3e541391418f67767ecd3d45685f13584887601091234d44b0ea0069e69b42e1fe30fd92faf8539e546380639b8532b7f3e6940c8","url":"https://cdn.modrinth.com/data/OVuFYfre/versions/0.4.1+1.17/enhancedblockentities-0.4.1+1.17.jar","filename":"enhancedblockentities-0.4.1+1.17.jar"},{"mcversion":"1.16.5-fabric","mcversions":["1.16.5-fabric"],"version":"0.4","hash":"sha1;5b815b595ac5e40123845e1bb03c95392ad1a7dd","url":"https://cdn.modrinth.com/data/OVuFYfre/versions/0.4/enhancedblockentities-0.4--1.16.x.jar","filename":"enhancedblockentities-0.4--1.16.x.jar"},{"mcversion":"1.16.2-fabric","mcversions":["1.16.2-fabric","1.16.3-fabric","1.16.4-fabric","1.16.5-fabric"],"version":"0.1","hash":"sha512;e0425b863dbed993ef6bfc773bdec74d5d1d6a580bf9b315ba8afc944df4db53c5f69d84e872a81d94d18b103476a320b8f0979fd15f8581b161c7d77281f994","url":"https://cdn.modrinth.com/data/OVuFYfre/versions/0.1/enhancedblockentities-0.1--1.16.x.jar","filename":"enhancedblockentities-0.1--1.16.x.jar"}],"id":"ebe","display":"Enhanced Block Entities","icon":"https://cdn.modrinth.com/data/OVuFYfre/icon.png","forgeid":"ebe","nicknames":[],"description":"Reduce FPS lag with block entities, as well as customize them with resource packs","conflicts":[],"categories":["utility","misc"],"meta":{"body_url":null,"discord":"https://discord.gg/7Aw3y4RtY9","src":"https://github.com/FoundationGames/EnhancedBlockEntities","author":"FoundationGames"}},{"downloads":[{"mcversion":"1.18.1-fabric","mcversions":["1.18.1-fabric"],"version":"4.1.2","hash":"sha512;55481188d960ad1426fde990ca75cde453fee596fd3c745a402a35620128d93657e3ba3b126ad58c31846918ccce17eea66f0167c3f6141ad877b9862ab9910c","url":"https://cdn.modrinth.com/data/uXXizFIs/versions/4.1.2/ferritecore-4.1.2-fabric.jar","filename":"ferritecore-4.1.2-fabric.jar"},{"mcversion":"1.18-fabric","mcversions":["1.18-fabric"],"version":"4.0.0","hash":"sha1;e29e1f3991ea94a161eebd9faf68f9d489d588f3","url":"https://cdn.modrinth.com/data/uXXizFIs/versions/4.0.0/ferritecore-4.0.0-fabric.jar","filename":"ferritecore-4.0.0-fabric.jar"},{"mcversion":"1.16.5-fabric","mcversions":["1.16.5-fabric"],"version":"2.1.0","hash":"sha1;3ebad2a2f420d34069dd1799ed6dd809652aeb3e","url":"https://cdn.modrinth.com/data/uXXizFIs/versions/2.1.0/ferritecore-2.1.0-fabric.jar","filename":"ferritecore-2.1.0-fabric.jar"},{"mcversion":"1.17.1-fabric","mcversions":["1.17.1-fabric"],"version":"3.1.0","hash":"sha1;33459a6f05597428405c398a9acf3f278e1d8806","url":"https://cdn.modrinth.com/data/uXXizFIs/versions/3.1.0/ferritecore-3.1.0-fabric.jar","filename":"ferritecore-3.1.0-fabric.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric"],"version":"3.0.1","hash":"sha512;da299e3de25d3f1cd601c73431014939a32ea1c495a5720d5125b502bd353299381941c72463f7dd1b3894a140df0bb9c78c64a006bea7a5f6f7f37919bae354","url":"https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.1/ferritecore-3.0.1-fabric.jar","filename":"ferritecore-3.0.1-fabric.jar"}],"id":"ferrite-core","display":"FerriteCore","icon":"https://cdn.modrinth.com/data/uXXizFIs/icon.jpg","forgeid":"ferrite-core","nicknames":[],"description":"Memory usage optimizations","conflicts":[],"categories":["utility"],"meta":{"body_url":null,"discord":null,"src":"https://github.com/malte0811/FerriteCore","author":"malte0811"}},{"downloads":[{"mcversion":"1.18.1-fabric","mcversions":["1.18.1-fabric"],"version":"v2.1.0","hash":"sha1;d4ffc71b2f0ea01b9a6242c23faace5cdc72d947","url":"https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.1.0/dynamic-fps-2.1.0.jar","filename":"dynamic-fps-2.1.0.jar"},{"mcversion":"1.17.1-fabric","mcversions":["1.17.1-fabric","1.18-fabric"],"version":"v2.0.6","hash":"sha512;f0bf0e0e75aa95e4f60b2d27ebb6d1c19e9357104e5591f2938f54df8b3457fe52da6b9d666108293d543e4de533dd3f46e9fb42e4f0fbfb42871b6aeb327fc7","url":"https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.6/dynamic-fps-2.0.6.jar","filename":"dynamic-fps-2.0.6.jar"},{"mcversion":"1.17.1-fabric","mcversions":["1.17.1-fabric"],"version":"v2.0.5","hash":"sha1;07eab9095517baedb1ba8426310e7fa66fd9747d","url":"https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.5/dynamic-fps-2.0.5.jar","filename":"dynamic-fps-2.0.5.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-pre1-fabric"],"version":"v2.0.4","hash":"sha1;a172c61df0a4deffa669d19f7dd83282b2ea0210","url":"https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.4/dynamic-fps-2.0.4.jar","filename":"dynamic-fps-2.0.4.jar"},{"mcversion":"1.16.5-fabric","mcversions":["1.16.5-fabric"],"version":"v2.0.2","hash":"sha1;1b080f859e529dbe87a0b5d7c71adfbb6bca5db4","url":"https://cdn.modrinth.com/data/LQ3K71Q1/versions/2.0.2/dynamic-fps-2.0.2.jar","filename":"dynamic-fps-2.0.2.jar"},{"mcversion":"1.16.2-fabric","mcversions":["1.16.2-fabric","1.16.3-rc1-fabric","1.16.3-fabric","1.16.4-pre1-fabric","1.16.4-pre2-fabric","1.16.4-rc1-fabric","1.16.4-fabric","20w45a-fabric","20w46a-fabric","20w48a-fabric","20w49a-fabric","20w51a-fabric","1.16.5-rc1-fabric","1.16.5-fabric","21w03a-fabric"],"version":"v2.0.1","hash":"sha1;672904fc5332f7064db872635549b63a10444f59","url":"https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.1/dynamic-fps-2.0.1.jar","filename":"dynamic-fps-2.0.1.jar"},{"mcversion":"1.16.2-fabric","mcversions":["1.16.2-fabric","1.16.3-rc1-fabric","1.16.3-fabric","1.16.4-pre1-fabric","1.16.4-pre2-fabric","1.16.4-rc1-fabric","1.16.4-fabric","20w45a-fabric","20w46a-fabric","20w48a-fabric","20w49a-fabric","20w51a-fabric","1.16.5-rc1-fabric","1.16.5-fabric"],"version":"v2.0.0","hash":"sha1;972a09c66b164dd77e97524e06fc16904a859863","url":"https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.0/dynamic-fps-2.0.0.jar","filename":"dynamic-fps-2.0.0.jar"},{"mcversion":"1.16.2-pre1-fabric","mcversions":["1.16.2-pre1-fabric","1.16.2-pre2-fabric","1.16.2-pre3-fabric","1.16.2-rc1-fabric","1.16.2-rc2-fabric","1.16.2-fabric","1.16.3-rc1-fabric","1.16.3-fabric","1.16.4-pre1-fabric","1.16.4-pre2-fabric","1.16.4-rc1-fabric","1.16.4-fabric","20w45a-fabric","20w46a-fabric","20w48a-fabric","20w49a-fabric","20w51a-fabric"],"version":"v1.2.1","hash":"sha1;2103fd47a4ee86087e908df34eacdcb0bc271d09","url":"https://cdn.modrinth.com/data/LQ3K71Q1/versions/v1.2.1/dynamic-fps-1.2.1.jar","filename":"dynamic-fps-1.2.1.jar"}],"id":"dynamic-fps","display":"Dynamic FPS","icon":"https://cdn.modrinth.com/data/LQ3K71Q1/icon.png","forgeid":"dynamic-fps","nicknames":[],"description":"Improve performance when Minecraft is in the background.","conflicts":[],"categories":["utility"],"meta":{"body_url":"https://cdn.modrinth.com/data/LQ3K71Q1/description.md","discord":null,"src":"https://github.com/juliand665/Dynamic-FPS","author":"juliand665"}},{"downloads":[{"mcversion":"1.18-pre1-fabric","mcversions":["1.18-pre1-fabric","1.18-pre2-fabric","1.18-pre3-fabric","1.18-pre4-fabric","1.18-pre5-fabric","1.18-pre6-fabric","1.18-pre7-fabric","1.18-pre8-fabric","1.18-rc1-fabric","1.18-rc2-fabric","1.18-rc3-fabric","1.18-rc4-fabric","1.18-fabric","1.18.1-pre1-fabric","1.18.1-rc1-fabric","1.18.1-rc2-fabric","1.18.1-rc3-fabric","1.18.1-fabric"],"version":"0.2.6","hash":"sha1;c4f0e2b5f346d59b532133e03570521fa2a74b2c","url":"https://cdn.modrinth.com/data/Nz0RSWrF/versions/0.2.6/lazy-language-loader-0.2.6.jar","filename":"lazy-language-loader-0.2.6.jar"},{"mcversion":"1.18-pre1-fabric","mcversions":["1.18-pre1-fabric","1.18-pre2-fabric","1.18-pre3-fabric","1.18-pre4-fabric","1.18-pre5-fabric","1.18-pre6-fabric","1.18-pre7-fabric","1.18-pre8-fabric","1.18-rc1-fabric","1.18-rc2-fabric","1.18-rc3-fabric","1.18-rc4-fabric","1.18-fabric"],"version":"0.2.5","hash":"sha1;feb136c022099b73a7f28adc996ac83add7929e7","url":"https://cdn.modrinth.com/data/Nz0RSWrF/versions/0.2.5/lazy-language-loader-0.2.5.jar","filename":"lazy-language-loader-0.2.5.jar"},{"mcversion":"1.18-fabric","mcversions":["1.18-fabric"],"version":"0.2.3","hash":"sha512;c0a698232c552e479e8640a41b1d0c464c3e3420be53f146c0723cfcb1e1e56c0c5efd2673008844702a715ee9618b85264b294cdee72c6daa2086bb69e469af","url":"https://cdn.modrinth.com/data/Nz0RSWrF/versions/0.2.3/lazy-language-loader-0.2.3.jar","filename":"lazy-language-loader-0.2.3.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric"],"version":"0.2.2","hash":"sha512;f7c05370b23cfbc6c3467591d6588085ba03ff564ac69116d726289f2b940f4e6da11d4e0e6254b72e6d242477ddaf67ab448cdf4af37948e7a08da419f78738","url":"https://cdn.modrinth.com/data/Nz0RSWrF/versions/0.2.2/lazy-language-loader-0.2.2.jar","filename":"lazy-language-loader-0.2.2.jar"}],"id":"lazy-language-loader","display":"lazy-language-loader","icon":"https://cdn.modrinth.com/data/Nz0RSWrF/icon.png","forgeid":"lazy-language-loader","nicknames":[],"description":"lazy-language-loader improves loading times when changing your language by only reloading the language instead of all the game resources!","conflicts":[],"categories":["utility"],"meta":{"body_url":null,"discord":"https://discord.gg/XAjvZ8GvPy","src":"https://github.com/ChachyDev/lazy-language-loader","author":"chachy"}},{"downloads":[{"mcversion":"1.18.1-fabric","mcversions":["1.18.1-fabric"],"version":"mc1.18.1-0.4.0","hash":"sha512;9bdbfdb69591ba095d51d7041b2c6e62e9f2c502a654f2d89f2e02332c609383eb9420f4a8956021f31b433721c66686b4645e133c8416b9c6662b536eb1a426","url":"https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.1-0.4.0/sodium-extra-mc1.18.1-0.4.0.jar","filename":"sodium-extra-mc1.18.1-0.4.0.jar"},{"mcversion":"1.17.1-fabric","mcversions":["1.17.1-fabric"],"version":"mc1.17.1-0.4.0","hash":"sha512;9fed6d56c3f86ef192a7fb9d0e123769571e6f3885bebe2c8f16b55193a7080dc56c393827d657b8bc20d0fa3b494ef99d886f381aadc339b2a15d67cec1b817","url":"https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.4.0/sodium-extra-mc1.17.1-0.4.0.jar","filename":"sodium-extra-mc1.17.1-0.4.0.jar"},{"mcversion":"1.16.5-fabric","mcversions":["1.16.5-fabric"],"version":"mc1.16.5-0.4.0","hash":"sha512;230f8fa913302936aaa4f0f8251805c5e0958eaa4c539f5a6e3818ad1873720562a15705bd51ee3f2a163ed56b02752cc79bede1bbf296dac4b66627e380ced5","url":"https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.4.0/sodium-extra-mc1.16.5-0.4.0.jar","filename":"sodium-extra-mc1.16.5-0.4.0.jar"},{"mcversion":"1.18-fabric","mcversions":["1.18-fabric"],"version":"mc1.18-0.3.7","hash":"sha1;058b2d44f3f34215144c3c7efa306b7cc869ca21","url":"https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18-0.3.7/sodium-extra-mc1.18-0.3.7.jar","filename":"sodium-extra-mc1.18-0.3.7.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric"],"version":"mc1.17.1-0.3.6","hash":"sha1;8f311773c7bdea75456379990b4486955b8bfcb3","url":"https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.3.6/sodium-extra-mc1.17.1-0.3.6.jar","filename":"sodium-extra-mc1.17.1-0.3.6.jar"},{"mcversion":"1.16.2-fabric","mcversions":["1.16.2-fabric","1.16.3-fabric","1.16.4-fabric","1.16.5-fabric"],"version":"0.3.2","hash":"sha512;44ac3d1a0ab59c2c0600d7b357474ae9f4f6e00448cc4d84272b8412fb63a88262707147d0ea1402941abeaab3c893ab1b9981b2bac836649e0277172ef46780","url":"https://cdn.modrinth.com/data/PtjYWJkn/versions/0.3.2/sodium-extra-0.3.2.jar","filename":"sodium-extra-0.3.2.jar"}],"id":"sodium-extra","display":"Sodium Extra","icon":"https://cdn.modrinth.com/data/PtjYWJkn/icon.png","forgeid":"sodium-extra","nicknames":[],"description":"Features that shouldn't be in Sodium.","conflicts":[],"categories":["misc","cursed"],"meta":{"body_url":null,"discord":"https://discord.gg/TBGGM9VzH9","src":"https://github.com/FlashyReese/sodium-extra-fabric","author":"FlashyReese"}},{"downloads":[{"mcversion":"1.16.4-fabric","mcversions":["1.16.4-fabric","1.16.5-fabric","1.17-fabric","1.17.1-fabric"],"version":"mc1.17-2.1.0","hash":"sha512;91fc902780f6f5ab38e0abb4fb5f96d8a93e1f1f55d7bb8cec422c5a3b625c4cf63bc06e929dbce401b584d8869f1af3fc97891e2c43839d628596ec1de3c3d2","url":"https://cdn.modrinth.com/data/fKi1znuF/versions/2.1.0/chatlagfix-1.16.5+1.17.1-2.1.0.jar","filename":"chatlagfix-1.16.5+1.17.1-2.1.0.jar"},{"mcversion":"1.16.4-fabric","mcversions":["1.16.4-fabric","1.16.5-fabric"],"version":"mc1.16.5-2.0.2","hash":"sha1;264f1fdeda9c891e0eaeabbd2d937e4c0f76c52e","url":"https://cdn.modrinth.com/data/fKi1znuF/versions/mc1.16.5-2.0.2/chatlagfix-1.16.5-2.0.2-0.11.3.jar","filename":"chatlagfix-1.16.5-2.0.2-0.11.3.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric"],"version":"mc1.17.x-2.0.2","hash":"sha512;f2544d29a8a6b152482463c676ba112362ae867d22118683b023e257d31c5640a8ab02b9cbe7db7929c86b9ed9ff1a9c6020604fcdfd92a07f3583c6258a4ca2","url":"https://cdn.modrinth.com/data/fKi1znuF/versions/mc1.17.x-2.0.2/chatlagfix-1.17.1-2.0.2-java16.jar","filename":"chatlagfix-1.17.1-2.0.2-java16.jar"},{"mcversion":"1.18-fabric","mcversions":["1.18-fabric","1.18.1-fabric"],"version":"mc1.18.x-2.0.2","hash":"sha1;2d9e53540115b20276d9312cdbf3b27c0e52f86a","url":"https://cdn.modrinth.com/data/fKi1znuF/versions/2.0.2/chatlagfix-1.18.1-2.0.2.jar","filename":"chatlagfix-1.18.1-2.0.2.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric","1.18-fabric","1.18.1-fabric"],"version":"1.0.0","hash":"sha1;675497138d58c3fe0f53aaddd17a8dce98ecbc36","url":"https://cdn.modrinth.com/data/fKi1znuF/versions/1.0.0/chatlagfix-1.0.0.jar","filename":"chatlagfix-1.0.0.jar"}],"id":"chat-lag-fix","display":"Chat Lag Fix","icon":"https://cdn.modrinth.com/data/fKi1znuF/icon.png","forgeid":"chat-lag-fix","nicknames":[],"description":" Fixes Minecraft client lag from receiving chat messages (for 1.17 and 1.16)","conflicts":[],"categories":["utility","misc"],"meta":{"body_url":null,"discord":null,"src":"https://github.com/adryd325/chat-lag-fix","author":"adryd"}},{"downloads":[{"mcversion":"1.18-fabric","mcversions":["1.18-fabric","1.18.1-fabric"],"version":"mc1.18.x-0.8.1","hash":"sha512;6a06f397f5f054f12334b81251dbdbd9c82c7e4e41810d6708a9d40966da113560c6f23e95f6f5ed52cfe1e843f7f71910a84b2bb476354456ff11be668a4c1d","url":"https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.18.x-0.8.1/phosphor-fabric-mc1.18.x-0.8.1.jar","filename":"phosphor-fabric-mc1.18.x-0.8.1.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric"],"version":"mc1.17.x-0.8.0","hash":"sha1;7aed0f69363e18c46181eda687bcef2a43be7afc","url":"https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.17.x-0.8.0/phosphor-fabric-mc1.17.x-0.8.0.jar","filename":"phosphor-fabric-mc1.17.x-0.8.0.jar"},{"mcversion":"1.16.2-fabric","mcversions":["1.16.2-fabric","1.16.3-fabric","1.16.4-fabric","1.16.5-fabric"],"version":"mc1.16.2-0.8.0","hash":"sha1;c7ef5fcea309236b3e6fade31b58eadbb7acdf26","url":"https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.16.2-0.8.0/phosphor-fabric-mc1.16.2-0.8.0.jar","filename":"phosphor-fabric-mc1.16.2-0.8.0.jar"},{"mcversion":"1.16.3-fabric","mcversions":["1.16.3-fabric","1.16.4-fabric","1.16.5-fabric"],"version":"mc1.16.3-0.7.0","hash":"sha1;69fb09eecc4d3e9e273a986228df38bc4d8dd8a3","url":"https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.16.3-0.7.0/phosphor-fabric-mc1.16.3-0.7.0+build.10.jar","filename":"phosphor-fabric-mc1.16.3-0.7.0+build.10.jar"}],"id":"phosphor","display":"Phosphor","icon":"https://cdn.modrinth.com/data/hEOCdOgW/icon.png","forgeid":"phosphor","nicknames":[],"description":"No-compromises lighting engine optimization mod","conflicts":[],"categories":["utility"],"meta":{"body_url":"https://cdn.modrinth.com/data/hEOCdOgW/description.md","discord":"https://jellysquid.me/discord","src":"https://github.com/jellysquid3/phosphor-fabric","author":"PhiPro95, jellysquid3"}},{"downloads":[{"mcversion":"1.18.1-fabric","mcversions":["1.18.1-fabric"],"version":"0.1.6","hash":"sha512;2e3548f3fb24e186090dc203ecc500df82b1eec2c3300f772f9622b6050be8b7edef71b91c4f99b4c2bcd201ff83fadf363c227a21d4f24f776b93dccaa477d5","url":"https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.6/krypton-0.1.6.jar","filename":"krypton-0.1.6.jar"},{"mcversion":"1.17.1-fabric","mcversions":["1.17.1-fabric"],"version":"0.1.4","hash":"sha512;11caa7034af4b3902da46467e00fe734b5266817d7d312815ea23d3cb1d6ab6a9959625138b70e79dc70ff872fe066e8358c7c5cd1cb8cfa8099a08f26531481","url":"https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.4/krypton-0.1.4.jar","filename":"krypton-0.1.4.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric"],"version":"0.1.3","hash":"sha512;1fe3029f78ae02e4fef523923f722229fb9439e9881b657932a9cef4839f2d3cf3e3ee7cdfe17418fbbffbd73cfedbc920562b9429be2c0efecbc9af052074cf","url":"https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.3/krypton-0.1.3.jar","filename":"krypton-0.1.3.jar"},{"mcversion":"1.16.2-fabric","mcversions":["1.16.2-fabric","1.16.3-fabric","1.16.4-fabric","1.16.5-fabric"],"version":"0.1.2","hash":"sha512;36fd6bd5a963bdb8f1472b2d1f7ac34a2044f644c7911570ce374665e1de24ef31793b5cd5421222f9e6b4eaa851e1e6358658b306d20df71b8c79a93984710c","url":"https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.2/krypton-0.1.2.jar","filename":"krypton-0.1.2.jar"},{"mcversion":"1.16.2-fabric","mcversions":["1.16.2-fabric","1.16.3-fabric","1.16.4-fabric"],"version":"0.1.0","hash":"sha1;7223fb36de43f0fcfbc6c74bbfb8c334a17262de","url":"https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.0/krypton-0.1.0.jar","filename":"krypton-0.1.0.jar"}],"id":"krypton","display":"Krypton","icon":"https://cdn.modrinth.com/data/fQEb0iXm/icon.png","forgeid":"krypton","nicknames":[],"description":"A mod to optimize the Minecraft networking stack","conflicts":[],"categories":["utility","misc"],"meta":{"body_url":"https://cdn.modrinth.com/data/fQEb0iXm/description.md","discord":"https://discord.gg/RUGArxEQ8J","src":"https://github.com/astei/krypton","author":"astei"}},{"downloads":[{"mcversion":"1.16-fabric","mcversions":["1.16-fabric"],"version":"1.2.2+1.16","hash":"sha512;52f6afb67db0f5fbcbaa919fe8a944aa63273280b8e1c03f079e4321340d55372be414ec9f6128af48d045f4a80c0c8309cd118460d1b7e17787eec86d2e7e20","url":"https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.2+1.16/modmanager-1.2.2+1.16.jar","filename":"modmanager-1.2.2+1.16.jar"},{"mcversion":"1.18-fabric","mcversions":["1.18-fabric"],"version":"1.2.2+1.18","hash":"sha1;ecf4da053cc570500eaf17e478e331277397f7d0","url":"https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.2+1.18/modmanager-1.2.2+1.18.jar","filename":"modmanager-1.2.2+1.18.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric"],"version":"1.2.2+1.17","hash":"sha512;f58d430c921f2c011b1b8a8abfc1e87917075a0328272e72f5c04e30e3bb1bf01b41df89abacc3c70f289e2fd4aec62c8ed1b8e07c4e6750ef52ff02ff0814c3","url":"https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.2+1.17/modmanager-1.2.2+1.17.jar","filename":"modmanager-1.2.2+1.17.jar"},{"mcversion":"1.18-pre6-fabric","mcversions":["1.18-pre6-fabric"],"version":"1.2.0+1.18","hash":"sha512;4083df1aa0e239658cb8816b1437849787e37038499d69a51dc27e946986778c60cccf8ae59f09b6c916b07b25b388a3861fd83091f2f0af7d35270b78837fe5","url":"https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.0+1.18/modmanager-1.2.0+1.18.jar","filename":"modmanager-1.2.0+1.18.jar"},{"mcversion":"1.17.1-fabric","mcversions":["1.17.1-fabric"],"version":"1.2.0-alpha+1.17","hash":"sha1;451320c4125ad9ec24ca126e38bfa89e0811b52d","url":"https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.0-alpha+1.17/modmanager-1.2.0-alpha+1.17.jar","filename":"modmanager-1.2.0-alpha+1.17.jar"}],"id":"modmanager","display":"Mod Manager","icon":"https://cdn.modrinth.com/data/6kq7BzRK/icon.png","forgeid":"modmanager","nicknames":[],"description":"An extension for Mod Menu which allows you to manage your mods ingame","conflicts":[],"categories":["utility","misc"],"meta":{"body_url":null,"discord":null,"src":"https://github.com/ModManagerMC/ModManager","author":"DeathsGun"}},{"downloads":[{"mcversion":"1.18.1-fabric","mcversions":["1.18.1-fabric"],"version":"1.9.0","hash":"sha512;324dd9fcefcb05aca112c28053806847315e5a304db4fcaec0f5d5c4c032b1ed6f038aad92a81c603b92e9d200e56fd7cf3c66686ed3c9926d51c6c42bc3bad7","url":"https://cdn.modrinth.com/data/jxuxsA0D/versions/1.9.0/TieFix-1.9.0.jar","filename":"TieFix-1.9.0.jar"},{"mcversion":"1.18-fabric","mcversions":["1.18-fabric","1.18.1-fabric"],"version":"1.8.0","hash":"sha512;00cb8981f58f9ba4e1929e4c7e5864c6015e2d2e3eeab7d315e4fa436b8d5332854714277b175b0a89251f06bca11e3bee0f0bcbb2deb15c129eabc8609567b0","url":"https://cdn.modrinth.com/data/jxuxsA0D/versions/1.8.0/TieFix-1.8.0.jar","filename":"TieFix-1.8.0.jar"},{"mcversion":"1.18-fabric","mcversions":["1.18-fabric"],"version":"1.6.0","hash":"sha1;ef91a4307413fa142d36280a6c6c7537b4e6109d","url":"https://cdn.modrinth.com/data/jxuxsA0D/versions/1.6.0/TieFix-1.6.0.jar","filename":"TieFix-1.6.0.jar"}],"id":"tiefix","display":"TieFix","icon":"https://cdn.modrinth.com/data/jxuxsA0D/icon.png","forgeid":"tiefix","nicknames":[],"description":"Fixes some annoying bugs in the Minecraft client","conflicts":[],"categories":["utility","misc"],"meta":{"body_url":null,"discord":null,"src":"https://github.com/j-tai/TieFix","author":"j-tai"}},{"downloads":[{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric"],"version":"1.1.1+1.17","hash":"sha512;de5c8baeb5b7e24ff5a5c8b727bc7f8f19fb068b0cece153c860c77077352575ab9a87dd1c2ef3c21fc9a62a50da3553807abd5602dfe1c3a0351f608db16fe5","url":"https://cdn.modrinth.com/data/kYq5qkSL/versions/1.1.1+1.17/borderless-mining-1.1.1+1.17.jar","filename":"borderless-mining-1.1.1+1.17.jar"},{"mcversion":"1.18-fabric","mcversions":["1.18-fabric","1.18.1-fabric"],"version":"1.1.1+1.18","hash":"sha512;c8fe6e15ddea32668822dddb26e1851e5f03834be4bcb2eff9c0da7fdc086a9b6cead78e31a44d3bc66335cba11144ee0337c6d5346f1ba63623064499b3188d","url":"https://cdn.modrinth.com/data/kYq5qkSL/versions/1.1.1+1.18/borderless-mining-1.1.1+1.18.jar","filename":"borderless-mining-1.1.1+1.18.jar"},{"mcversion":"1.18-fabric","mcversions":["1.18-fabric"],"version":"1.1.0+1.18","hash":"sha512;c9e784012d744ddb2fc1bb42fd5577a0fd8dffb6c1690ca8bf048ed0767becb2e5439aa708af5666ac80ebb7132a7b9d9e7694cf4849b658a150db21de25dfe7","url":"https://cdn.modrinth.com/data/kYq5qkSL/versions/1.1.0+1.18/borderless-mining-1.1.0+1.18.jar","filename":"borderless-mining-1.1.0+1.18.jar"},{"mcversion":"1.16.2-fabric","mcversions":["1.16.2-fabric","1.16.3-fabric","1.16.4-fabric","1.16.5-fabric"],"version":"1.0.6+1.16.2","hash":"sha1;9279dfcaf6fa9a3b59ba3b243aaf3c324e5dbb38","url":"https://cdn.modrinth.com/data/kYq5qkSL/versions/1.0.6+1.16.2/borderless-mining-1.0.6+1.16.2.jar","filename":"borderless-mining-1.0.6+1.16.2.jar"},{"mcversion":"1.15.2-fabric","mcversions":["1.15.2-fabric"],"version":"1.0.2+1.15","hash":"sha1;a522a2c028dabe673096ed6ad47c9a75ac55e9de","url":"https://cdn.modrinth.com/data/kYq5qkSL/versions/1.0.2+1.15/borderless-mining-1.0.2+1.15.jar","filename":"borderless-mining-1.0.2+1.15.jar"},{"mcversion":"1.12-forge","mcversions":["1.12-forge","1.12.1-forge","1.12.2-forge"],"version":"0.0.0-1.6.0+1.12","hash":"sha1;7c528e8846de3985ec1f32583e8fe2467c8fced5","url":"https://cdn.modrinth.com/data/kYq5qkSL/versions/0.0.0-1.6.0+1.12/FullscreenWindowed-1.12-1.6.0-1.jar","filename":"FullscreenWindowed-1.12-1.6.0-1.jar"}],"id":"borderless-mining","display":"Borderless Mining","icon":"https://cdn.modrinth.com/data/kYq5qkSL/icon.png","forgeid":"borderless-mining","nicknames":[],"description":"Changes Fullscreen to use a borderless window.","conflicts":[],"categories":["utility"],"meta":{"body_url":null,"discord":null,"src":"https://github.com/comp500/BorderlessMining","author":"comp500"}},{"downloads":[{"mcversion":"1.16.5-forge","mcversions":["1.16.5-forge"],"version":"4.1.4+1.16.5-forge","hash":"sha512;d51a2ee6a531bfe8d2b0e808b97fa555af8bab54ab139967aeeb401463b0002c80a93c3e7326cf4cfdf2ff68292b491db5f6ed7373732664a3b41aae1c6b03db","url":"https://cdn.modrinth.com/data/yM94ont6/versions/4.1.4+1.16.5-forge/notenoughcrashes-4.1.4+1.16.5-forge.jar","filename":"notenoughcrashes-4.1.4+1.16.5-forge.jar"},{"mcversion":"1.17.1-forge","mcversions":["1.17.1-forge"],"version":"4.1.4+1.17.1-forge","hash":"sha512;4084275bbd3e509741ac658f0780c821bf7f4aa13c3d5e9b31cfad88d4f31602dc5f4c5814f074dea65e5752140efc0fec1de39d71ac167cbc5a58a6f632c9e8","url":"https://cdn.modrinth.com/data/yM94ont6/versions/4.1.4+1.17.1-forge/notenoughcrashes-4.1.4+1.17.1-forge.jar","filename":"notenoughcrashes-4.1.4+1.17.1-forge.jar"},{"mcversion":"1.18.1-forge","mcversions":["1.18.1-forge"],"version":"4.1.4+1.18.1-forge","hash":"sha512;b6316615cd7b810def2c8024aa019b9dfd1b0faf65a72ff2d6a7a9f29f36d5ed80174b75dc1809afbd7b4bfe4d4b6d90f11482d4fd0dd27b697842636991f29e","url":"https://cdn.modrinth.com/data/yM94ont6/versions/4.1.4+1.18.1-forge/notenoughcrashes-4.1.4+1.18.1-forge.jar","filename":"notenoughcrashes-4.1.4+1.18.1-forge.jar"},{"mcversion":"1.18-forge","mcversions":["1.18-forge"],"version":"4.1.3+1.18-forge","hash":"sha1;bad5c5acbf6cd34838e5609cd40206ed10b53adf","url":"https://cdn.modrinth.com/data/yM94ont6/versions/4.1.3+1.18-forge/notenoughcrashes-4.1.3+1.18-forge.jar","filename":"notenoughcrashes-4.1.3+1.18-forge.jar"},{"mcversion":"1.18-rc3-fabric","mcversions":["1.18-rc3-fabric"],"version":"4.1.2+1.18-rc3-fabric","hash":"sha512;2589b206c192025da973a1b23e7a643610a4cc0d8ec12b270ed743ba680f3c09ebb0d0738f718d447830b2d8774622c82d734d0cef92ccb949e12f973467199e","url":"https://cdn.modrinth.com/data/yM94ont6/versions/4.1.2+1.18-rc3-fabric/notenoughcrashes-4.1.2+1.18-rc3-fabric.jar","filename":"notenoughcrashes-4.1.2+1.18-rc3-fabric.jar"},{"mcversion":"1.18-pre5-fabric","mcversions":["1.18-pre5-fabric"],"version":"4.1.1+1.18-pre5-fabric","hash":"sha1;5adb106dee2b5b9114852d5a1f99004f95f7780c","url":"https://cdn.modrinth.com/data/yM94ont6/versions/4.1.1+1.18-pre5-fabric/notenoughcrashes-4.1.1+1.18-pre5-fabric.jar","filename":"notenoughcrashes-4.1.1+1.18-pre5-fabric.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric"],"version":"3.6.0+1.17","hash":"sha1;a0b5949ed26831137e7501f7dd4ee2c805b40e1c","url":"https://cdn.modrinth.com//data/yM94ont6/versions/3.6.0+1.17/notenoughcrashes-3.6.0+1.17-fabric.jar","filename":"notenoughcrashes-3.6.0+1.17-fabric.jar"}],"id":"notenoughcrashes","display":"Not Enough Crashes","icon":"https://cdn.modrinth.com/data/yM94ont6/icon.png","forgeid":"notenoughcrashes","nicknames":[],"description":"When crashing, you can go back to the title screen and keep playing, without needing to restart, alongside other things to make crashes more pleasant.","conflicts":[],"categories":["utility","misc"],"meta":{"body_url":null,"discord":"https://discord.gg/CFaCu97","src":"https://github.com/natanfudge/Not-Enough-Crashes","author":"natanfudge"}},{"downloads":[{"mcversion":"1.18-forge","mcversions":["1.18-forge","1.18.1-forge"],"version":"1.5.6","hash":"sha512;a8cb2dc25b32cde579feec9591e7e1cc0c3954f3a07dfb1e2372c684b88408d5a9781d9b5bab9f6bfdd10a0d9876c625d25a74e722bbbe1a5877393996f1c8e2","url":"https://cdn.modrinth.com/data/vWIaVOTE/versions/1.5.6/brb-Fabric-1.5.6.jar","filename":"brb-Fabric-1.5.6.jar"},{"mcversion":"1.17.1-fabric","mcversions":["1.17.1-fabric","1.18.1-fabric"],"version":"1.5.5","hash":"sha512;9e450304033b61047c8a2f5745c94688dd936e1d6a755a283e6f50db9d51012ea05d0f9f7bfb1888747b6dd41031542dd9f74e22084846c23445a453128076de","url":"https://cdn.modrinth.com/data/vWIaVOTE/versions/1.5.5/better-recipe-book-1.5.5-1.17.1.jar","filename":"better-recipe-book-1.5.5-1.17.1.jar"},{"mcversion":"1.17.1-fabric","mcversions":["1.17.1-fabric","21w42a-fabric"],"version":"1.5.4","hash":"sha512;514f54b2e87add224db587ef7e96719bd340e41f53f97e97a075bedab5c042b99f6d4cd8bd5dcc3285c1d93fb3ff4bbee3df3eb72dbbee80fa67e7d25f9934a3","url":"https://cdn.modrinth.com/data/vWIaVOTE/versions/1.5.4/better-recipe-book-1.5.4-1.18.jar","filename":"better-recipe-book-1.5.4-1.18.jar"},{"mcversion":"1.17.1-fabric","mcversions":["1.17.1-fabric"],"version":"1.5.3","hash":"sha1;e2c77a59429341496d359d0e56b6084b2a234588","url":"https://cdn.modrinth.com/data/vWIaVOTE/versions/1.5.3-1.17/better-recipe-book-1.5.3-1.17.jar","filename":"better-recipe-book-1.5.3-1.17.jar"},{"mcversion":"21w42a-fabric","mcversions":["21w42a-fabric"],"version":"1.5.3","hash":"sha1;47b39fb87b2d7b2d3826ae616810da6ae7a89c85","url":"https://cdn.modrinth.com/data/vWIaVOTE/versions/1.5.3/better-recipe-book-1.5.3-1.18.jar","filename":"better-recipe-book-1.5.3-1.18.jar"},{"mcversion":"21w40a-fabric","mcversions":["21w40a-fabric"],"version":"1.5.2","hash":"sha512;0134690a26d25cbb27d108aa990af0e1483ce6e15b2cb45c0bae8b18b8c278ca0fccd8a07720c0c8c72e9283a84e68ecd1901301c547abd5d4ba5630da620e40","url":"https://cdn.modrinth.com/data/vWIaVOTE/versions/1.5.2/better-recipe-book-1.5.2-1.18.jar","filename":"better-recipe-book-1.5.2-1.18.jar"}],"id":"brb","display":"Better Recipe Book","icon":"https://cdn.modrinth.com/data/vWIaVOTE/icon.png","forgeid":"brb","nicknames":[],"description":" Adds a 'few' quality of life changes to the recipe book. ","conflicts":[],"categories":["utility","misc"],"meta":{"body_url":null,"discord":null,"src":"https://github.com/mrshmllow/BetterRecipeBook","author":"marshmallow"}},{"downloads":[{"mcversion":"1.18-fabric","mcversions":["1.18-fabric","1.18.1-fabric"],"version":"1.2.1+1.18","hash":"sha512;0017289a36af501c9632124e4c910dcf4c4257fa753bfb826dafaeb4ea2ab36864c9afe28e7d394bb00b5294954bc38bf8e5a5c4b5e537881a899260692644d0","url":"https://cdn.modrinth.com/data/a93H3mKU/versions/1.2.1+1.18/inspecio-1.2.1+1.18.jar","filename":"inspecio-1.2.1+1.18.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric"],"version":"1.1.0+1.17","hash":"sha1;6e66e938ca03ae09e867e445b7ec35c9c05041d7","url":"https://cdn.modrinth.com/data/a93H3mKU/versions/1.1.0+1.17/inspecio-1.1.0+1.17.jar","filename":"inspecio-1.1.0+1.17.jar"},{"mcversion":"21w19a-fabric","mcversions":["21w19a-fabric","21w20a-fabric","1.17-pre1-fabric","1.17-pre2-fabric","1.17-pre3-fabric","1.17-rc1-fabric","1.17-rc2-fabric"],"version":"1.0.2+21w19a","hash":"sha512;1253f404375b6c71cdc1ad3cd9b442cbaea086796f823b86c77f6dcae41bf5b5ca48d87aad0963be27227db0d1eabcd0b876a2b9937e20a57aecd2ab7a539719","url":"https://cdn.modrinth.com/data/a93H3mKU/versions/1.0.2+21w19a/inspecio-1.0.2+21w19a.jar","filename":"inspecio-1.0.2+21w19a.jar"},{"mcversion":"21w13a-fabric","mcversions":["21w13a-fabric","21w14a-fabric","21w15a-fabric"],"version":"1.0.1+21w13a","hash":"sha512;85adb7026f85c668084984a968dcebce1f435f8aa11eb0f4ee99c963a9e3960a438052bf3842efd9b072f0c36fa85d172427db518c1bf831e0806cfc71dda81d","url":"https://cdn.modrinth.com/data/a93H3mKU/versions/1.0.1+21w13a/inspecio-1.0.1+21w13a.jar","filename":"inspecio-1.0.1+21w13a.jar"},{"mcversion":"20w51a-fabric","mcversions":["20w51a-fabric","21w03a-fabric","21w05a-fabric","21w05b-fabric","21w06a-fabric"],"version":"1.0.1+20w51a","hash":"sha1;b9c57dcec6c2e6fb54df033ac8bd43850e20299a","url":"https://cdn.modrinth.com/data/a93H3mKU/versions/1.0.1+20w51a/inspecio-1.0.1+20w51a.jar","filename":"inspecio-1.0.1+20w51a.jar"},{"mcversion":"20w51a-fabric","mcversions":["20w51a-fabric"],"version":"1.0.0+20w51a","hash":"sha1;6e1463636d3c3adb4049e43501c9a3fcbeba531b","url":"https://cdn.modrinth.com/data/a93H3mKU/versions/1.0.0+20w51a/inspecio-1.0.0+20w51a.jar","filename":"inspecio-1.0.0+20w51a.jar"}],"id":"inspecio","display":"Inspecio","icon":"https://cdn.modrinth.com/data/a93H3mKU/icon.png","forgeid":"inspecio","nicknames":[],"description":"A Minecraft mod which adds more tooltips.","conflicts":[],"categories":["utility","decoration"],"meta":{"body_url":"https://cdn.modrinth.com/data/a93H3mKU/description.md","discord":null,"src":"https://github.com/Queerbric/Inspecio","author":"LambdAurora, Emi"}},{"downloads":[{"mcversion":"1.17.1-fabric","mcversions":["1.17.1-fabric"],"version":"1.1","hash":"sha1;ad93a94e01ed9ac3b4075bb3044d4954fc6cc7ed","url":"https://cdn.modrinth.com/data/w2SFICvx/versions/1.1/CompactChat-1.1.jar","filename":"CompactChat-1.1.jar"}],"id":"compactchat","display":"CompactChat","icon":null,"forgeid":"compactchat","nicknames":[],"description":"Clean up your chat by removing duplicate messages!","conflicts":[],"categories":["utility","misc"],"meta":{"body_url":null,"discord":null,"src":"https://github.com/cbyrneee/CompactChat","author":"cbyrne"}},{"downloads":[{"mcversion":"1.17.1-fabric","mcversions":["1.17.1-fabric"],"version":"2.1.0","hash":"sha512;0417ab62c6673e60492742cd5c43c780987bcbc911bbdfece514d119089e0e09d7efdb6334958a8bb82725de82a2e1342e9413fbb45c124908cca8d023e0cc48","url":"https://cdn.modrinth.com/data/M08ruV16/versions/2.1.0/bobby-2.1.0.jar","filename":"bobby-2.1.0.jar"},{"mcversion":"1.18.1-fabric","mcversions":["1.18.1-fabric"],"version":"3.1.0","hash":"sha1;380e4a7aa7c746db8bd908991823c9f38b5569a4","url":"https://cdn.modrinth.com/data/M08ruV16/versions/3.1.0/bobby-3.1.0.jar","filename":"bobby-3.1.0.jar"},{"mcversion":"1.18-fabric","mcversions":["1.18-fabric"],"version":"3.0.0","hash":"sha512;a98ed681e37899aaa006eab56b6d5bda110b0909e8f85ee7d9d78dc2d0469e4d4b174d810ccfa3de2304400331dfacc63d980b927b1f11b57dc59d5d18bda9d0","url":"https://cdn.modrinth.com/data/M08ruV16/versions/3.0.0/bobby-3.0.0.jar","filename":"bobby-3.0.0.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric"],"version":"2.0.2","hash":"sha512;86ebd725d07b9b697eb8ea8bffd9116f4d4b042a8f83aa430d9d8ea4c4224530255050e12ea8998ef8ebedc9a1fd5cf4d8492a447e2fb510bcebf96a5d278343","url":"https://cdn.modrinth.com/data/M08ruV16/versions/2.0.2/bobby-2.0.2.jar","filename":"bobby-2.0.2.jar"},{"mcversion":"1.16.5-fabric","mcversions":["1.16.5-fabric"],"version":"1.2.0","hash":"sha1;9a802e19f93caa0c3e89f9a265c2745fa4ce2646","url":"https://cdn.modrinth.com/data/M08ruV16/versions/1.2.0/bobby-1.2.0.jar","filename":"bobby-1.2.0.jar"},{"mcversion":"1.16.4-fabric","mcversions":["1.16.4-fabric","1.16.5-fabric"],"version":"1.1.3","hash":"sha512;6cec162f0428f5b90472ca34cd0b6d9a8121e06e1b318a311b99af824d8fa235ae979e1ea2eef604c04f55747ccdb4cf073080c8919fc289b4e425da7d980ff3","url":"https://cdn.modrinth.com/data/M08ruV16/versions/1.1.3/bobby-1.1.3.jar","filename":"bobby-1.1.3.jar"},{"mcversion":"1.16.2-fabric","mcversions":["1.16.2-fabric","1.16.3-fabric","1.16.4-fabric"],"version":"0.2.0","hash":"sha1;4f73e8c915f9290269aaabfe78f7fe8061e071d7","url":"https://cdn.modrinth.com/data/M08ruV16/versions/0.2.0/bobby-0.2.0.jar","filename":"bobby-0.2.0.jar"}],"id":"bobby","display":"Bobby","icon":"https://cdn.modrinth.com/data/M08ruV16/icon.png","forgeid":"bobby","nicknames":[],"description":"Allows for render distances greater than the server's view-distance","conflicts":[],"categories":["misc"],"meta":{"body_url":"https://cdn.modrinth.com/data/M08ruV16/description.md","discord":null,"src":"https://github.com/Johni0702/bobby","author":"Johni0702"}},{"downloads":[{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric","1.18-fabric"],"version":"2.1.0+1.17","hash":"sha1;5f1f59c0ff6d54fc7ec1d42eb347a2f6987d234c","url":"https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.0+1.17/lambdynamiclights-2.1.0+1.17.jar","filename":"lambdynamiclights-2.1.0+1.17.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric","1.18-rc1-fabric","1.18-rc2-fabric","1.18-rc3-fabric","1.18-rc4-fabric"],"version":"2.0.2+1.17","hash":"sha1;9a3d6dafb7a066cbc3fd7fd1e34a3c0e3544a2c8","url":"https://cdn.modrinth.com/data/yBW8D80W/versions/2.0.2+1.17/lambdynamiclights-2.0.2+1.17.jar","filename":"lambdynamiclights-2.0.2+1.17.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric"],"version":"2.0.1+1.17","hash":"sha512;ce69854b085558e493b04b758b7ee4f362fcf64be34a8b4a0e3fc1a2709f59f143f4e3a23b3cf313f1dbc48cbbf482bfb6f9f90f35539f420979d32c5a31659f","url":"https://cdn.modrinth.com/data/yBW8D80W/versions/2.0.1+1.17/lambdynamiclights-2.0.1+1.17.jar","filename":"lambdynamiclights-2.0.1+1.17.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric"],"version":"2.0.0+1.17","hash":"sha1;89ae5d88bf3b6c3e852a3170efa0805852490e2b","url":"https://cdn.modrinth.com/data/yBW8D80W/versions/2.0.0+1.17/lambdynamiclights-2.0.0+1.17.jar","filename":"lambdynamiclights-2.0.0+1.17.jar"},{"mcversion":"1.16.2-fabric","mcversions":["1.16.2-fabric","1.16.3-fabric","1.16.4-fabric","1.16.5-fabric"],"version":"1.3.4+1.16","hash":"sha1;3fff986f77f6a9d8243e55048090b7cad4377de7","url":"https://cdn.modrinth.com/data/yBW8D80W/versions/1.3.4+1.16/lambdynamiclights-fabric-1.3.4+1.16.jar","filename":"lambdynamiclights-fabric-1.3.4+1.16.jar"},{"mcversion":"1.16.2-fabric","mcversions":["1.16.2-fabric","1.16.3-fabric","1.16.4-fabric"],"version":"1.3.2","hash":"sha1;9a050e894bc9b661db4240cc035584b8aa3bd4fb","url":"https://cdn.modrinth.com/data/yBW8D80W/versions/1.3.2/lambdynamiclights-fabric-1.3.2+1.16.4.jar","filename":"lambdynamiclights-fabric-1.3.2+1.16.4.jar"}],"id":"lambdynamiclights","display":"LambDynamicLights","icon":"https://cdn.modrinth.com/data/yBW8D80W/icon.png","forgeid":"lambdynamiclights","nicknames":[],"description":"A dynamic lights mod for Fabric.","conflicts":[],"categories":["utility","decoration","adventure"],"meta":{"body_url":"https://cdn.modrinth.com/data/yBW8D80W/description.md","discord":"https://discord.gg/abEbzzv","src":"https://github.com/LambdAurora/LambDynamicLights","author":"LambdAurora"}},{"downloads":[{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric","1.18-fabric","1.18.1-fabric"],"version":"1.2.2+1.17","hash":"sha1;f24117c93e077beb27ea7588b5fea702db2c4581","url":"https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.2+1.17/lambdabettergrass-1.2.2+1.17.jar","filename":"lambdabettergrass-1.2.2+1.17.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric","1.18-fabric"],"version":"1.2.1+1.17","hash":"sha1;20027ebb2f2fe5e04f3114072cdf8a067dd6fb01","url":"https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.1+1.17/lambdabettergrass-1.2.1+1.17.jar","filename":"lambdabettergrass-1.2.1+1.17.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric"],"version":"1.2.0+1.17","hash":"sha1;4649321cb73236f15ee82ce8a519aa53a44e2d32","url":"https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.0+1.17/lambdabettergrass-1.2.0+1.17.jar","filename":"lambdabettergrass-1.2.0+1.17.jar"},{"mcversion":"21w20a-fabric","mcversions":["21w20a-fabric","1.17-pre1-fabric","1.17-pre2-fabric","1.17-pre3-fabric","1.17-pre4-fabric"],"version":"1.1.2+21w20a","hash":"sha1;c766b21aa973fcf6c7d104d38cc31276e72c3b94","url":"https://cdn.modrinth.com/data/2Uev7LdA/versions/1.1.2+21w20a/lambdabettergrass-1.1.2+21w20a.jar","filename":"lambdabettergrass-1.1.2+21w20a.jar"},{"mcversion":"21w14a-fabric","mcversions":["21w14a-fabric"],"version":"1.1.1+21w14a","hash":"sha512;efb77b562ddd7d31e76474d0d69ac42d4ac56a865515621968c74ee906830a727bfb2970a09657c4184f32316ceef3d8abe1f987d4d21b93d028f5278abc6062","url":"https://cdn.modrinth.com/data/2Uev7LdA/versions/1.1.1+21w14a/lambdabettergrass-fabric-1.1.1+21w14a.jar","filename":"lambdabettergrass-fabric-1.1.1+21w14a.jar"},{"mcversion":"21w03a-fabric","mcversions":["21w03a-fabric","21w05a-fabric","21w05b-fabric","21w06a-fabric"],"version":"1.1.0+21w05b","hash":"sha1;56a3acbbd49aa0d11a8d79cc047c0e3aefbeac77","url":"https://cdn.modrinth.com/data/2Uev7LdA/versions/1.1.0+21w05b/lambdabettergrass-fabric-1.1.0+21w05b.jar","filename":"lambdabettergrass-fabric-1.1.0+21w05b.jar"},{"mcversion":"21w03a-fabric","mcversions":["21w03a-fabric"],"version":"1.0.3+21w03a","hash":"sha512;a487b1b65adbd47519249f574436982d3ce7b7c1cdf0dd44288ff55f512ff45307a29812c3ceb758b47f7f3cb022c567a0531d5f43dbdc927b2414b1421bbfce","url":"https://cdn.modrinth.com/data/2Uev7LdA/versions/1.0.3+21w03a/lambdabettergrass-fabric-1.0.3+21w03a.jar","filename":"lambdabettergrass-fabric-1.0.3+21w03a.jar"},{"mcversion":"1.16.2-fabric","mcversions":["1.16.2-fabric","1.16.3-fabric","1.16.4-fabric","1.16.5-fabric"],"version":"1.0.3+1.16","hash":"sha1;ee9ab559011ea345c66540f85bc18008b9f1d3e8","url":"https://cdn.modrinth.com/data/2Uev7LdA/versions/1.0.3+1.16/lambdabettergrass-fabric-1.0.3+1.16.jar","filename":"lambdabettergrass-fabric-1.0.3+1.16.jar"},{"mcversion":"20w51a-fabric","mcversions":["20w51a-fabric","21w03a-fabric"],"version":"1.0.2+20w51a","hash":"sha1;c89ea87378ae1cb6df1e33686ebb3429a7d7baee","url":"https://cdn.modrinth.com/data/2Uev7LdA/versions/1.0.2+20w51a/lambdabettergrass-fabric-1.0.2+20w51a.jar","filename":"lambdabettergrass-fabric-1.0.2+20w51a.jar"},{"mcversion":"1.16.2-fabric","mcversions":["1.16.2-fabric","1.16.3-fabric","1.16.4-fabric"],"version":"1.0.1","hash":"sha1;b54db0cc044a71b9eac3d5dcd9e7dac0adc56444","url":"https://cdn.modrinth.com/data/2Uev7LdA/versions/1.0.1/lambdabettergrass-fabric-1.0.1+1.16.3.jar","filename":"lambdabettergrass-fabric-1.0.1+1.16.3.jar"}],"id":"lambdabettergrass","display":"LambdaBetterGrass","icon":"https://cdn.modrinth.com/data/2Uev7LdA/icon.png","forgeid":"lambdabettergrass","nicknames":[],"description":"A Minecraft mod which adds better grass and snow to the game.","conflicts":[],"categories":["decoration"],"meta":{"body_url":"https://cdn.modrinth.com/data/2Uev7LdA/description.md","discord":null,"src":"https://github.com/LambdAurora/LambdaBetterGrass","author":"LambdAurora"}},{"downloads":[{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric","1.18-fabric","1.18.1-fabric"],"version":"2.3.2","hash":"sha1;9bc9c61f0a7dc6c765118a0527850b91847608cb","url":"https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.2/cullleaves-2.3.2.jar","filename":"cullleaves-2.3.2.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric","21w37a-fabric","21w38a-fabric","21w39a-fabric","21w40a-fabric","21w41a-fabric"],"version":"2.3.1","hash":"sha512;a98ec3a018b019f6f26f9026b24d42016ebc91c1bb102214f2e9ca1637ceabb41ed50745b4b73bb204b42b9d5115bf0de38c2dd8b5a68d4b9e8a4d2a8c1a83b6","url":"https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.1/cullleaves-2.3.1.jar","filename":"cullleaves-2.3.1.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric","1.17.1-fabric","21w37a-fabric","21w38a-fabric"],"version":"2.3.0","hash":"sha1;d4c5ad2cc573f974a806f1185e7c376c3d570295","url":"https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.0/cullleaves-2.3.0.jar","filename":"cullleaves-2.3.0.jar"},{"mcversion":"1.17-rc1-fabric","mcversions":["1.17-rc1-fabric","1.17-rc2-fabric","1.17-fabric"],"version":"2.2.0","hash":"sha1;fdc1c169151e252b68597e84eda88b642cf6cce8","url":"https://cdn.modrinth.com/data/GNxdLCoP/versions/2.2.0/cullleaves-2.2.0.jar","filename":"cullleaves-2.2.0.jar"},{"mcversion":"1.16.1-fabric","mcversions":["1.16.1-fabric","1.16.2-fabric","1.16.3-fabric","1.16.4-fabric","1.16.5-fabric"],"version":"2.1.0","hash":"sha512;ed9d1b969dda1454c440589f0dffa68cec0ae674a4e6daeb1cddceb02a884fd69b292879a7c4f052ef995eba260895cbacb0889404418c19c7cd0d6b20526eac","url":"https://cdn.modrinth.com/data/GNxdLCoP/versions/2.1.0/cullleaves-2.1.0.jar","filename":"cullleaves-2.1.0.jar"},{"mcversion":"1.16-fabric","mcversions":["1.16-fabric","1.16.1-fabric","1.16.2-fabric","1.16.3-fabric","1.16.4-fabric","20w45a-fabric","20w46a-fabric","20w48a-fabric","20w49a-fabric","20w51a-fabric","1.16.5-rc1-fabric","21w03a-fabric"],"version":"2.0.0","hash":"sha1;4466089bd27d44de6f037d8108700b8b0b7cead8","url":"https://cdn.modrinth.com/data/GNxdLCoP/versions/2.0.0/cullleaves-2.0.0.jar","filename":"cullleaves-2.0.0.jar"},{"mcversion":"1.16-fabric","mcversions":["1.16-fabric","1.16.1-fabric","1.16.2-fabric","1.16.3-fabric","1.16.4-fabric","20w45a-fabric","20w46a-fabric","20w48a-fabric","20w49a-fabric","20w51a-fabric"],"version":"1.0.0","hash":"sha1;75be1fa481cd4e16bcd0b5d5990bac6cf56a7084","url":"https://cdn.modrinth.com/data/GNxdLCoP/versions/1.0.0/cullleaves-1.0.0.jar","filename":"cullleaves-1.0.0.jar"}],"id":"cull-leaves","display":"Cull Leaves","icon":"https://cdn.modrinth.com/data/GNxdLCoP/icon.png","forgeid":"cull-leaves","nicknames":[],"description":"Adds culling to leaf blocks, providing a huge performance boost over vanilla.","conflicts":[],"categories":["misc"],"meta":{"body_url":"https://cdn.modrinth.com/data/GNxdLCoP/description.md","discord":"https://discord.gg/jAGnWYHm3r","src":"https://github.com/TeamMidnightDust/CullLeaves","author":"Motschen"}},{"downloads":[{"mcversion":"1.18-fabric","mcversions":["1.18-fabric","1.18.1-fabric"],"version":"1.6.2","hash":"sha512;791eaa23903ae3eabfa6b1b225f24796b91cfac64a8425a2b0d488caf675ae0287d950a024c9d239b44982bde8f18108715aef54ad9c52e7c0fcba793914517d","url":"https://cdn.modrinth.com/data/3qsfQtE9/versions/1.6.2/fabrishot-1.6.2.jar","filename":"fabrishot-1.6.2.jar"},{"mcversion":"1.18-fabric","mcversions":["1.18-fabric"],"version":"1.6.0","hash":"sha1;d715dea2c87107167a507bcab05373a099d2dd60","url":"https://cdn.modrinth.com/data/3qsfQtE9/versions/1.6.0/fabrishot-1.6.0.jar","filename":"fabrishot-1.6.0.jar"},{"mcversion":"1.17.1-fabric","mcversions":["1.17.1-fabric"],"version":"1.5.1","hash":"sha1;739729da7c1930728c9d78e460ae5357945237a3","url":"https://cdn.modrinth.com/data/3qsfQtE9/versions/1.5.1/fabrishot-1.5.1.jar","filename":"fabrishot-1.5.1.jar"},{"mcversion":"1.17-fabric","mcversions":["1.17-fabric"],"version":"1.5.0","hash":"sha1;5e484758e524ae809a160a8efa0d02775b62aa39","url":"https://cdn.modrinth.com/data/3qsfQtE9/versions/1.5.0/fabrishot-1.5.0.jar","filename":"fabrishot-1.5.0.jar"},{"mcversion":"1.16-fabric","mcversions":["1.16-fabric","1.16.1-fabric","1.16.2-fabric","1.16.3-fabric","1.16.4-fabric","1.16.5-fabric"],"version":"1.4.0","hash":"sha512;22012fce8ae271cde5d7170bccae3a382f7601e9636eaabd8842fe3fc9d0d99a72fae871e0a51779a3847d562709a91df5726bc9c61a154bbefb24869b1c83aa","url":"https://cdn.modrinth.com/data/3qsfQtE9/versions/1.4.0/fabrishot-1.4.0.jar","filename":"fabrishot-1.4.0.jar"}],"id":"fabrishot","display":"Fabrishot","icon":"https://cdn.modrinth.com/data/3qsfQtE9/icon.png","forgeid":"fabrishot","nicknames":[],"description":"Take insanely large screenshots because why not","conflicts":[],"categories":["utility"],"meta":{"body_url":null,"discord":null,"src":"https://github.com/ramidzkh/fabrishot","author":"ramidzkh"}}]}
+{
+	"id": "std",
+	"mods": [
+		{
+			"id": "skytils",
+			"forgeid": "skytils",
+			"display": "Skytils",
+			"description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
+			"meta": {
+				"author": "lily & sychic",
+				"bestmod": "ofc",
+				"discord": "https://discord.gg/skytils"
+			},
+			"nicknames": ["st"],
+			"conflicts": ["betterfps"],
+			"icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/skytils.png",
+			"categories": ["All Skyblock", "Recommended Skyblock"],
+			"downloads": [
+				{
+					"version": "1.1.2",
+					"hash": "md5;824A631123E669D5EEA24776E37F1FF8",
+					"mcversion": "1.8.9",
+					"mcversions": ["1.8.9"],
+					"url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.1.2/Skytils-1.1.2.jar",
+					"filename": "Skytils-1.1.2.jar"
+				}
+			]
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.18.1-fabric",
+					"mcversions": ["1.18.1-fabric"],
+					"version": "mc1.18.1-0.4.0-alpha6",
+					"hash": "sha512;8a63bfb819930c5cb470664cc6a266e9478fc1219e34307058e3111ef9e400ccf14adbe31ed705f70d682199640540d7e896965b6fe5e69bce543e475ccc7fbf",
+					"url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar",
+					"filename": "sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar"
+				},
+				{
+					"mcversion": "1.17.1-fabric",
+					"mcversions": ["1.17.1-fabric"],
+					"version": "mc1.17.1-0.3.4",
+					"hash": "sha512;febd84274e8e55222c45e73685d5bc93a08ac7194a61f9065fc626420acd1c5279d51f98c1af1888b6718cbce098ce1d67c778739f3ebe1597d2ee99e6bd8382",
+					"url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4+build.13.jar",
+					"filename": "sodium-fabric-mc1.17.1-0.3.4+build.13.jar"
+				},
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric"],
+					"version": "mc1.18-0.4.0-alpha5",
+					"hash": "sha512;dc1bcac9330388b43bfb81eabfa36d1ff15efb3009460b3b1fb290feb70e52a55f726ad93fc09b1c9186ced595f8478fbef762ae1f5144568536e4c26f5464d6",
+					"url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar",
+					"filename": "sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar"
+				},
+				{
+					"mcversion": "1.16.5-fabric",
+					"mcversions": ["1.16.5-fabric"],
+					"version": "mc1.16.5-0.2.0",
+					"hash": "sha1;bf03460f1f82f355d1fe23a27ee81c3ed24e54dc",
+					"url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
+					"filename": "sodium-fabric-mc1.16.5-0.2.0+build.4.jar"
+				},
+				{
+					"mcversion": "1.16.3-fabric",
+					"mcversions": ["1.16.3-fabric", "1.16.4-fabric", "1.16.5-fabric"],
+					"version": "mc1.16.3-0.1.0",
+					"hash": "sha1;f3349dbd065cf75718fd0186d196e7e635e658e0",
+					"url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar",
+					"filename": "sodium-fabric-mc1.16.3-0.1.0.jar"
+				}
+			],
+			"id": "sodium",
+			"display": "Sodium",
+			"icon": "https://cdn.modrinth.com/data/AANobbMI/icon.png",
+			"forgeid": "sodium",
+			"nicknames": [],
+			"description": "Modern rendering engine and client-side optimization mod for Minecraft",
+			"conflicts": [],
+			"categories": ["utility"],
+			"meta": {
+				"body_url": "https://cdn.modrinth.com/data/AANobbMI/description.md",
+				"discord": "https://jellysquid.me/discord",
+				"src": "https://github.com/jellysquid3/sodium-fabric",
+				"modrinth": "https://modrinth.com/mod/sodium",
+				"author": "jellysquid3"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric", "1.18.1-fabric"],
+					"version": "1.0.2-alpha2+mc1.18.1",
+					"hash": "sha512;efdc21f516aaf78c28745db83172126e6685ae63b2ae273eb3df2a7d49ef7197d2e670c10cd20cbdb388cf6793821f72191350e3f0dc8235f4fb700709186dfe",
+					"url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.2-alpha2+mc1.18.1/indium-1.0.2-alpha2+mc1.18.1.jar",
+					"filename": "indium-1.0.2-alpha2+mc1.18.1.jar"
+				},
+				{
+					"mcversion": "1.17.1-fabric",
+					"mcversions": ["1.17.1-fabric"],
+					"version": "1.0.1+mc1.17.1",
+					"hash": "sha512;d0aabd5ac37911aba79cda17dff9caecb21253e76e19dbf3b72a43f45e1c2ef4083a8ee15bfc57852842afdb12e10a6481032943315ab698e96fb3d238285e51",
+					"url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.1+mc1.17.1/indium-1.0.1+mc1.17.1.jar",
+					"filename": "indium-1.0.1+mc1.17.1.jar"
+				},
+				{
+					"mcversion": "1.16.5-fabric",
+					"mcversions": ["1.16.5-fabric"],
+					"version": "1.0.0+mc1.16.5",
+					"hash": "sha1;c14cf642257bd416ed53244cfde993b2d98e5487",
+					"url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.0+mc1.16.5/indium-1.0.0+mc1.16.5.jar",
+					"filename": "indium-1.0.0+mc1.16.5.jar"
+				}
+			],
+			"id": "indium",
+			"display": "Indium",
+			"icon": "https://cdn.modrinth.com/data/Orvt0mRa/icon.png",
+			"forgeid": "indium",
+			"nicknames": [],
+			"description": "Sodium addon providing support for the Fabric Rendering API, based on Indigo",
+			"conflicts": [],
+			"categories": ["utility"],
+			"meta": {
+				"body_url": null,
+				"discord": null,
+				"src": "https://github.com/comp500/Indium",
+				"modrinth": "https://modrinth.com/mod/indium",
+				"author": "comp500"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.18.1-fabric",
+					"mcversions": ["1.18.1-fabric"],
+					"version": "mc1.18.1-0.7.8",
+					"hash": "sha1;8b7cd216fee54b9acc261005cae5acbc856b1933",
+					"url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.8/lithium-fabric-mc1.18.1-0.7.8.jar",
+					"filename": "lithium-fabric-mc1.18.1-0.7.8.jar"
+				},
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric"],
+					"version": "mc1.18-0.7.6-rc1",
+					"hash": "sha512;2396efef36aa280092479d10007be5de6589113cc10b57cf658fa85fc30f3135e0ef2c9172b55ed35ffb38553430795876db17fbd005aedcbf1105ca626a7594",
+					"url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18-0.7.6-rc1/lithium-fabric-mc1.18-0.7.6-rc1.jar",
+					"filename": "lithium-fabric-mc1.18-0.7.6-rc1.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric", "1.17.1-fabric"],
+					"version": "mc1.17.1-0.7.5",
+					"hash": "sha1;f96f5d92136c51ffab451542ba6319f17ca1d762",
+					"url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17.1-0.7.5/lithium-fabric-mc1.17.1-0.7.5.jar",
+					"filename": "lithium-fabric-mc1.17.1-0.7.5.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric"],
+					"version": "mc1.17-0.7.2",
+					"hash": "sha512;ca6b619a6399c9edba99ef70a73f9836ba3dab27dc335f8d709ef732b2121855f245c0bb82dbcffa6932ae2965e9f2ec8b86d3ef3215af2afcaf9fbb8e109bc1",
+					"url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17-0.7.2/lithium-fabric-mc1.17-0.7.2.jar",
+					"filename": "lithium-fabric-mc1.17-0.7.2.jar"
+				},
+				{
+					"mcversion": "1.16.2-fabric",
+					"mcversions": [
+						"1.16.2-fabric",
+						"1.16.3-fabric",
+						"1.16.4-fabric",
+						"1.16.5-fabric"
+					],
+					"version": "mc1.16.5-0.6.6",
+					"hash": "sha512;bb2dd085a6c5fcf86ba9a63d680fb5144a5788efe9c00a9417d978722dbb84163e47bb545c310869647924dad89bcfe2bbe04cd64476b304eada914083e5c094",
+					"url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.6/lithium-fabric-mc1.16.5-0.6.6.jar",
+					"filename": "lithium-fabric-mc1.16.5-0.6.6.jar"
+				},
+				{
+					"mcversion": "1.16.4-fabric",
+					"mcversions": ["1.16.4-fabric"],
+					"version": "mc1.16.4-0.6.0",
+					"hash": "sha1;6ab1c5adc97ab0c66f9c9afcdb1d143a607db82c",
+					"url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.4-0.6.0/lithium-fabric-mc1.16.4-0.6.0.jar",
+					"filename": "lithium-fabric-mc1.16.4-0.6.0.jar"
+				}
+			],
+			"id": "lithium",
+			"display": "Lithium",
+			"icon": "https://cdn.modrinth.com/data/gvQqBUqZ/icon.png",
+			"forgeid": "lithium",
+			"nicknames": [],
+			"description": "No-compromises game logic/server optimization mod",
+			"conflicts": [],
+			"categories": ["utility"],
+			"meta": {
+				"body_url": "https://cdn.modrinth.com/data/gvQqBUqZ/description.md",
+				"discord": "https://jellysquid.me/discord",
+				"src": "https://github.com/jellysquid3/lithium-fabric",
+				"modrinth": "https://modrinth.com/mod/lithium",
+				"author": "jellysquid3, 2No2Name"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric", "1.18.1-fabric"],
+					"version": "Starlight 1.0.0 1.18.x",
+					"hash": "sha512;020a2b1f7912fdcba7877f3ba09dcff6c5a37c0782ca9baa27afc26f864cdb782fcfb582b6fdf83dfe8ea3d52293e17c8d34f39dc4a71ba467b287bdaad531db",
+					"url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.18.x/starlight-1.0.0+fabric.d0a3220.jar",
+					"filename": "starlight-1.0.0+fabric.d0a3220.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric", "1.17.1-fabric"],
+					"version": "Starlight 1.0.0 1.17.x",
+					"hash": "sha512;e2308963e019f030b804e787f9996044e12a63436754def273b79063b1ba3c99dc7311acbe99edab9dab290da97a75ac67e99715f485bc04d9e13e75a6a6644e",
+					"url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.17.x/starlight-1.0.0+fabric.73f6d37.jar",
+					"filename": "starlight-1.0.0+fabric.73f6d37.jar"
+				}
+			],
+			"id": "starlight",
+			"display": "Starlight (Fabric)",
+			"icon": "https://cdn.modrinth.com/data/H8CaAYZC/icon.png",
+			"forgeid": "starlight",
+			"nicknames": [],
+			"description": "Rewrites the light engine to fix lighting performance and lighting errors",
+			"conflicts": [],
+			"categories": ["misc"],
+			"meta": {
+				"body_url": null,
+				"discord": "https://discord.gg/tuinity",
+				"src": "https://github.com/PaperMC/Starlight",
+				"modrinth": "https://modrinth.com/mod/starlight",
+				"author": "spottedleaf"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.14-fabric",
+					"mcversions": [
+						"1.14-fabric",
+						"1.14.1-fabric",
+						"1.14.2-fabric",
+						"1.14.3-fabric",
+						"1.14.4-fabric",
+						"1.15-fabric",
+						"1.15.1-fabric",
+						"1.15.2-fabric",
+						"1.16-fabric",
+						"1.16.1-fabric",
+						"1.16.2-fabric",
+						"1.16.3-fabric",
+						"1.16.4-fabric",
+						"1.16.5-fabric",
+						"1.17-fabric",
+						"1.17.1-fabric",
+						"1.18-fabric",
+						"1.18.1-fabric"
+					],
+					"version": "0.1.2",
+					"hash": "sha512;20b1cd3e62051c7d7498ecdc49912acb918fc4748d469c67c078cc97197289760e64b9339a4d4a03d175f648c8be8601d131776a9a6bdb8832cecdda6fc46498",
+					"url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar",
+					"filename": "lazydfu-0.1.2.jar"
+				},
+				{
+					"mcversion": "1.16.4-fabric",
+					"mcversions": ["1.16.4-fabric", "1.16.5-fabric"],
+					"version": "0.1.1",
+					"hash": "sha1;c5c2fe768a4839ab7ca27a13c03bdc8704fbe08d",
+					"url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.1/lazydfu-0.1.1.jar",
+					"filename": "lazydfu-0.1.1.jar"
+				},
+				{
+					"mcversion": "1.16.4-fabric",
+					"mcversions": ["1.16.4-fabric"],
+					"version": "0.1.0",
+					"hash": "sha1;9794c68fb28cc8dcd8ca1e6d1b2c3cc86fc9d9f0",
+					"url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.0/lazydfu-0.1.0.jar",
+					"filename": "lazydfu-0.1.0.jar"
+				}
+			],
+			"id": "lazydfu",
+			"display": "LazyDFU",
+			"icon": "https://cdn.modrinth.com/data/hvFnDODi/icon.png",
+			"forgeid": "lazydfu",
+			"nicknames": [],
+			"description": "Makes the initialization of DataFixerUpper \"lazy\", making the game start more quickly",
+			"conflicts": [],
+			"categories": ["utility", "misc"],
+			"meta": {
+				"body_url": "https://cdn.modrinth.com/data/hvFnDODi/description.md",
+				"discord": "https://discord.gg/RUGArxEQ8J",
+				"src": "https://github.com/astei/lazydfu",
+				"modrinth": "https://modrinth.com/mod/lazydfu",
+				"author": "astei"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric"],
+					"version": "0.5+1.18",
+					"hash": "sha1;c7111f560caf965c18a13edcfbe789a87cf904f4",
+					"url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.5+1.18/enhancedblockentities-0.5+1.18.jar",
+					"filename": "enhancedblockentities-0.5+1.18.jar"
+				},
+				{
+					"mcversion": "1.17.1-fabric",
+					"mcversions": ["1.17.1-fabric"],
+					"version": "0.5+1.17",
+					"hash": "sha1;a05ce552fc175f49c02f477bfc8a4003c2af7c97",
+					"url": "https://cdn.modrinth.com//data/OVuFYfre/versions/0.5+1.17/enhancedblockentities-0.5+1.17.jar",
+					"filename": "enhancedblockentities-0.5+1.17.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric", "1.17.1-fabric"],
+					"version": "0.4.1+1.17",
+					"hash": "sha1;44a8631c446aa97741e06975d7f9b4691324e7e6",
+					"url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.4.1+1.17/enhancedblockentities-0.4.1+1.17.jar",
+					"filename": "enhancedblockentities-0.4.1+1.17.jar"
+				},
+				{
+					"mcversion": "1.16.5-fabric",
+					"mcversions": ["1.16.5-fabric"],
+					"version": "0.4",
+					"hash": "sha512;baa978ba883afa5b5af5961c673816700c97e50fe71964e6c0fffb9041282ac714d84319508fed58b18f5b4d56d0acb3f1d14a6faed7f62d20d9b00fa4c9a35d",
+					"url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.4/enhancedblockentities-0.4--1.16.x.jar",
+					"filename": "enhancedblockentities-0.4--1.16.x.jar"
+				},
+				{
+					"mcversion": "1.16.2-fabric",
+					"mcversions": [
+						"1.16.2-fabric",
+						"1.16.3-fabric",
+						"1.16.4-fabric",
+						"1.16.5-fabric"
+					],
+					"version": "0.1",
+					"hash": "sha1;906c52bf4621e79a3dedd8790e826494be130bb2",
+					"url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.1/enhancedblockentities-0.1--1.16.x.jar",
+					"filename": "enhancedblockentities-0.1--1.16.x.jar"
+				}
+			],
+			"id": "ebe",
+			"display": "Enhanced Block Entities",
+			"icon": "https://cdn.modrinth.com/data/OVuFYfre/icon.png",
+			"forgeid": "ebe",
+			"nicknames": [],
+			"description": "Reduce FPS lag with block entities, as well as customize them with resource packs",
+			"conflicts": [],
+			"categories": ["utility", "misc"],
+			"meta": {
+				"body_url": null,
+				"discord": "https://discord.gg/7Aw3y4RtY9",
+				"src": "https://github.com/FoundationGames/EnhancedBlockEntities",
+				"modrinth": "https://modrinth.com/mod/ebe",
+				"author": "FoundationGames"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.18.1-fabric",
+					"mcversions": ["1.18.1-fabric"],
+					"version": "4.1.2",
+					"hash": "sha512;55481188d960ad1426fde990ca75cde453fee596fd3c745a402a35620128d93657e3ba3b126ad58c31846918ccce17eea66f0167c3f6141ad877b9862ab9910c",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.1.2/ferritecore-4.1.2-fabric.jar",
+					"filename": "ferritecore-4.1.2-fabric.jar"
+				},
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric"],
+					"version": "4.0.0",
+					"hash": "sha1;e29e1f3991ea94a161eebd9faf68f9d489d588f3",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.0.0/ferritecore-4.0.0-fabric.jar",
+					"filename": "ferritecore-4.0.0-fabric.jar"
+				},
+				{
+					"mcversion": "1.16.5-fabric",
+					"mcversions": ["1.16.5-fabric"],
+					"version": "2.1.0",
+					"hash": "sha512;32da6f8089af2d4b060b006be2713725804cce574b25fe759641aa67005d1acdaeb857fae0d3623887e70ac00203750264319ce50222aa97c82a1364d06886f9",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/2.1.0/ferritecore-2.1.0-fabric.jar",
+					"filename": "ferritecore-2.1.0-fabric.jar"
+				},
+				{
+					"mcversion": "1.17.1-fabric",
+					"mcversions": ["1.17.1-fabric"],
+					"version": "3.1.0",
+					"hash": "sha512;d9e537185a3d39736ac765df5ba3a05f8ace5a3af87b350da57da8fd7e466b7b84a378c0f721f5ae6e685e2d24f28d58a760311287c4c0a8df0fbdbf610fb075",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3.1.0/ferritecore-3.1.0-fabric.jar",
+					"filename": "ferritecore-3.1.0-fabric.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric"],
+					"version": "3.0.1",
+					"hash": "sha512;da299e3de25d3f1cd601c73431014939a32ea1c495a5720d5125b502bd353299381941c72463f7dd1b3894a140df0bb9c78c64a006bea7a5f6f7f37919bae354",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.1/ferritecore-3.0.1-fabric.jar",
+					"filename": "ferritecore-3.0.1-fabric.jar"
+				}
+			],
+			"id": "ferrite-core",
+			"display": "FerriteCore",
+			"icon": "https://cdn.modrinth.com/data/uXXizFIs/icon.jpg",
+			"forgeid": "ferrite-core",
+			"nicknames": [],
+			"description": "Memory usage optimizations",
+			"conflicts": [],
+			"categories": ["utility"],
+			"meta": {
+				"body_url": null,
+				"discord": null,
+				"src": "https://github.com/malte0811/FerriteCore",
+				"modrinth": "https://modrinth.com/mod/ferrite-core",
+				"author": "malte0811"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.18.1-fabric",
+					"mcversions": ["1.18.1-fabric"],
+					"version": "v2.1.0",
+					"hash": "sha1;d4ffc71b2f0ea01b9a6242c23faace5cdc72d947",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.1.0/dynamic-fps-2.1.0.jar",
+					"filename": "dynamic-fps-2.1.0.jar"
+				},
+				{
+					"mcversion": "1.17.1-fabric",
+					"mcversions": ["1.17.1-fabric", "1.18-fabric"],
+					"version": "v2.0.6",
+					"hash": "sha1;db76cb84fe9abe9301e29a49457c030d6e54d948",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.6/dynamic-fps-2.0.6.jar",
+					"filename": "dynamic-fps-2.0.6.jar"
+				},
+				{
+					"mcversion": "1.17.1-fabric",
+					"mcversions": ["1.17.1-fabric"],
+					"version": "v2.0.5",
+					"hash": "sha512;84135f5da20608c732ac90439dd7929dcf61cc6471667e5c8842466ec0cbfdf3199d8dc2cdb2088b5ba76cde55c5df015989b00376d6be65c4b8a1c1d3b13be7",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.5/dynamic-fps-2.0.5.jar",
+					"filename": "dynamic-fps-2.0.5.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric", "1.17.1-pre1-fabric"],
+					"version": "v2.0.4",
+					"hash": "sha1;a172c61df0a4deffa669d19f7dd83282b2ea0210",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.4/dynamic-fps-2.0.4.jar",
+					"filename": "dynamic-fps-2.0.4.jar"
+				},
+				{
+					"mcversion": "1.16.5-fabric",
+					"mcversions": ["1.16.5-fabric"],
+					"version": "v2.0.2",
+					"hash": "sha512;b3a8a9e008a3cf6c585c3ddd016374f6e202e8f321259c7c2cd014936884d4658ad5ef0de685e0cee92d51840c12ef8a5438efc2a7e7ffaf4dfe3745dad293d5",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/2.0.2/dynamic-fps-2.0.2.jar",
+					"filename": "dynamic-fps-2.0.2.jar"
+				},
+				{
+					"mcversion": "1.16.2-fabric",
+					"mcversions": [
+						"1.16.2-fabric",
+						"1.16.3-rc1-fabric",
+						"1.16.3-fabric",
+						"1.16.4-pre1-fabric",
+						"1.16.4-pre2-fabric",
+						"1.16.4-rc1-fabric",
+						"1.16.4-fabric",
+						"20w45a-fabric",
+						"20w46a-fabric",
+						"20w48a-fabric",
+						"20w49a-fabric",
+						"20w51a-fabric",
+						"1.16.5-rc1-fabric",
+						"1.16.5-fabric",
+						"21w03a-fabric"
+					],
+					"version": "v2.0.1",
+					"hash": "sha512;923eb8206fea45bfc455bb195d71ab3eddf986e1cc2cc48fa9543e7601b34c0e184ad463f4c119622218559a7872ea4e3ebc6815c2dc172f41d1cabe1171ffa2",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.1/dynamic-fps-2.0.1.jar",
+					"filename": "dynamic-fps-2.0.1.jar"
+				},
+				{
+					"mcversion": "1.16.2-fabric",
+					"mcversions": [
+						"1.16.2-fabric",
+						"1.16.3-rc1-fabric",
+						"1.16.3-fabric",
+						"1.16.4-pre1-fabric",
+						"1.16.4-pre2-fabric",
+						"1.16.4-rc1-fabric",
+						"1.16.4-fabric",
+						"20w45a-fabric",
+						"20w46a-fabric",
+						"20w48a-fabric",
+						"20w49a-fabric",
+						"20w51a-fabric",
+						"1.16.5-rc1-fabric",
+						"1.16.5-fabric"
+					],
+					"version": "v2.0.0",
+					"hash": "sha512;38e85da3025c9b47905781fae0f4ae10a2437e97716c3fa60bb04510c57154e14e3cbd17a6ee5a8b375ee66621010a0110f9784709abd3a7fbdbbb5220be0be7",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.0/dynamic-fps-2.0.0.jar",
+					"filename": "dynamic-fps-2.0.0.jar"
+				},
+				{
+					"mcversion": "1.16.2-pre1-fabric",
+					"mcversions": [
+						"1.16.2-pre1-fabric",
+						"1.16.2-pre2-fabric",
+						"1.16.2-pre3-fabric",
+						"1.16.2-rc1-fabric",
+						"1.16.2-rc2-fabric",
+						"1.16.2-fabric",
+						"1.16.3-rc1-fabric",
+						"1.16.3-fabric",
+						"1.16.4-pre1-fabric",
+						"1.16.4-pre2-fabric",
+						"1.16.4-rc1-fabric",
+						"1.16.4-fabric",
+						"20w45a-fabric",
+						"20w46a-fabric",
+						"20w48a-fabric",
+						"20w49a-fabric",
+						"20w51a-fabric"
+					],
+					"version": "v1.2.1",
+					"hash": "sha1;2103fd47a4ee86087e908df34eacdcb0bc271d09",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v1.2.1/dynamic-fps-1.2.1.jar",
+					"filename": "dynamic-fps-1.2.1.jar"
+				}
+			],
+			"id": "dynamic-fps",
+			"display": "Dynamic FPS",
+			"icon": "https://cdn.modrinth.com/data/LQ3K71Q1/icon.png",
+			"forgeid": "dynamic-fps",
+			"nicknames": [],
+			"description": "Improve performance when Minecraft is in the background.",
+			"conflicts": [],
+			"categories": ["utility"],
+			"meta": {
+				"body_url": "https://cdn.modrinth.com/data/LQ3K71Q1/description.md",
+				"discord": null,
+				"src": "https://github.com/juliand665/Dynamic-FPS",
+				"modrinth": "https://modrinth.com/mod/dynamic-fps",
+				"author": "juliand665"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.18-pre1-fabric",
+					"mcversions": [
+						"1.18-pre1-fabric",
+						"1.18-pre2-fabric",
+						"1.18-pre3-fabric",
+						"1.18-pre4-fabric",
+						"1.18-pre5-fabric",
+						"1.18-pre6-fabric",
+						"1.18-pre7-fabric",
+						"1.18-pre8-fabric",
+						"1.18-rc1-fabric",
+						"1.18-rc2-fabric",
+						"1.18-rc3-fabric",
+						"1.18-rc4-fabric",
+						"1.18-fabric",
+						"1.18.1-pre1-fabric",
+						"1.18.1-rc1-fabric",
+						"1.18.1-rc2-fabric",
+						"1.18.1-rc3-fabric",
+						"1.18.1-fabric"
+					],
+					"version": "0.2.6",
+					"hash": "sha512;3b45a39779a5210330552c8f0d4c3153fdc641590bcb36ce2ed887c6d0f05ae7df8d974083745c375fe588d7760d58fb8dc2b24a6e3c2a7bdc22f6f77d7a9a30",
+					"url": "https://cdn.modrinth.com/data/Nz0RSWrF/versions/0.2.6/lazy-language-loader-0.2.6.jar",
+					"filename": "lazy-language-loader-0.2.6.jar"
+				},
+				{
+					"mcversion": "1.18-pre1-fabric",
+					"mcversions": [
+						"1.18-pre1-fabric",
+						"1.18-pre2-fabric",
+						"1.18-pre3-fabric",
+						"1.18-pre4-fabric",
+						"1.18-pre5-fabric",
+						"1.18-pre6-fabric",
+						"1.18-pre7-fabric",
+						"1.18-pre8-fabric",
+						"1.18-rc1-fabric",
+						"1.18-rc2-fabric",
+						"1.18-rc3-fabric",
+						"1.18-rc4-fabric",
+						"1.18-fabric"
+					],
+					"version": "0.2.5",
+					"hash": "sha1;feb136c022099b73a7f28adc996ac83add7929e7",
+					"url": "https://cdn.modrinth.com/data/Nz0RSWrF/versions/0.2.5/lazy-language-loader-0.2.5.jar",
+					"filename": "lazy-language-loader-0.2.5.jar"
+				},
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric"],
+					"version": "0.2.3",
+					"hash": "sha1;4b903d6004a2b54a83df23529843fb378d603f23",
+					"url": "https://cdn.modrinth.com/data/Nz0RSWrF/versions/0.2.3/lazy-language-loader-0.2.3.jar",
+					"filename": "lazy-language-loader-0.2.3.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric", "1.17.1-fabric"],
+					"version": "0.2.2",
+					"hash": "sha1;c2c6dc621197deb69170996c68bf2e1c73e1c7d1",
+					"url": "https://cdn.modrinth.com/data/Nz0RSWrF/versions/0.2.2/lazy-language-loader-0.2.2.jar",
+					"filename": "lazy-language-loader-0.2.2.jar"
+				}
+			],
+			"id": "lazy-language-loader",
+			"display": "lazy-language-loader",
+			"icon": "https://cdn.modrinth.com/data/Nz0RSWrF/icon.png",
+			"forgeid": "lazy-language-loader",
+			"nicknames": [],
+			"description": "lazy-language-loader improves loading times when changing your language by only reloading the language instead of all the game resources!",
+			"conflicts": [],
+			"categories": ["utility"],
+			"meta": {
+				"body_url": null,
+				"discord": "https://discord.gg/XAjvZ8GvPy",
+				"src": "https://github.com/ChachyDev/lazy-language-loader",
+				"modrinth": "https://modrinth.com/mod/lazy-language-loader",
+				"author": "chachy"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.18.1-fabric",
+					"mcversions": ["1.18.1-fabric"],
+					"version": "mc1.18.1-0.4.0",
+					"hash": "sha512;9bdbfdb69591ba095d51d7041b2c6e62e9f2c502a654f2d89f2e02332c609383eb9420f4a8956021f31b433721c66686b4645e133c8416b9c6662b536eb1a426",
+					"url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.1-0.4.0/sodium-extra-mc1.18.1-0.4.0.jar",
+					"filename": "sodium-extra-mc1.18.1-0.4.0.jar"
+				},
+				{
+					"mcversion": "1.17.1-fabric",
+					"mcversions": ["1.17.1-fabric"],
+					"version": "mc1.17.1-0.4.0",
+					"hash": "sha1;5a8ead439b9dba43fe9fe26936d8b022d398dce8",
+					"url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.4.0/sodium-extra-mc1.17.1-0.4.0.jar",
+					"filename": "sodium-extra-mc1.17.1-0.4.0.jar"
+				},
+				{
+					"mcversion": "1.16.5-fabric",
+					"mcversions": ["1.16.5-fabric"],
+					"version": "mc1.16.5-0.4.0",
+					"hash": "sha1;b1d62c055cd7f1271772322235c685058555b0fa",
+					"url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.4.0/sodium-extra-mc1.16.5-0.4.0.jar",
+					"filename": "sodium-extra-mc1.16.5-0.4.0.jar"
+				},
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric"],
+					"version": "mc1.18-0.3.7",
+					"hash": "sha1;058b2d44f3f34215144c3c7efa306b7cc869ca21",
+					"url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18-0.3.7/sodium-extra-mc1.18-0.3.7.jar",
+					"filename": "sodium-extra-mc1.18-0.3.7.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric", "1.17.1-fabric"],
+					"version": "mc1.17.1-0.3.6",
+					"hash": "sha1;8f311773c7bdea75456379990b4486955b8bfcb3",
+					"url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.3.6/sodium-extra-mc1.17.1-0.3.6.jar",
+					"filename": "sodium-extra-mc1.17.1-0.3.6.jar"
+				},
+				{
+					"mcversion": "1.16.2-fabric",
+					"mcversions": [
+						"1.16.2-fabric",
+						"1.16.3-fabric",
+						"1.16.4-fabric",
+						"1.16.5-fabric"
+					],
+					"version": "0.3.2",
+					"hash": "sha1;bbb0b68de58f8082a793851e3f1a08f81711d329",
+					"url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/0.3.2/sodium-extra-0.3.2.jar",
+					"filename": "sodium-extra-0.3.2.jar"
+				}
+			],
+			"id": "sodium-extra",
+			"display": "Sodium Extra",
+			"icon": "https://cdn.modrinth.com/data/PtjYWJkn/icon.png",
+			"forgeid": "sodium-extra",
+			"nicknames": [],
+			"description": "Features that shouldn't be in Sodium.",
+			"conflicts": [],
+			"categories": ["misc", "cursed"],
+			"meta": {
+				"body_url": null,
+				"discord": "https://discord.gg/TBGGM9VzH9",
+				"src": "https://github.com/FlashyReese/sodium-extra-fabric",
+				"modrinth": "https://modrinth.com/mod/sodium-extra",
+				"author": "FlashyReese"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.16.4-fabric",
+					"mcversions": [
+						"1.16.4-fabric",
+						"1.16.5-fabric",
+						"1.17-fabric",
+						"1.17.1-fabric"
+					],
+					"version": "mc1.17-2.1.0",
+					"hash": "sha512;91fc902780f6f5ab38e0abb4fb5f96d8a93e1f1f55d7bb8cec422c5a3b625c4cf63bc06e929dbce401b584d8869f1af3fc97891e2c43839d628596ec1de3c3d2",
+					"url": "https://cdn.modrinth.com/data/fKi1znuF/versions/2.1.0/chatlagfix-1.16.5+1.17.1-2.1.0.jar",
+					"filename": "chatlagfix-1.16.5+1.17.1-2.1.0.jar"
+				},
+				{
+					"mcversion": "1.16.4-fabric",
+					"mcversions": ["1.16.4-fabric", "1.16.5-fabric"],
+					"version": "mc1.16.5-2.0.2",
+					"hash": "sha512;a3f43f48516c31672f4ff984fd56cf9fa3fae1dcc04ab18b04eecdd94adb712b3a705a973a5820f73ae0128f7e642d88c466dd7388db3a2abcb6b85b0efc50d3",
+					"url": "https://cdn.modrinth.com/data/fKi1znuF/versions/mc1.16.5-2.0.2/chatlagfix-1.16.5-2.0.2-0.11.3.jar",
+					"filename": "chatlagfix-1.16.5-2.0.2-0.11.3.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric", "1.17.1-fabric"],
+					"version": "mc1.17.x-2.0.2",
+					"hash": "sha1;c5da71135d0d52b3bf7a6ca98f01a76e3930ef7f",
+					"url": "https://cdn.modrinth.com/data/fKi1znuF/versions/mc1.17.x-2.0.2/chatlagfix-1.17.1-2.0.2-java16.jar",
+					"filename": "chatlagfix-1.17.1-2.0.2-java16.jar"
+				},
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric", "1.18.1-fabric"],
+					"version": "mc1.18.x-2.0.2",
+					"hash": "sha512;274386b3ee6f0ff5f56b2409d4f70ae8d05d6f5572e7df145091896c1ba1c0fa09ca18fc1b8439b92ff8423de86b5c20b904dafa56a091c61f1bc113a241b7ed",
+					"url": "https://cdn.modrinth.com/data/fKi1znuF/versions/2.0.2/chatlagfix-1.18.1-2.0.2.jar",
+					"filename": "chatlagfix-1.18.1-2.0.2.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": [
+						"1.17-fabric",
+						"1.17.1-fabric",
+						"1.18-fabric",
+						"1.18.1-fabric"
+					],
+					"version": "1.0.0",
+					"hash": "sha512;9b6709ec90733066cea97e8b4ac2f5238118d6873e2fbee505f288dc8e6f4ca23551055aa56057d5ade90b080cb356deaee15ce34e06a421a23a9c6be51e7b95",
+					"url": "https://cdn.modrinth.com/data/fKi1znuF/versions/1.0.0/chatlagfix-1.0.0.jar",
+					"filename": "chatlagfix-1.0.0.jar"
+				}
+			],
+			"id": "chat-lag-fix",
+			"display": "Chat Lag Fix",
+			"icon": "https://cdn.modrinth.com/data/fKi1znuF/icon.png",
+			"forgeid": "chat-lag-fix",
+			"nicknames": [],
+			"description": " Fixes Minecraft client lag from receiving chat messages (for 1.17 and 1.16)",
+			"conflicts": [],
+			"categories": ["utility", "misc"],
+			"meta": {
+				"body_url": null,
+				"discord": null,
+				"src": "https://github.com/adryd325/chat-lag-fix",
+				"modrinth": "https://modrinth.com/mod/chat-lag-fix",
+				"author": "adryd"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric", "1.18.1-fabric"],
+					"version": "mc1.18.x-0.8.1",
+					"hash": "sha512;6a06f397f5f054f12334b81251dbdbd9c82c7e4e41810d6708a9d40966da113560c6f23e95f6f5ed52cfe1e843f7f71910a84b2bb476354456ff11be668a4c1d",
+					"url": "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.18.x-0.8.1/phosphor-fabric-mc1.18.x-0.8.1.jar",
+					"filename": "phosphor-fabric-mc1.18.x-0.8.1.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric", "1.17.1-fabric"],
+					"version": "mc1.17.x-0.8.0",
+					"hash": "sha1;7aed0f69363e18c46181eda687bcef2a43be7afc",
+					"url": "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.17.x-0.8.0/phosphor-fabric-mc1.17.x-0.8.0.jar",
+					"filename": "phosphor-fabric-mc1.17.x-0.8.0.jar"
+				},
+				{
+					"mcversion": "1.16.2-fabric",
+					"mcversions": [
+						"1.16.2-fabric",
+						"1.16.3-fabric",
+						"1.16.4-fabric",
+						"1.16.5-fabric"
+					],
+					"version": "mc1.16.2-0.8.0",
+					"hash": "sha512;8924a070abc3183c602da482250dd1d4137db06c7ae2bce8154cb4d82657ced44b1df5f4da402a279383f7731c1c9687a8c616716d8e15cf89f77541c69a36ef",
+					"url": "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.16.2-0.8.0/phosphor-fabric-mc1.16.2-0.8.0.jar",
+					"filename": "phosphor-fabric-mc1.16.2-0.8.0.jar"
+				},
+				{
+					"mcversion": "1.16.3-fabric",
+					"mcversions": ["1.16.3-fabric", "1.16.4-fabric", "1.16.5-fabric"],
+					"version": "mc1.16.3-0.7.0",
+					"hash": "sha1;69fb09eecc4d3e9e273a986228df38bc4d8dd8a3",
+					"url": "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.16.3-0.7.0/phosphor-fabric-mc1.16.3-0.7.0+build.10.jar",
+					"filename": "phosphor-fabric-mc1.16.3-0.7.0+build.10.jar"
+				}
+			],
+			"id": "phosphor",
+			"display": "Phosphor",
+			"icon": "https://cdn.modrinth.com/data/hEOCdOgW/icon.png",
+			"forgeid": "phosphor",
+			"nicknames": [],
+			"description": "No-compromises lighting engine optimization mod",
+			"conflicts": [],
+			"categories": ["utility"],
+			"meta": {
+				"body_url": "https://cdn.modrinth.com/data/hEOCdOgW/description.md",
+				"discord": "https://jellysquid.me/discord",
+				"src": "https://github.com/jellysquid3/phosphor-fabric",
+				"modrinth": "https://modrinth.com/mod/phosphor",
+				"author": "PhiPro95, jellysquid3"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.18.1-fabric",
+					"mcversions": ["1.18.1-fabric"],
+					"version": "0.1.6",
+					"hash": "sha1;f0f3961ed0a22a8b3d5b20af4dde7ac6fbc06a46",
+					"url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.6/krypton-0.1.6.jar",
+					"filename": "krypton-0.1.6.jar"
+				},
+				{
+					"mcversion": "1.17.1-fabric",
+					"mcversions": ["1.17.1-fabric"],
+					"version": "0.1.4",
+					"hash": "sha1;3b166b4fc621726da6ba83cabf6bce2bb826700d",
+					"url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.4/krypton-0.1.4.jar",
+					"filename": "krypton-0.1.4.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric"],
+					"version": "0.1.3",
+					"hash": "sha1;d08aeb37d7d0ffb2a619c08c3bb805b2b5856d07",
+					"url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.3/krypton-0.1.3.jar",
+					"filename": "krypton-0.1.3.jar"
+				},
+				{
+					"mcversion": "1.16.2-fabric",
+					"mcversions": [
+						"1.16.2-fabric",
+						"1.16.3-fabric",
+						"1.16.4-fabric",
+						"1.16.5-fabric"
+					],
+					"version": "0.1.2",
+					"hash": "sha512;36fd6bd5a963bdb8f1472b2d1f7ac34a2044f644c7911570ce374665e1de24ef31793b5cd5421222f9e6b4eaa851e1e6358658b306d20df71b8c79a93984710c",
+					"url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.2/krypton-0.1.2.jar",
+					"filename": "krypton-0.1.2.jar"
+				},
+				{
+					"mcversion": "1.16.2-fabric",
+					"mcversions": ["1.16.2-fabric", "1.16.3-fabric", "1.16.4-fabric"],
+					"version": "0.1.0",
+					"hash": "sha1;7223fb36de43f0fcfbc6c74bbfb8c334a17262de",
+					"url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.0/krypton-0.1.0.jar",
+					"filename": "krypton-0.1.0.jar"
+				}
+			],
+			"id": "krypton",
+			"display": "Krypton",
+			"icon": "https://cdn.modrinth.com/data/fQEb0iXm/icon.png",
+			"forgeid": "krypton",
+			"nicknames": [],
+			"description": "A mod to optimize the Minecraft networking stack",
+			"conflicts": [],
+			"categories": ["utility", "misc"],
+			"meta": {
+				"body_url": "https://cdn.modrinth.com/data/fQEb0iXm/description.md",
+				"discord": "https://discord.gg/RUGArxEQ8J",
+				"src": "https://github.com/astei/krypton",
+				"modrinth": "https://modrinth.com/mod/krypton",
+				"author": "astei"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.16-fabric",
+					"mcversions": ["1.16-fabric"],
+					"version": "1.2.2+1.16",
+					"hash": "sha512;52f6afb67db0f5fbcbaa919fe8a944aa63273280b8e1c03f079e4321340d55372be414ec9f6128af48d045f4a80c0c8309cd118460d1b7e17787eec86d2e7e20",
+					"url": "https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.2+1.16/modmanager-1.2.2+1.16.jar",
+					"filename": "modmanager-1.2.2+1.16.jar"
+				},
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric"],
+					"version": "1.2.2+1.18",
+					"hash": "sha1;ecf4da053cc570500eaf17e478e331277397f7d0",
+					"url": "https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.2+1.18/modmanager-1.2.2+1.18.jar",
+					"filename": "modmanager-1.2.2+1.18.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric"],
+					"version": "1.2.2+1.17",
+					"hash": "sha512;f58d430c921f2c011b1b8a8abfc1e87917075a0328272e72f5c04e30e3bb1bf01b41df89abacc3c70f289e2fd4aec62c8ed1b8e07c4e6750ef52ff02ff0814c3",
+					"url": "https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.2+1.17/modmanager-1.2.2+1.17.jar",
+					"filename": "modmanager-1.2.2+1.17.jar"
+				},
+				{
+					"mcversion": "1.18-pre6-fabric",
+					"mcversions": ["1.18-pre6-fabric"],
+					"version": "1.2.0+1.18",
+					"hash": "sha512;4083df1aa0e239658cb8816b1437849787e37038499d69a51dc27e946986778c60cccf8ae59f09b6c916b07b25b388a3861fd83091f2f0af7d35270b78837fe5",
+					"url": "https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.0+1.18/modmanager-1.2.0+1.18.jar",
+					"filename": "modmanager-1.2.0+1.18.jar"
+				},
+				{
+					"mcversion": "1.17.1-fabric",
+					"mcversions": ["1.17.1-fabric"],
+					"version": "1.2.0-alpha+1.17",
+					"hash": "sha1;451320c4125ad9ec24ca126e38bfa89e0811b52d",
+					"url": "https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.0-alpha+1.17/modmanager-1.2.0-alpha+1.17.jar",
+					"filename": "modmanager-1.2.0-alpha+1.17.jar"
+				}
+			],
+			"id": "modmanager",
+			"display": "Mod Manager",
+			"icon": "https://cdn.modrinth.com/data/6kq7BzRK/icon.png",
+			"forgeid": "modmanager",
+			"nicknames": [],
+			"description": "An extension for Mod Menu which allows you to manage your mods ingame",
+			"conflicts": [],
+			"categories": ["utility", "misc"],
+			"meta": {
+				"body_url": null,
+				"discord": null,
+				"src": "https://github.com/ModManagerMC/ModManager",
+				"modrinth": "https://modrinth.com/mod/modmanager",
+				"author": "DeathsGun"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.18.1-fabric",
+					"mcversions": ["1.18.1-fabric"],
+					"version": "1.9.0",
+					"hash": "sha512;324dd9fcefcb05aca112c28053806847315e5a304db4fcaec0f5d5c4c032b1ed6f038aad92a81c603b92e9d200e56fd7cf3c66686ed3c9926d51c6c42bc3bad7",
+					"url": "https://cdn.modrinth.com/data/jxuxsA0D/versions/1.9.0/TieFix-1.9.0.jar",
+					"filename": "TieFix-1.9.0.jar"
+				},
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric", "1.18.1-fabric"],
+					"version": "1.8.0",
+					"hash": "sha512;00cb8981f58f9ba4e1929e4c7e5864c6015e2d2e3eeab7d315e4fa436b8d5332854714277b175b0a89251f06bca11e3bee0f0bcbb2deb15c129eabc8609567b0",
+					"url": "https://cdn.modrinth.com/data/jxuxsA0D/versions/1.8.0/TieFix-1.8.0.jar",
+					"filename": "TieFix-1.8.0.jar"
+				},
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric"],
+					"version": "1.6.0",
+					"hash": "sha1;ef91a4307413fa142d36280a6c6c7537b4e6109d",
+					"url": "https://cdn.modrinth.com/data/jxuxsA0D/versions/1.6.0/TieFix-1.6.0.jar",
+					"filename": "TieFix-1.6.0.jar"
+				}
+			],
+			"id": "tiefix",
+			"display": "TieFix",
+			"icon": "https://cdn.modrinth.com/data/jxuxsA0D/icon.png",
+			"forgeid": "tiefix",
+			"nicknames": [],
+			"description": "Fixes some annoying bugs in the Minecraft client",
+			"conflicts": [],
+			"categories": ["utility", "misc"],
+			"meta": {
+				"body_url": null,
+				"discord": null,
+				"src": "https://github.com/j-tai/TieFix",
+				"modrinth": "https://modrinth.com/mod/tiefix",
+				"author": "j-tai"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric", "1.17.1-fabric"],
+					"version": "1.1.1+1.17",
+					"hash": "sha512;de5c8baeb5b7e24ff5a5c8b727bc7f8f19fb068b0cece153c860c77077352575ab9a87dd1c2ef3c21fc9a62a50da3553807abd5602dfe1c3a0351f608db16fe5",
+					"url": "https://cdn.modrinth.com/data/kYq5qkSL/versions/1.1.1+1.17/borderless-mining-1.1.1+1.17.jar",
+					"filename": "borderless-mining-1.1.1+1.17.jar"
+				},
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric", "1.18.1-fabric"],
+					"version": "1.1.1+1.18",
+					"hash": "sha512;c8fe6e15ddea32668822dddb26e1851e5f03834be4bcb2eff9c0da7fdc086a9b6cead78e31a44d3bc66335cba11144ee0337c6d5346f1ba63623064499b3188d",
+					"url": "https://cdn.modrinth.com/data/kYq5qkSL/versions/1.1.1+1.18/borderless-mining-1.1.1+1.18.jar",
+					"filename": "borderless-mining-1.1.1+1.18.jar"
+				},
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric"],
+					"version": "1.1.0+1.18",
+					"hash": "sha512;c9e784012d744ddb2fc1bb42fd5577a0fd8dffb6c1690ca8bf048ed0767becb2e5439aa708af5666ac80ebb7132a7b9d9e7694cf4849b658a150db21de25dfe7",
+					"url": "https://cdn.modrinth.com/data/kYq5qkSL/versions/1.1.0+1.18/borderless-mining-1.1.0+1.18.jar",
+					"filename": "borderless-mining-1.1.0+1.18.jar"
+				},
+				{
+					"mcversion": "1.16.2-fabric",
+					"mcversions": [
+						"1.16.2-fabric",
+						"1.16.3-fabric",
+						"1.16.4-fabric",
+						"1.16.5-fabric"
+					],
+					"version": "1.0.6+1.16.2",
+					"hash": "sha1;9279dfcaf6fa9a3b59ba3b243aaf3c324e5dbb38",
+					"url": "https://cdn.modrinth.com/data/kYq5qkSL/versions/1.0.6+1.16.2/borderless-mining-1.0.6+1.16.2.jar",
+					"filename": "borderless-mining-1.0.6+1.16.2.jar"
+				},
+				{
+					"mcversion": "1.15.2-fabric",
+					"mcversions": ["1.15.2-fabric"],
+					"version": "1.0.2+1.15",
+					"hash": "sha1;a522a2c028dabe673096ed6ad47c9a75ac55e9de",
+					"url": "https://cdn.modrinth.com/data/kYq5qkSL/versions/1.0.2+1.15/borderless-mining-1.0.2+1.15.jar",
+					"filename": "borderless-mining-1.0.2+1.15.jar"
+				},
+				{
+					"mcversion": "1.12-forge",
+					"mcversions": ["1.12-forge", "1.12.1-forge", "1.12.2-forge"],
+					"version": "0.0.0-1.6.0+1.12",
+					"hash": "sha1;7c528e8846de3985ec1f32583e8fe2467c8fced5",
+					"url": "https://cdn.modrinth.com/data/kYq5qkSL/versions/0.0.0-1.6.0+1.12/FullscreenWindowed-1.12-1.6.0-1.jar",
+					"filename": "FullscreenWindowed-1.12-1.6.0-1.jar"
+				}
+			],
+			"id": "borderless-mining",
+			"display": "Borderless Mining",
+			"icon": "https://cdn.modrinth.com/data/kYq5qkSL/icon.png",
+			"forgeid": "borderless-mining",
+			"nicknames": [],
+			"description": "Changes Fullscreen to use a borderless window.",
+			"conflicts": [],
+			"categories": ["utility"],
+			"meta": {
+				"body_url": null,
+				"discord": null,
+				"src": "https://github.com/comp500/BorderlessMining",
+				"modrinth": "https://modrinth.com/mod/borderless-mining",
+				"author": "comp500"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.16.5-forge",
+					"mcversions": ["1.16.5-forge"],
+					"version": "4.1.4+1.16.5-forge",
+					"hash": "sha512;d51a2ee6a531bfe8d2b0e808b97fa555af8bab54ab139967aeeb401463b0002c80a93c3e7326cf4cfdf2ff68292b491db5f6ed7373732664a3b41aae1c6b03db",
+					"url": "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.4+1.16.5-forge/notenoughcrashes-4.1.4+1.16.5-forge.jar",
+					"filename": "notenoughcrashes-4.1.4+1.16.5-forge.jar"
+				},
+				{
+					"mcversion": "1.17.1-forge",
+					"mcversions": ["1.17.1-forge"],
+					"version": "4.1.4+1.17.1-forge",
+					"hash": "sha1;fa0f98f17943bf79502e1249aee03878a2d3ba10",
+					"url": "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.4+1.17.1-forge/notenoughcrashes-4.1.4+1.17.1-forge.jar",
+					"filename": "notenoughcrashes-4.1.4+1.17.1-forge.jar"
+				},
+				{
+					"mcversion": "1.18.1-forge",
+					"mcversions": ["1.18.1-forge"],
+					"version": "4.1.4+1.18.1-forge",
+					"hash": "sha512;b6316615cd7b810def2c8024aa019b9dfd1b0faf65a72ff2d6a7a9f29f36d5ed80174b75dc1809afbd7b4bfe4d4b6d90f11482d4fd0dd27b697842636991f29e",
+					"url": "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.4+1.18.1-forge/notenoughcrashes-4.1.4+1.18.1-forge.jar",
+					"filename": "notenoughcrashes-4.1.4+1.18.1-forge.jar"
+				},
+				{
+					"mcversion": "1.18-forge",
+					"mcversions": ["1.18-forge"],
+					"version": "4.1.3+1.18-forge",
+					"hash": "sha1;bad5c5acbf6cd34838e5609cd40206ed10b53adf",
+					"url": "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.3+1.18-forge/notenoughcrashes-4.1.3+1.18-forge.jar",
+					"filename": "notenoughcrashes-4.1.3+1.18-forge.jar"
+				},
+				{
+					"mcversion": "1.18-rc3-fabric",
+					"mcversions": ["1.18-rc3-fabric"],
+					"version": "4.1.2+1.18-rc3-fabric",
+					"hash": "sha512;2589b206c192025da973a1b23e7a643610a4cc0d8ec12b270ed743ba680f3c09ebb0d0738f718d447830b2d8774622c82d734d0cef92ccb949e12f973467199e",
+					"url": "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.2+1.18-rc3-fabric/notenoughcrashes-4.1.2+1.18-rc3-fabric.jar",
+					"filename": "notenoughcrashes-4.1.2+1.18-rc3-fabric.jar"
+				},
+				{
+					"mcversion": "1.18-pre5-fabric",
+					"mcversions": ["1.18-pre5-fabric"],
+					"version": "4.1.1+1.18-pre5-fabric",
+					"hash": "sha512;c8aac1c9710192a3e9a60a0c21dc00d85018df2b2d5f13d58317ef0e836d6fb41970bba1a77859f0f0e996285d257080340e6f17e78c15ba4afc45092a286aa7",
+					"url": "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.1+1.18-pre5-fabric/notenoughcrashes-4.1.1+1.18-pre5-fabric.jar",
+					"filename": "notenoughcrashes-4.1.1+1.18-pre5-fabric.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric"],
+					"version": "3.6.0+1.17",
+					"hash": "sha512;5ee6d7c5e5db376a466f95cac1107caf02f6891795842a6676408af70761d92790fa85934a0c11e5e761223419795fbff873e121327c02a28cabf813859c9beb",
+					"url": "https://cdn.modrinth.com//data/yM94ont6/versions/3.6.0+1.17/notenoughcrashes-3.6.0+1.17-fabric.jar",
+					"filename": "notenoughcrashes-3.6.0+1.17-fabric.jar"
+				}
+			],
+			"id": "notenoughcrashes",
+			"display": "Not Enough Crashes",
+			"icon": "https://cdn.modrinth.com/data/yM94ont6/icon.png",
+			"forgeid": "notenoughcrashes",
+			"nicknames": [],
+			"description": "When crashing, you can go back to the title screen and keep playing, without needing to restart, alongside other things to make crashes more pleasant.",
+			"conflicts": [],
+			"categories": ["utility", "misc"],
+			"meta": {
+				"body_url": null,
+				"discord": "https://discord.gg/CFaCu97",
+				"src": "https://github.com/natanfudge/Not-Enough-Crashes",
+				"modrinth": "https://modrinth.com/mod/notenoughcrashes",
+				"author": "natanfudge"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.18-forge",
+					"mcversions": ["1.18-forge", "1.18.1-forge"],
+					"version": "1.5.6",
+					"hash": "sha512;a8cb2dc25b32cde579feec9591e7e1cc0c3954f3a07dfb1e2372c684b88408d5a9781d9b5bab9f6bfdd10a0d9876c625d25a74e722bbbe1a5877393996f1c8e2",
+					"url": "https://cdn.modrinth.com/data/vWIaVOTE/versions/1.5.6/brb-Fabric-1.5.6.jar",
+					"filename": "brb-Fabric-1.5.6.jar"
+				},
+				{
+					"mcversion": "1.17.1-fabric",
+					"mcversions": ["1.17.1-fabric", "1.18.1-fabric"],
+					"version": "1.5.5",
+					"hash": "sha512;9e450304033b61047c8a2f5745c94688dd936e1d6a755a283e6f50db9d51012ea05d0f9f7bfb1888747b6dd41031542dd9f74e22084846c23445a453128076de",
+					"url": "https://cdn.modrinth.com/data/vWIaVOTE/versions/1.5.5/better-recipe-book-1.5.5-1.17.1.jar",
+					"filename": "better-recipe-book-1.5.5-1.17.1.jar"
+				},
+				{
+					"mcversion": "1.17.1-fabric",
+					"mcversions": ["1.17.1-fabric", "21w42a-fabric"],
+					"version": "1.5.4",
+					"hash": "sha1;6d7e92a5fa0234b24b856665970f26b211e0c60a",
+					"url": "https://cdn.modrinth.com/data/vWIaVOTE/versions/1.5.4/better-recipe-book-1.5.4-1.18.jar",
+					"filename": "better-recipe-book-1.5.4-1.18.jar"
+				},
+				{
+					"mcversion": "1.17.1-fabric",
+					"mcversions": ["1.17.1-fabric"],
+					"version": "1.5.3",
+					"hash": "sha1;e2c77a59429341496d359d0e56b6084b2a234588",
+					"url": "https://cdn.modrinth.com/data/vWIaVOTE/versions/1.5.3-1.17/better-recipe-book-1.5.3-1.17.jar",
+					"filename": "better-recipe-book-1.5.3-1.17.jar"
+				},
+				{
+					"mcversion": "21w42a-fabric",
+					"mcversions": ["21w42a-fabric"],
+					"version": "1.5.3",
+					"hash": "sha512;b084392a08b80e746450076ce1cd1ed178a5726ddb1682d16650423bdb429d0e5bdda0bdc8e1f7808c1663a1bf19a0f46b52508b092a42ca4224a89aba0f5687",
+					"url": "https://cdn.modrinth.com/data/vWIaVOTE/versions/1.5.3/better-recipe-book-1.5.3-1.18.jar",
+					"filename": "better-recipe-book-1.5.3-1.18.jar"
+				},
+				{
+					"mcversion": "21w40a-fabric",
+					"mcversions": ["21w40a-fabric"],
+					"version": "1.5.2",
+					"hash": "sha1;6aea842254f651188c457ffe3a7a62d30bde04ef",
+					"url": "https://cdn.modrinth.com/data/vWIaVOTE/versions/1.5.2/better-recipe-book-1.5.2-1.18.jar",
+					"filename": "better-recipe-book-1.5.2-1.18.jar"
+				}
+			],
+			"id": "brb",
+			"display": "Better Recipe Book",
+			"icon": "https://cdn.modrinth.com/data/vWIaVOTE/icon.png",
+			"forgeid": "brb",
+			"nicknames": [],
+			"description": " Adds a 'few' quality of life changes to the recipe book. ",
+			"conflicts": [],
+			"categories": ["utility", "misc"],
+			"meta": {
+				"body_url": null,
+				"discord": null,
+				"src": "https://github.com/mrshmllow/BetterRecipeBook",
+				"modrinth": "https://modrinth.com/mod/brb",
+				"author": "marshmallow"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric", "1.18.1-fabric"],
+					"version": "1.2.1+1.18",
+					"hash": "sha512;0017289a36af501c9632124e4c910dcf4c4257fa753bfb826dafaeb4ea2ab36864c9afe28e7d394bb00b5294954bc38bf8e5a5c4b5e537881a899260692644d0",
+					"url": "https://cdn.modrinth.com/data/a93H3mKU/versions/1.2.1+1.18/inspecio-1.2.1+1.18.jar",
+					"filename": "inspecio-1.2.1+1.18.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric", "1.17.1-fabric"],
+					"version": "1.1.0+1.17",
+					"hash": "sha512;d77870fecc9aabaf6478de4095a6dd8b2f3cd93831d025df5d083754e0bb17033ce00e35b55486a75403ed8457ee27b7a8612326d463161b44ce34d6f3c214ea",
+					"url": "https://cdn.modrinth.com/data/a93H3mKU/versions/1.1.0+1.17/inspecio-1.1.0+1.17.jar",
+					"filename": "inspecio-1.1.0+1.17.jar"
+				},
+				{
+					"mcversion": "21w19a-fabric",
+					"mcversions": [
+						"21w19a-fabric",
+						"21w20a-fabric",
+						"1.17-pre1-fabric",
+						"1.17-pre2-fabric",
+						"1.17-pre3-fabric",
+						"1.17-rc1-fabric",
+						"1.17-rc2-fabric"
+					],
+					"version": "1.0.2+21w19a",
+					"hash": "sha1;66a419ddce5a41f1c7b201123ed1df87d80bd942",
+					"url": "https://cdn.modrinth.com/data/a93H3mKU/versions/1.0.2+21w19a/inspecio-1.0.2+21w19a.jar",
+					"filename": "inspecio-1.0.2+21w19a.jar"
+				},
+				{
+					"mcversion": "21w13a-fabric",
+					"mcversions": ["21w13a-fabric", "21w14a-fabric", "21w15a-fabric"],
+					"version": "1.0.1+21w13a",
+					"hash": "sha1;ff9993c0d6854d03f916403b0a3046e93d50dcb6",
+					"url": "https://cdn.modrinth.com/data/a93H3mKU/versions/1.0.1+21w13a/inspecio-1.0.1+21w13a.jar",
+					"filename": "inspecio-1.0.1+21w13a.jar"
+				},
+				{
+					"mcversion": "20w51a-fabric",
+					"mcversions": [
+						"20w51a-fabric",
+						"21w03a-fabric",
+						"21w05a-fabric",
+						"21w05b-fabric",
+						"21w06a-fabric"
+					],
+					"version": "1.0.1+20w51a",
+					"hash": "sha1;b9c57dcec6c2e6fb54df033ac8bd43850e20299a",
+					"url": "https://cdn.modrinth.com/data/a93H3mKU/versions/1.0.1+20w51a/inspecio-1.0.1+20w51a.jar",
+					"filename": "inspecio-1.0.1+20w51a.jar"
+				},
+				{
+					"mcversion": "20w51a-fabric",
+					"mcversions": ["20w51a-fabric"],
+					"version": "1.0.0+20w51a",
+					"hash": "sha1;6e1463636d3c3adb4049e43501c9a3fcbeba531b",
+					"url": "https://cdn.modrinth.com/data/a93H3mKU/versions/1.0.0+20w51a/inspecio-1.0.0+20w51a.jar",
+					"filename": "inspecio-1.0.0+20w51a.jar"
+				}
+			],
+			"id": "inspecio",
+			"display": "Inspecio",
+			"icon": "https://cdn.modrinth.com/data/a93H3mKU/icon.png",
+			"forgeid": "inspecio",
+			"nicknames": [],
+			"description": "A Minecraft mod which adds more tooltips.",
+			"conflicts": [],
+			"categories": ["utility", "decoration"],
+			"meta": {
+				"body_url": "https://cdn.modrinth.com/data/a93H3mKU/description.md",
+				"discord": null,
+				"src": "https://github.com/Queerbric/Inspecio",
+				"modrinth": "https://modrinth.com/mod/inspecio",
+				"author": "LambdAurora, Emi"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.17.1-fabric",
+					"mcversions": ["1.17.1-fabric"],
+					"version": "1.1",
+					"hash": "sha512;a7466e270aa0dd23682104e3182ebdf7b3f95ef44df3716762cd5d3a7908ea059c741f5b754421b568886d84be666aa108771ffcce897e30a271cc280e340584",
+					"url": "https://cdn.modrinth.com/data/w2SFICvx/versions/1.1/CompactChat-1.1.jar",
+					"filename": "CompactChat-1.1.jar"
+				}
+			],
+			"id": "compactchat",
+			"display": "CompactChat",
+			"icon": null,
+			"forgeid": "compactchat",
+			"nicknames": [],
+			"description": "Clean up your chat by removing duplicate messages!",
+			"conflicts": [],
+			"categories": ["utility", "misc"],
+			"meta": {
+				"body_url": null,
+				"discord": null,
+				"src": "https://github.com/cbyrneee/CompactChat",
+				"modrinth": "https://modrinth.com/mod/compactchat",
+				"author": "cbyrne"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.17.1-fabric",
+					"mcversions": ["1.17.1-fabric"],
+					"version": "2.1.0",
+					"hash": "sha512;0417ab62c6673e60492742cd5c43c780987bcbc911bbdfece514d119089e0e09d7efdb6334958a8bb82725de82a2e1342e9413fbb45c124908cca8d023e0cc48",
+					"url": "https://cdn.modrinth.com/data/M08ruV16/versions/2.1.0/bobby-2.1.0.jar",
+					"filename": "bobby-2.1.0.jar"
+				},
+				{
+					"mcversion": "1.18.1-fabric",
+					"mcversions": ["1.18.1-fabric"],
+					"version": "3.1.0",
+					"hash": "sha512;925a5c4899affa4098d997dfa4a4cb52c636d539e94bc489d1fa034218cb96819a70eb8b01647a39316a59fcfe223c1a8c05ed2e2ae5f4c1e75fa48f6af1c960",
+					"url": "https://cdn.modrinth.com/data/M08ruV16/versions/3.1.0/bobby-3.1.0.jar",
+					"filename": "bobby-3.1.0.jar"
+				},
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric"],
+					"version": "3.0.0",
+					"hash": "sha1;8ffd3e52f4cdcb7fa2ee1fb73de5f3ce869bee48",
+					"url": "https://cdn.modrinth.com/data/M08ruV16/versions/3.0.0/bobby-3.0.0.jar",
+					"filename": "bobby-3.0.0.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric"],
+					"version": "2.0.2",
+					"hash": "sha1;fa668987b5c3a3018a53cf9e10423a267866816c",
+					"url": "https://cdn.modrinth.com/data/M08ruV16/versions/2.0.2/bobby-2.0.2.jar",
+					"filename": "bobby-2.0.2.jar"
+				},
+				{
+					"mcversion": "1.16.5-fabric",
+					"mcversions": ["1.16.5-fabric"],
+					"version": "1.2.0",
+					"hash": "sha1;9a802e19f93caa0c3e89f9a265c2745fa4ce2646",
+					"url": "https://cdn.modrinth.com/data/M08ruV16/versions/1.2.0/bobby-1.2.0.jar",
+					"filename": "bobby-1.2.0.jar"
+				},
+				{
+					"mcversion": "1.16.4-fabric",
+					"mcversions": ["1.16.4-fabric", "1.16.5-fabric"],
+					"version": "1.1.3",
+					"hash": "sha512;6cec162f0428f5b90472ca34cd0b6d9a8121e06e1b318a311b99af824d8fa235ae979e1ea2eef604c04f55747ccdb4cf073080c8919fc289b4e425da7d980ff3",
+					"url": "https://cdn.modrinth.com/data/M08ruV16/versions/1.1.3/bobby-1.1.3.jar",
+					"filename": "bobby-1.1.3.jar"
+				},
+				{
+					"mcversion": "1.16.2-fabric",
+					"mcversions": ["1.16.2-fabric", "1.16.3-fabric", "1.16.4-fabric"],
+					"version": "0.2.0",
+					"hash": "sha1;4f73e8c915f9290269aaabfe78f7fe8061e071d7",
+					"url": "https://cdn.modrinth.com/data/M08ruV16/versions/0.2.0/bobby-0.2.0.jar",
+					"filename": "bobby-0.2.0.jar"
+				}
+			],
+			"id": "bobby",
+			"display": "Bobby",
+			"icon": "https://cdn.modrinth.com/data/M08ruV16/icon.png",
+			"forgeid": "bobby",
+			"nicknames": [],
+			"description": "Allows for render distances greater than the server's view-distance",
+			"conflicts": [],
+			"categories": ["misc"],
+			"meta": {
+				"body_url": "https://cdn.modrinth.com/data/M08ruV16/description.md",
+				"discord": null,
+				"src": "https://github.com/Johni0702/bobby",
+				"modrinth": "https://modrinth.com/mod/bobby",
+				"author": "Johni0702"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric", "1.17.1-fabric", "1.18-fabric"],
+					"version": "2.1.0+1.17",
+					"hash": "sha1;5f1f59c0ff6d54fc7ec1d42eb347a2f6987d234c",
+					"url": "https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.0+1.17/lambdynamiclights-2.1.0+1.17.jar",
+					"filename": "lambdynamiclights-2.1.0+1.17.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": [
+						"1.17-fabric",
+						"1.17.1-fabric",
+						"1.18-rc1-fabric",
+						"1.18-rc2-fabric",
+						"1.18-rc3-fabric",
+						"1.18-rc4-fabric"
+					],
+					"version": "2.0.2+1.17",
+					"hash": "sha512;87b5a08e007c2fa387ca58c866e2c6db6d1335a8c7878d2c5a2c1df4058db3aeab99bdb214b28fa7e77b6094b7c3ab5c37370195696154ccb4ba1c1411468308",
+					"url": "https://cdn.modrinth.com/data/yBW8D80W/versions/2.0.2+1.17/lambdynamiclights-2.0.2+1.17.jar",
+					"filename": "lambdynamiclights-2.0.2+1.17.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric", "1.17.1-fabric"],
+					"version": "2.0.1+1.17",
+					"hash": "sha1;addb3a3fde67174f214e3ae97cc8cb9860b10373",
+					"url": "https://cdn.modrinth.com/data/yBW8D80W/versions/2.0.1+1.17/lambdynamiclights-2.0.1+1.17.jar",
+					"filename": "lambdynamiclights-2.0.1+1.17.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric"],
+					"version": "2.0.0+1.17",
+					"hash": "sha512;f3d2ccda4e5384add6d471a3136e6fa67c92c19ded2fb2be48c4903555ae095dc3ec1eae6b787479133ecb6df8c2f670c10cbb4ca86f2ae94c91277b4fd0f60c",
+					"url": "https://cdn.modrinth.com/data/yBW8D80W/versions/2.0.0+1.17/lambdynamiclights-2.0.0+1.17.jar",
+					"filename": "lambdynamiclights-2.0.0+1.17.jar"
+				},
+				{
+					"mcversion": "1.16.2-fabric",
+					"mcversions": [
+						"1.16.2-fabric",
+						"1.16.3-fabric",
+						"1.16.4-fabric",
+						"1.16.5-fabric"
+					],
+					"version": "1.3.4+1.16",
+					"hash": "sha1;3fff986f77f6a9d8243e55048090b7cad4377de7",
+					"url": "https://cdn.modrinth.com/data/yBW8D80W/versions/1.3.4+1.16/lambdynamiclights-fabric-1.3.4+1.16.jar",
+					"filename": "lambdynamiclights-fabric-1.3.4+1.16.jar"
+				},
+				{
+					"mcversion": "1.16.2-fabric",
+					"mcversions": ["1.16.2-fabric", "1.16.3-fabric", "1.16.4-fabric"],
+					"version": "1.3.2",
+					"hash": "sha1;9a050e894bc9b661db4240cc035584b8aa3bd4fb",
+					"url": "https://cdn.modrinth.com/data/yBW8D80W/versions/1.3.2/lambdynamiclights-fabric-1.3.2+1.16.4.jar",
+					"filename": "lambdynamiclights-fabric-1.3.2+1.16.4.jar"
+				}
+			],
+			"id": "lambdynamiclights",
+			"display": "LambDynamicLights",
+			"icon": "https://cdn.modrinth.com/data/yBW8D80W/icon.png",
+			"forgeid": "lambdynamiclights",
+			"nicknames": [],
+			"description": "A dynamic lights mod for Fabric.",
+			"conflicts": [],
+			"categories": ["utility", "decoration", "adventure"],
+			"meta": {
+				"body_url": "https://cdn.modrinth.com/data/yBW8D80W/description.md",
+				"discord": "https://discord.gg/abEbzzv",
+				"src": "https://github.com/LambdAurora/LambDynamicLights",
+				"modrinth": "https://modrinth.com/mod/lambdynamiclights",
+				"author": "LambdAurora"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": [
+						"1.17-fabric",
+						"1.17.1-fabric",
+						"1.18-fabric",
+						"1.18.1-fabric"
+					],
+					"version": "1.2.2+1.17",
+					"hash": "sha512;065bb0dd243f25184547e296dfa8126735b5de45af6aac06ed87d579f504c75fbfdbee2cdab40b6a20bf6710e08ce67e1e16bd75368dc28f5d80132a9fce8c8a",
+					"url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.2+1.17/lambdabettergrass-1.2.2+1.17.jar",
+					"filename": "lambdabettergrass-1.2.2+1.17.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric", "1.17.1-fabric", "1.18-fabric"],
+					"version": "1.2.1+1.17",
+					"hash": "sha512;798c753adac190d945cc9838c12ee3af9812ccb8b0ba28da5e77949279906182174e51c53dd542dd683f4fd32fb0e9ee502d08decf7a117eef9925a81b2068c6",
+					"url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.1+1.17/lambdabettergrass-1.2.1+1.17.jar",
+					"filename": "lambdabettergrass-1.2.1+1.17.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric", "1.17.1-fabric"],
+					"version": "1.2.0+1.17",
+					"hash": "sha512;fdb6c75cb4fce325c086b6776544b52b38935887e89fa62154d6e6fc48f8c2c913d95553e24c96dfb026feb39210718a6a51c76f94afe388a3e0325f1fb1a7cd",
+					"url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.0+1.17/lambdabettergrass-1.2.0+1.17.jar",
+					"filename": "lambdabettergrass-1.2.0+1.17.jar"
+				},
+				{
+					"mcversion": "21w20a-fabric",
+					"mcversions": [
+						"21w20a-fabric",
+						"1.17-pre1-fabric",
+						"1.17-pre2-fabric",
+						"1.17-pre3-fabric",
+						"1.17-pre4-fabric"
+					],
+					"version": "1.1.2+21w20a",
+					"hash": "sha512;c23b700f31105c1d261f3f97eed8a3a3e18c3b2e1e6d4ba676b3deacf2d805cb94c60889057af1dc5635da4bbcd880494799440df011112a2985a18e28de4366",
+					"url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.1.2+21w20a/lambdabettergrass-1.1.2+21w20a.jar",
+					"filename": "lambdabettergrass-1.1.2+21w20a.jar"
+				},
+				{
+					"mcversion": "21w14a-fabric",
+					"mcversions": ["21w14a-fabric"],
+					"version": "1.1.1+21w14a",
+					"hash": "sha1;25fac38d167ef65d8fe7f35046e1bf9e36eac422",
+					"url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.1.1+21w14a/lambdabettergrass-fabric-1.1.1+21w14a.jar",
+					"filename": "lambdabettergrass-fabric-1.1.1+21w14a.jar"
+				},
+				{
+					"mcversion": "21w03a-fabric",
+					"mcversions": [
+						"21w03a-fabric",
+						"21w05a-fabric",
+						"21w05b-fabric",
+						"21w06a-fabric"
+					],
+					"version": "1.1.0+21w05b",
+					"hash": "sha1;56a3acbbd49aa0d11a8d79cc047c0e3aefbeac77",
+					"url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.1.0+21w05b/lambdabettergrass-fabric-1.1.0+21w05b.jar",
+					"filename": "lambdabettergrass-fabric-1.1.0+21w05b.jar"
+				},
+				{
+					"mcversion": "21w03a-fabric",
+					"mcversions": ["21w03a-fabric"],
+					"version": "1.0.3+21w03a",
+					"hash": "sha512;a487b1b65adbd47519249f574436982d3ce7b7c1cdf0dd44288ff55f512ff45307a29812c3ceb758b47f7f3cb022c567a0531d5f43dbdc927b2414b1421bbfce",
+					"url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.0.3+21w03a/lambdabettergrass-fabric-1.0.3+21w03a.jar",
+					"filename": "lambdabettergrass-fabric-1.0.3+21w03a.jar"
+				},
+				{
+					"mcversion": "1.16.2-fabric",
+					"mcversions": [
+						"1.16.2-fabric",
+						"1.16.3-fabric",
+						"1.16.4-fabric",
+						"1.16.5-fabric"
+					],
+					"version": "1.0.3+1.16",
+					"hash": "sha512;c7614c1fc446ddbe6b251ccd8a426a3f384516a2edfd2594d6ae5ba7624f7c44ee87d91b0eea52cb392c21331e10ae28a625da8a9ec3bc7309504824f604b071",
+					"url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.0.3+1.16/lambdabettergrass-fabric-1.0.3+1.16.jar",
+					"filename": "lambdabettergrass-fabric-1.0.3+1.16.jar"
+				},
+				{
+					"mcversion": "20w51a-fabric",
+					"mcversions": ["20w51a-fabric", "21w03a-fabric"],
+					"version": "1.0.2+20w51a",
+					"hash": "sha512;e4579121083c66d34a59409561d1630f98221b4cde18e93686a16a8f4e784bbffcc49f171edd7c8f0976e6afca5168fa602d484a182f0ffc9c780b29271e6dda",
+					"url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.0.2+20w51a/lambdabettergrass-fabric-1.0.2+20w51a.jar",
+					"filename": "lambdabettergrass-fabric-1.0.2+20w51a.jar"
+				},
+				{
+					"mcversion": "1.16.2-fabric",
+					"mcversions": ["1.16.2-fabric", "1.16.3-fabric", "1.16.4-fabric"],
+					"version": "1.0.1",
+					"hash": "sha1;b54db0cc044a71b9eac3d5dcd9e7dac0adc56444",
+					"url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.0.1/lambdabettergrass-fabric-1.0.1+1.16.3.jar",
+					"filename": "lambdabettergrass-fabric-1.0.1+1.16.3.jar"
+				}
+			],
+			"id": "lambdabettergrass",
+			"display": "LambdaBetterGrass",
+			"icon": "https://cdn.modrinth.com/data/2Uev7LdA/icon.png",
+			"forgeid": "lambdabettergrass",
+			"nicknames": [],
+			"description": "A Minecraft mod which adds better grass and snow to the game.",
+			"conflicts": [],
+			"categories": ["decoration"],
+			"meta": {
+				"body_url": "https://cdn.modrinth.com/data/2Uev7LdA/description.md",
+				"discord": null,
+				"src": "https://github.com/LambdAurora/LambdaBetterGrass",
+				"modrinth": "https://modrinth.com/mod/lambdabettergrass",
+				"author": "LambdAurora"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": [
+						"1.17-fabric",
+						"1.17.1-fabric",
+						"1.18-fabric",
+						"1.18.1-fabric"
+					],
+					"version": "2.3.2",
+					"hash": "sha512;e09a13efb20a36b7448fd3db688e2d810c00186a280be8f1e4ee2a1401267e544f981f8d8e042f15a00fef44abd9213a9eb46ffe3880b504c09ad5f5d532cf21",
+					"url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.2/cullleaves-2.3.2.jar",
+					"filename": "cullleaves-2.3.2.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": [
+						"1.17-fabric",
+						"1.17.1-fabric",
+						"21w37a-fabric",
+						"21w38a-fabric",
+						"21w39a-fabric",
+						"21w40a-fabric",
+						"21w41a-fabric"
+					],
+					"version": "2.3.1",
+					"hash": "sha1;5aea1c88c9ab5796164d842c829061e7ebf946ca",
+					"url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.1/cullleaves-2.3.1.jar",
+					"filename": "cullleaves-2.3.1.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": [
+						"1.17-fabric",
+						"1.17.1-fabric",
+						"21w37a-fabric",
+						"21w38a-fabric"
+					],
+					"version": "2.3.0",
+					"hash": "sha1;d4c5ad2cc573f974a806f1185e7c376c3d570295",
+					"url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.0/cullleaves-2.3.0.jar",
+					"filename": "cullleaves-2.3.0.jar"
+				},
+				{
+					"mcversion": "1.17-rc1-fabric",
+					"mcversions": ["1.17-rc1-fabric", "1.17-rc2-fabric", "1.17-fabric"],
+					"version": "2.2.0",
+					"hash": "sha512;4e108ceb97489ba0426c5967c714a87a815323617368948951026985f330c81327e8f3e53f13be279dda8abbef0448c4ffc06a1ffd6fa971d1c1a082bbaf0e6c",
+					"url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.2.0/cullleaves-2.2.0.jar",
+					"filename": "cullleaves-2.2.0.jar"
+				},
+				{
+					"mcversion": "1.16.1-fabric",
+					"mcversions": [
+						"1.16.1-fabric",
+						"1.16.2-fabric",
+						"1.16.3-fabric",
+						"1.16.4-fabric",
+						"1.16.5-fabric"
+					],
+					"version": "2.1.0",
+					"hash": "sha1;1ab8a22169bbe19c48328258bfb5fa608dac9ef1",
+					"url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.1.0/cullleaves-2.1.0.jar",
+					"filename": "cullleaves-2.1.0.jar"
+				},
+				{
+					"mcversion": "1.16-fabric",
+					"mcversions": [
+						"1.16-fabric",
+						"1.16.1-fabric",
+						"1.16.2-fabric",
+						"1.16.3-fabric",
+						"1.16.4-fabric",
+						"20w45a-fabric",
+						"20w46a-fabric",
+						"20w48a-fabric",
+						"20w49a-fabric",
+						"20w51a-fabric",
+						"1.16.5-rc1-fabric",
+						"21w03a-fabric"
+					],
+					"version": "2.0.0",
+					"hash": "sha1;4466089bd27d44de6f037d8108700b8b0b7cead8",
+					"url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.0.0/cullleaves-2.0.0.jar",
+					"filename": "cullleaves-2.0.0.jar"
+				},
+				{
+					"mcversion": "1.16-fabric",
+					"mcversions": [
+						"1.16-fabric",
+						"1.16.1-fabric",
+						"1.16.2-fabric",
+						"1.16.3-fabric",
+						"1.16.4-fabric",
+						"20w45a-fabric",
+						"20w46a-fabric",
+						"20w48a-fabric",
+						"20w49a-fabric",
+						"20w51a-fabric"
+					],
+					"version": "1.0.0",
+					"hash": "sha1;75be1fa481cd4e16bcd0b5d5990bac6cf56a7084",
+					"url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/1.0.0/cullleaves-1.0.0.jar",
+					"filename": "cullleaves-1.0.0.jar"
+				}
+			],
+			"id": "cull-leaves",
+			"display": "Cull Leaves",
+			"icon": "https://cdn.modrinth.com/data/GNxdLCoP/icon.png",
+			"forgeid": "cull-leaves",
+			"nicknames": [],
+			"description": "Adds culling to leaf blocks, providing a huge performance boost over vanilla.",
+			"conflicts": [],
+			"categories": ["misc"],
+			"meta": {
+				"body_url": "https://cdn.modrinth.com/data/GNxdLCoP/description.md",
+				"discord": "https://discord.gg/jAGnWYHm3r",
+				"src": "https://github.com/TeamMidnightDust/CullLeaves",
+				"modrinth": "https://modrinth.com/mod/cull-leaves",
+				"author": "Motschen"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.18-forge",
+					"mcversions": ["1.18-forge", "1.18.1-forge"],
+					"version": "forge-1.18-1.2.10",
+					"hash": "sha1;0bf6358097181ead6e5f433973a62846a1e73aad",
+					"url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/forge-1.18-1.2.10/plasmovoice-forge-1.18.1-1.2.10.jar",
+					"filename": "plasmovoice-forge-1.18.1-1.2.10.jar"
+				},
+				{
+					"mcversion": "1.17-forge",
+					"mcversions": ["1.17-forge", "1.17.1-forge"],
+					"version": "forge-1.17-1.2.10",
+					"hash": "sha1;d438205ed47a834f84ff4f8079af1fc7272d823f",
+					"url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/forge-1.17-1.2.10/plasmovoice-forge-1.17.1-1.2.10.jar",
+					"filename": "plasmovoice-forge-1.17.1-1.2.10.jar"
+				},
+				{
+					"mcversion": "1.16.4-forge",
+					"mcversions": ["1.16.4-forge", "1.16.5-forge"],
+					"version": "forge-1.16-1.2.10",
+					"hash": "sha1;668793676b072a70d0ed428a432b2dac8f8248ff",
+					"url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/forge-1.16-1.2.10/plasmovoice-forge-1.16.5-1.2.10.jar",
+					"filename": "plasmovoice-forge-1.16.5-1.2.10.jar"
+				},
+				{
+					"mcversion": "1.18-forge",
+					"mcversions": ["1.18-forge"],
+					"version": "forge-1.18-1.2.7",
+					"hash": "sha512;16aa491a900e3649e97da855bd562382efefd052fe16464d5d6e5ab5d446b4bccf48e8fe22d34e57cd909112061d2c18b3d00abd569a5bc2b55e136f0603a1b3",
+					"url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/forge-1.18-1.2.7/plasmovoice-forge-1.18-1.2.7.jar",
+					"filename": "plasmovoice-forge-1.18-1.2.7.jar"
+				}
+			],
+			"id": "plasmo-voice",
+			"display": "Plasmo Voice",
+			"icon": "https://cdn.modrinth.com/data/1bZhdhsH/icon.png",
+			"forgeid": "plasmo-voice",
+			"nicknames": [],
+			"description": "A proximity voice chat mod with audio positioning and lots of features",
+			"conflicts": [],
+			"categories": ["utility", "misc", "adventure"],
+			"meta": {
+				"body_url": null,
+				"discord": "https://discord.com/invite/uueEqzwCJJ",
+				"src": "https://github.com/plasmoapp/plasmo-voice/",
+				"modrinth": "https://modrinth.com/mod/plasmo-voice",
+				"author": "kpids, apehum"
+			}
+		},
+		{
+			"downloads": [
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric", "1.18.1-fabric"],
+					"version": "1.6.2",
+					"hash": "sha1;b3385f37c464a619637ab4dbb49382553b8bf8d3",
+					"url": "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.6.2/fabrishot-1.6.2.jar",
+					"filename": "fabrishot-1.6.2.jar"
+				},
+				{
+					"mcversion": "1.18-fabric",
+					"mcversions": ["1.18-fabric"],
+					"version": "1.6.0",
+					"hash": "sha1;d715dea2c87107167a507bcab05373a099d2dd60",
+					"url": "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.6.0/fabrishot-1.6.0.jar",
+					"filename": "fabrishot-1.6.0.jar"
+				},
+				{
+					"mcversion": "1.17.1-fabric",
+					"mcversions": ["1.17.1-fabric"],
+					"version": "1.5.1",
+					"hash": "sha1;739729da7c1930728c9d78e460ae5357945237a3",
+					"url": "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.5.1/fabrishot-1.5.1.jar",
+					"filename": "fabrishot-1.5.1.jar"
+				},
+				{
+					"mcversion": "1.17-fabric",
+					"mcversions": ["1.17-fabric"],
+					"version": "1.5.0",
+					"hash": "sha1;5e484758e524ae809a160a8efa0d02775b62aa39",
+					"url": "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.5.0/fabrishot-1.5.0.jar",
+					"filename": "fabrishot-1.5.0.jar"
+				},
+				{
+					"mcversion": "1.16-fabric",
+					"mcversions": [
+						"1.16-fabric",
+						"1.16.1-fabric",
+						"1.16.2-fabric",
+						"1.16.3-fabric",
+						"1.16.4-fabric",
+						"1.16.5-fabric"
+					],
+					"version": "1.4.0",
+					"hash": "sha512;22012fce8ae271cde5d7170bccae3a382f7601e9636eaabd8842fe3fc9d0d99a72fae871e0a51779a3847d562709a91df5726bc9c61a154bbefb24869b1c83aa",
+					"url": "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.4.0/fabrishot-1.4.0.jar",
+					"filename": "fabrishot-1.4.0.jar"
+				}
+			],
+			"id": "fabrishot",
+			"display": "Fabrishot",
+			"icon": "https://cdn.modrinth.com/data/3qsfQtE9/icon.png",
+			"forgeid": "fabrishot",
+			"nicknames": [],
+			"description": "Take insanely large screenshots because why not",
+			"conflicts": [],
+			"categories": ["utility"],
+			"meta": {
+				"body_url": null,
+				"discord": null,
+				"src": "https://github.com/ramidzkh/fabrishot",
+				"modrinth": "https://modrinth.com/mod/fabrishot",
+				"author": "ramidzkh"
+			}
+		}
+	]
+}

@@ -14,7 +14,9 @@
         "Recommended"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/utility.md?raw=true"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -41,7 +43,9 @@
         "Recommended"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/gui.md?raw=true"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -69,7 +73,9 @@
         "Recommended PvP"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md?raw=true"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -97,7 +103,10 @@
         "Recommended PvP"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "Moulberry",
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/qol.md?raw=true"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -123,7 +132,10 @@
         "Recommended PvP"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "W-OVERFLOW",
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md?raw=true"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -151,7 +163,9 @@
         "Recommended"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "Lily"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -179,7 +193,9 @@
         "Recommended"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "koxx12"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -206,7 +222,9 @@
         "Recommended"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "sp614x"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -231,7 +249,10 @@
         "Recommended"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "Sk1er LLC",
+        "body_url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/patcher.md"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -260,7 +281,9 @@
         "Recommended"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "W-OVERFLOW"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -285,7 +308,9 @@
         "Recommended"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "W-OVERFLOW"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -312,7 +337,9 @@
         "All PvP"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "Sk1er LLC"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -340,7 +367,10 @@
         "Recommended Skyblock"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "Biscuit",
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/sba.md?raw=true"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -368,7 +398,9 @@
         "All Skyblock"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "ThatGravyBoat"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -396,7 +428,10 @@
         "Recommended Skyblock"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "Moulberry",
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/neu.md?raw=true"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -424,7 +459,10 @@
         "All Skyblock"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "DankerWanker",
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md?raw=true"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -452,7 +490,10 @@
         "Recommended Skyblock"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "Sychic and Lily",
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/skytils.md?raw=true"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -477,7 +518,10 @@
         "All Skyblock"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "BananaFructa",
+        "body_url": "https://github.com/BananaFructa/Apec/blob/master/README.md?raw=true"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -505,7 +549,10 @@
         "All Skyblock"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "Cow",
+        "body_url": "https://github.com/cow-mc/Cowlection/blob/master/README.md?raw=true"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -532,7 +579,10 @@
         "All Skyblock"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "Cobble8",
+        "body_url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/sbp.md"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -560,7 +610,10 @@
         "All Skyblock"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "Syeyoung",
+        "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md?raw=true"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -587,7 +640,10 @@
         "All Skyblock"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "_risk",
+        "body_url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/drm.md"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -610,7 +666,9 @@
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/clock.png",
       "categories": [],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "Shatterpoint"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -633,7 +691,9 @@
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/creativemd.png",
       "categories": [],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "CreativeMD"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -656,7 +716,9 @@
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/tgb_icon.png",
       "categories": [],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "ThatGravyBoat"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -679,7 +741,9 @@
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/tterrag.png",
       "categories": [],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "tterrag1098"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -706,7 +770,9 @@
         "All PvP"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "Sk1er LLC"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -733,7 +799,9 @@
         "All Skyblock"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "Kerbybit"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -758,7 +826,9 @@
         "All Skyblock"
       ],
       "conflicts": [],
-      "meta": {},
+      "meta": {
+        "author": "Moulberry"
+      },
       "downloads": [
         {
           "mcversion": "1.8.9",
@@ -769,6 +839,31 @@
           "hash": "sha256;c6f1bc086e802b6de209decb3edcef8be31a88fd306fec59e7ac6709bbe2bade",
           "url": "https://github.com/Moulberry/SBCustomMobTex/releases/download/v1.4/SBCustomMobTex-1.4.jar",
           "filename": "SBCustomMobTex-1.4.jar"
+        }
+      ]
+    },
+    {
+      "id": "oofmod",
+      "nicknames": [],
+      "forgeid": "oofmod",
+      "display": "OofMod",
+      "description": "Play custom sounds when killing other players.",
+      "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/deftu.png",
+      "categories": [],
+      "conflicts": [],
+      "meta": {
+        "author": "Deftu, Powns, Refraction, Sk1er LLC"
+      },
+      "downloads": [
+        {
+          "mcversion": "1.8.9",
+          "mcversions": [
+            "1.8.9"
+          ],
+          "version": "4.1.0",
+          "hash": "sha256;5d804aeaaa10957fbf137c7cf9bd362108acaf2a",
+          "url": "https://github.com/Deftu/OofMod/releases/download/4.1.0/OofMod-4.1.0.jar",
+          "filename": "OofMod-4.1.0.jar"
         }
       ]
     }
