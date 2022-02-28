@@ -3,26 +3,19 @@
   "mods": [
     {
       "id": "itlt",
-      "nicknames": [
-        "itsthelittlethings"
-      ],
+      "nicknames": ["itsthelittlethings"],
       "forgeid": "itlt",
       "display": "Utility Bundle",
       "description": "Useful bundle of utilities for scrolling through tooltips, making Hypixel the default server, togglesprint, and a lot more!",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/skyclient.png",
-      "categories": [
-        "Recommended"
-      ],
+      "categories": ["Recommended"],
       "conflicts": [],
       "meta": {
         "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/utility.md?raw=true"
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.0.1",
           "hash": "sha256;99a4955bd8f94229f28fb3f9b648625e1d278ce96044a5b04ea77379c294fb04",
           "url": "https://media.forgecdn.net/files/3330/8/itlt-1.8.8-9-1.0.1.jar",
@@ -32,26 +25,19 @@
     },
     {
       "id": "cmm",
-      "nicknames": [
-        "custommainmenu"
-      ],
+      "nicknames": ["custommainmenu"],
       "forgeid": "custommainmenu",
       "display": "GUI Bundle",
       "description": "Useful GUI related features, e.g a custom main menu, a custom chat GUI, custom report and reward claim GUI and more!",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/skyclient.png",
-      "categories": [
-        "Recommended"
-      ],
+      "categories": ["Recommended"],
       "conflicts": [],
       "meta": {
         "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/gui.md?raw=true"
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "2.0",
           "hash": "sha256;f78f8a1e47a1d9a2a9e2d622e8c9383e9b907c6d023ab114b8d04f6207f22920",
           "url": "https://media.forgecdn.net/files/2280/558/CustomMainMenu-MC1.8.9-2.0.jar",
@@ -61,17 +47,12 @@
     },
     {
       "id": "evergreenhud",
-      "nicknames": [
-        "evergreen"
-      ],
+      "nicknames": ["evergreen"],
       "forgeid": "evergreenhud",
       "display": "HUD Bundle",
       "description": "Displays every piece of information a Minecraft player could ever need.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/skyclient.png",
-      "categories": [
-        "All PvP",
-        "Recommended PvP"
-      ],
+      "categories": ["All PvP", "Recommended PvP"],
       "conflicts": [],
       "meta": {
         "body_url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md?raw=true",
@@ -79,10 +60,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "BUG)",
           "hash": "sha256;2672fa38eb20d7e370587d7aec9fb07c7a4523bf1f4ae5386f6d48fd3c6a9d66",
           "url": "https://short.isxander.dev/RqjzS4",
@@ -92,17 +70,12 @@
     },
     {
       "id": "antidreamskin",
-      "nicknames": [
-        "insomnia"
-      ],
+      "nicknames": ["insomnia"],
       "forgeid": "insomnia",
       "display": "QOL Bundle",
       "description": "A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, levelhead, removing Dream skins.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/skyclient.png",
-      "categories": [
-        "All PvP",
-        "Recommended PvP"
-      ],
+      "categories": ["All PvP", "Recommended PvP"],
       "conflicts": [],
       "meta": {
         "author": "Moulberry",
@@ -110,10 +83,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "REL",
           "hash": "sha256;0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
           "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
@@ -128,10 +98,7 @@
       "display": "PvP Bundle",
       "description": "A bundle with mods that generally help PvP, such as sharpness particles, damage tint, and behindyou.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/skyclient.png",
-      "categories": [
-        "All PvP",
-        "Recommended PvP"
-      ],
+      "categories": ["All PvP", "Recommended PvP"],
       "conflicts": [],
       "meta": {
         "author": "W-OVERFLOW",
@@ -140,10 +107,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "3.2.0",
           "hash": "sha256;fdfd3bd9feb7719aa2a77edd2901566f5cdf42d8770a7a1f4d954f91ed359aa5",
           "url": "https://github.com/W-OVERFLOW/DamageTint/releases/download/v3.2.0/DamageTint-3.2.0.jar",
@@ -153,17 +117,12 @@
     },
     {
       "id": "scu",
-      "nicknames": [
-        "skyclientupdater",
-        "skyblockclientupdater"
-      ],
+      "nicknames": ["skyclientupdater", "skyblockclientupdater"],
       "forgeid": "skyblockclientupdater",
       "display": "SkyClient Updater",
       "description": "Adds in-game updater for the mods in SkyClient.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/skyclient.png",
-      "categories": [
-        "Recommended"
-      ],
+      "categories": ["Recommended"],
       "conflicts": [],
       "meta": {
         "author": "Lily",
@@ -171,10 +130,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.1.3",
           "hash": "md5;5C7EFBDBCEC7A85176DFC5DEF121DE52",
           "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.1.3/SkyblockClient-Updater-1.1.3.jar",
@@ -184,17 +140,12 @@
     },
     {
       "id": "scc",
-      "nicknames": [
-        "skyclientcosmetics",
-        "skyblockclientcosmetics"
-      ],
+      "nicknames": ["skyclientcosmetics", "skyblockclientcosmetics"],
       "forgeid": "skyclientcosmetics",
       "display": "SkyClient Cosmetics [BETA]",
       "description": "Adds some cool tags (mostly for people who have boosted our server), a discord RPC, and more!",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/skyclient.png",
-      "categories": [
-        "Recommended"
-      ],
+      "categories": ["Recommended"],
       "conflicts": [],
       "meta": {
         "author": "koxx12",
@@ -202,10 +153,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "7.0.6",
           "hash": "sha256;0efc1148bb72db248a931c2c9b42e8a2d3e2b4b251d78a183cf6197ee9c91cd2",
           "url": "https://github.com/koxx12-dev/Skyclient-Cosmetics/releases/download/0.7.0.6-beta/SkyClient.Cosmetics-0.7.0.6-beta.jar",
@@ -215,16 +163,12 @@
     },
     {
       "id": "optifine",
-      "nicknames": [
-        "of"
-      ],
+      "nicknames": ["of"],
       "forgeid": "optifine",
       "display": "OptiFine M5",
       "description": "OptiFine is an EXTREMELY lucrative modification that is required for most mods and practically all SkyBlock texture packs. It also adds an incredible amount of customizability options for Minecraft's graphics settings, from tree leaves to fog.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/optifine.png",
-      "categories": [
-        "Recommended"
-      ],
+      "categories": ["Recommended"],
       "conflicts": [],
       "meta": {
         "author": "sp614x",
@@ -232,10 +176,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "OptiFine__HD_U_M5",
           "hash": "sha256;2739760a70fca6ae5c7dc817bcc6283f18f55e38fa23778da7f387a6b724b2c4",
           "url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
@@ -250,9 +191,7 @@
       "display": "Patcher",
       "description": "Patcher optimizes the game in every possible way, fixes 70+ vanilla bugs along with some QOL features while maintaining both compatibility, and has almost no tradeoffs.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/monkey.png",
-      "categories": [
-        "Recommended"
-      ],
+      "categories": ["Recommended"],
       "conflicts": [],
       "meta": {
         "author": "Sk1er LLC",
@@ -261,10 +200,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.8.0",
           "hash": "sha256;c89142adccbe833081a61ac0b09ab936859de826150d25a0719fc1603b8ce83b",
           "url": "https://static.sk1er.club/repo/mods/patcher/1.8.0/1.8.9/Patcher-1.8.0%20(1.8.9).jar",
@@ -274,18 +210,12 @@
     },
     {
       "id": "crashpatch",
-      "nicknames": [
-        "crashhelp",
-        "ch",
-        "crash"
-      ],
+      "nicknames": ["crashhelp", "ch", "crash"],
       "forgeid": "crashpatch",
       "display": "CrashPatch",
       "description": "Stop crashes from closing your game and provide solutions!",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/wyvest.png",
-      "categories": [
-        "Recommended"
-      ],
+      "categories": ["Recommended"],
       "conflicts": [],
       "meta": {
         "author": "W-OVERFLOW",
@@ -293,10 +223,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.3.1",
           "hash": "sha256;fe451fb2da266604ff1785698eeba1e6",
           "url": "https://github.com/W-OVERFLOW/CrashPatch/releases/download/v1.3.1/CrashPatch-1.3.1.jar",
@@ -311,9 +238,7 @@
       "display": "Hytilities Reborn",
       "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/wyvest.png",
-      "categories": [
-        "Recommended"
-      ],
+      "categories": ["Recommended"],
       "conflicts": [],
       "meta": {
         "author": "W-OVERFLOW",
@@ -322,10 +247,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.4.0",
           "hash": "sha256;137be9b4739e69b320a97d8f6113858118fd1071ead152ccaf83a067b2f56544",
           "url": "https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/download/v1.4.0/Hytilities-Reborn-1.4.0.jar",
@@ -335,27 +257,17 @@
     },
     {
       "id": "nick_hider",
-      "nicknames": [
-        "nickhider"
-      ],
+      "nicknames": ["nickhider"],
       "forgeid": "nick_hider",
       "display": "Nick Hider",
       "description": "Hides your nick on Hypixel.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/monkey.png",
-      "categories": [
-        "All PvP"
-      ],
+      "categories": ["All PvP"],
       "conflicts": [],
-      "meta": {
-        "author": "Sk1er LLC",
-        "discord": "https://discord.gg/sk1er"
-      },
+      "meta": { "author": "Sk1er LLC", "discord": "https://discord.gg/sk1er" },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "6.0",
           "hash": "sha256;72f61cbcc69896afb0a2ebf044c035b528fd96badc198e75539488a4a58d8c65",
           "url": "https://static.sk1er.club/repo/mods/nick_hider/6.0/1.8.9/Nick%20Hider-6.0%20(1.8.9).jar",
@@ -365,17 +277,12 @@
     },
     {
       "id": "sba",
-      "nicknames": [
-        "skyblockaddons"
-      ],
+      "nicknames": ["skyblockaddons"],
       "forgeid": "skyblockaddons",
       "display": "SkyblockAddons",
       "description": "Essential QOL Skyblock mod with a plethora of indispensable (yet outdated) features, locking slots, timers, and a ton more to discover!",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/bisquit.png",
-      "categories": [
-        "All Skyblock",
-        "Recommended Skyblock"
-      ],
+      "categories": ["All Skyblock", "Recommended Skyblock"],
       "conflicts": [],
       "meta": {
         "author": "Biscuit",
@@ -385,10 +292,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "0.1.0",
           "hash": "sha256;5edaf4cba56654ad25454b8d17b8a9238ad7925ee797b506e08b8a1e4a82768e",
           "url": "https://cdn.discordapp.com/attachments/661779636983955466/937217821476257822/SkyblockAddons-1.7.0-beta.16934-for-MC-1.8.9.jar",
@@ -398,17 +302,12 @@
     },
     {
       "id": "sbhud",
-      "nicknames": [
-        "sbh",
-        "skyblockhud"
-      ],
+      "nicknames": ["sbh", "skyblockhud"],
       "forgeid": "skyblockhud",
       "display": "SkyblockHUD",
       "description": "SBH Focuses on enhancing the Skyblock HUD to feel like more of an RPG.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/sbhlogo.png",
-      "categories": [
-        "All Skyblock"
-      ],
+      "categories": ["All Skyblock"],
       "conflicts": [],
       "meta": {
         "author": "ThatGravyBoat",
@@ -416,10 +315,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.13-beta7",
           "hash": "sha256;abe885e56e794493046a6d97020eb7814ae4b47e622e3faac1e7344c2d6cd5b6",
           "url": "https://cdn.discordapp.com/attachments/845306740957642782/868401557874573342/SkyBlockHud-1.13-beta-test-7.jar",
@@ -429,17 +325,12 @@
     },
     {
       "id": "neu",
-      "nicknames": [
-        "notenoughupdates"
-      ],
+      "nicknames": ["notenoughupdates"],
       "forgeid": "notenoughupdates",
       "display": "NotEnoughUpdates",
       "description": "NEU is the essential modification for playing Skyblock, featuring locking slots, fishing notifications, a giant list of every Skyblock item in the game, and an in-game wiki page renderer for the items in the list! There are many, many more features than these, and new features are always being added!",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/neulogo.png",
-      "categories": [
-        "All Skyblock",
-        "Recommended Skyblock"
-      ],
+      "categories": ["All Skyblock", "Recommended Skyblock"],
       "conflicts": [],
       "meta": {
         "author": "Moulberry",
@@ -449,10 +340,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "2.0.0",
           "hash": "sha256;b8bfbf95c1b6d37e32002f1fdecb9699300a8b821adf4472ca8df764ae1c4d60",
           "url": "https://github.com/Moulberry/NotEnoughUpdates/releases/download/2.0.0/NotEnoughUpdates-2.0.0.jar",
@@ -462,17 +350,12 @@
     },
     {
       "id": "dsm",
-      "nicknames": [
-        "dankers",
-        "dankersskyblockmod"
-      ],
+      "nicknames": ["dankers", "dankersskyblockmod"],
       "forgeid": "Danker's Skyblock Mod",
       "display": "Danker's Skyblock Mod",
       "description": "DSM provides dungeon puzzle solvers, a reparty command, custom boss music and more useful features to see for yourself!",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/dsm logo cropped.png",
-      "categories": [
-        "All Skyblock"
-      ],
+      "categories": ["All Skyblock"],
       "conflicts": [],
       "meta": {
         "author": "DankerWanker",
@@ -482,10 +365,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": ".1.8.7-beta4",
           "hash": "sha256;61c769db7026a9c5da54bb3239d3caa3df857e40a755760f4f6e6dbe0c979865",
           "url": "https://cdn.discordapp.com/attachments/742114256555606106/871202865069322270/Dankers_Skyblock_Mod-1.8.7-beta4.jar",
@@ -495,17 +375,12 @@
     },
     {
       "id": "skytils",
-      "nicknames": [
-        "st"
-      ],
+      "nicknames": ["st"],
       "forgeid": "skytils",
       "display": "Skytils",
       "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/skytils.png",
-      "categories": [
-        "All Skyblock",
-        "Recommended Skyblock"
-      ],
+      "categories": ["All Skyblock", "Recommended Skyblock"],
       "conflicts": [],
       "meta": {
         "author": "Sychic and Lily",
@@ -515,10 +390,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.2.0-pre4",
           "hash": "md5;7699CD5610DFB330FFFA0A3057F0A330",
           "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.0-pre4/Skytils-1.2.0-pre4.jar",
@@ -533,9 +405,7 @@
       "display": "Apec",
       "description": "Apec provides a nice HUD improvement with a sleek blackbar at the bottom of your screen, making the game feel more like an RPG.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/apec.png",
-      "categories": [
-        "All Skyblock"
-      ],
+      "categories": ["All Skyblock"],
       "conflicts": [],
       "meta": {
         "author": "BananaFructa",
@@ -545,10 +415,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.10.1",
           "hash": "sha256;05f1739ca7f6a53fd3f1330228eba1153d05142515bf1d947b8cafaa0ebbee9a",
           "url": "https://github.com/BananaFructa/Apec/releases/download/1.10.1/Apec-1.10.1.jar",
@@ -558,17 +425,12 @@
     },
     {
       "id": "cowlection",
-      "nicknames": [
-        "cow",
-        "moo"
-      ],
+      "nicknames": ["cow", "moo"],
       "forgeid": "cowlection",
       "display": "Cowlection",
       "description": "A collection of various features and enhancements mainly towards Hypixel Skyblock with other features like log searching, stalk, \nbest friends list which are designed to be suitable for all Hypixel players.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/cowlection-logo.png",
-      "categories": [
-        "All Skyblock"
-      ],
+      "categories": ["All Skyblock"],
       "conflicts": [],
       "meta": {
         "author": "Cow",
@@ -578,10 +440,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "0.14.0",
           "hash": "sha256;3c2f0c7ade9f5dc4cb66a2f1d22f9f71a3a1fe426f0e57ac093ca2f434068929",
           "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.14.0/Cowlection-1.8.9-0.14.0.jar",
@@ -591,16 +450,12 @@
     },
     {
       "id": "sbp",
-      "nicknames": [
-        "skyblockpersonalized"
-      ],
+      "nicknames": ["skyblockpersonalized"],
       "forgeid": "sbp",
       "display": "SkyblockPersonalized",
       "description": "A mod with a lot of customizability and has many features including auto teleport to Garry, disable mining messages, disable specific messages, \nand showing player's dungeons stats with more for the user to discover.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/sbp.png",
-      "categories": [
-        "All Skyblock"
-      ],
+      "categories": ["All Skyblock"],
       "conflicts": [],
       "meta": {
         "author": "Cobble8",
@@ -609,10 +464,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.6.0.1",
           "hash": "sha256;8d226aa72f8d9f89a6ded6f1821f4964e2f210a96b4eb49e4c9a5f62746ed7c6",
           "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.6.0.1/1.8.9.SkyblockPersonalized.1.6.0.1.jar",
@@ -622,17 +474,12 @@
     },
     {
       "id": "dg",
-      "nicknames": [
-        "dungeonsguide",
-        "dg"
-      ],
+      "nicknames": ["dungeonsguide", "dg"],
       "forgeid": "skyblock_dungeons_guide",
       "display": "Dungeons Guide",
       "description": "A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/dungeonsguide.jpg",
-      "categories": [
-        "All Skyblock"
-      ],
+      "categories": ["All Skyblock"],
       "conflicts": [],
       "meta": {
         "author": "Syeyoung",
@@ -642,10 +489,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "3.7.5",
           "hash": "sha256;deeb5380a9f34c1b62ab428bb867caccefb039b9d3e2857ca2a5389163744152",
           "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.5/dungeonsguide-3.7.5.jar",
@@ -655,16 +499,12 @@
     },
     {
       "id": "drm",
-      "nicknames": [
-        "dungeonrooms"
-      ],
+      "nicknames": ["dungeonrooms"],
       "forgeid": "dungeonrooms",
       "display": "Dungeon Rooms",
       "description": "Displays dungeon room id/name and adds waypoints for secrets.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/drm.png",
-      "categories": [
-        "All Skyblock"
-      ],
+      "categories": ["All Skyblock"],
       "conflicts": [],
       "meta": {
         "author": "_risk",
@@ -674,10 +514,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "3.3.0",
           "hash": "sha256;df6fbc7d921ec9d13864398868b6a9d723f547a3b194fa1b63e9df59810a928c",
           "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.3.0/Dungeon_Rooms-3.3.0.jar",
@@ -694,15 +531,10 @@
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/clock.png",
       "categories": [],
       "conflicts": [],
-      "meta": {
-        "author": "Shatterpoint"
-      },
+      "meta": { "author": "Shatterpoint" },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "2.2.1",
           "hash": "sha256;6b0abfef3c927fd3011b80bf42de4114028db1f0c3c588dc8d131a6dc0b5bf7b",
           "url": "https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2.1/TimeChanger-2.2.1.jar",
@@ -725,10 +557,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.3",
           "hash": "sha256;4178c32389ec9b7cd75b7b110be5715475ea1be00f649ec0f728e5169a0f650a",
           "url": "https://media.forgecdn.net/files/2439/695/ItemPhysic+Lite+1.3+mc1.8.9.jar",
@@ -752,10 +581,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "3",
           "hash": "sha256;4fbabf2214e156744395572334045183",
           "url": "https://cdn.discordapp.com/attachments/923979897850966016/944361645608693770/Craftify-1.0.0-beta-3.jar",
@@ -772,15 +598,10 @@
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/tterrag.png",
       "categories": [],
       "conflicts": [],
-      "meta": {
-        "author": "tterrag1098"
-      },
+      "meta": { "author": "tterrag1098" },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "2",
           "hash": "sha256;895ab00da22925bc9d50bd2c78d253c7015c3214c4493fda387429e4911981db",
           "url": "https://media.forgecdn.net/files/2665/186/Blur-MC1.8.9-1.0.4-2.jar",
@@ -790,27 +611,17 @@
     },
     {
       "id": "soundsubtitles",
-      "nicknames": [
-        "subtitles"
-      ],
+      "nicknames": ["subtitles"],
       "forgeid": "subtitles_mod",
       "display": "Sound Subtitles",
       "description": "Adds sound subtitles to your game, as featured in modern versions of Minecraft.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/monkey.png",
-      "categories": [
-        "All PvP"
-      ],
+      "categories": ["All PvP"],
       "conflicts": [],
-      "meta": {
-        "author": "Sk1er LLC",
-        "discord": "https://discord.gg/sk1er"
-      },
+      "meta": { "author": "Sk1er LLC", "discord": "https://discord.gg/sk1er" },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.2.2",
           "hash": "sha256;f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b",
           "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.2.2/1.8.9/Sound%20Subtitles-1.2.2%20(1.8.9).jar",
@@ -820,16 +631,12 @@
     },
     {
       "id": "ctjs",
-      "nicknames": [
-        "chattriggers"
-      ],
+      "nicknames": ["chattriggers"],
       "forgeid": "ct.js",
       "display": "Chat Triggers",
       "description": "A framework that allows the use of JavaScript to create 'minimods' called modules which is required for SoopyAddons and DungeonsUtilities, \nan entire website with so many more at the cost of some performance.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/chattriggers 48x.png",
-      "categories": [
-        "All Skyblock"
-      ],
+      "categories": ["All Skyblock"],
       "conflicts": [],
       "meta": {
         "author": "Kerbybit",
@@ -837,10 +644,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "0.1.0",
           "hash": "sha256;6776ee63ec04f6a2564d1729bbdad5f0f5b5d8e159bb4927543a44ba889e2cbd",
           "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/2.0.3/ctjs-2.0.3-1.8.9.jar",
@@ -855,9 +659,7 @@
       "display": "SBCustomMobTex",
       "description": "Allows resource packs to view the NBT data of mobs in Skyblock and provides the possiblity of changing custom mob textures with the use of resource packs.",
       "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/moulberrys bush.png",
-      "categories": [
-        "All Skyblock"
-      ],
+      "categories": ["All Skyblock"],
       "conflicts": [],
       "meta": {
         "author": "Moulberry",
@@ -866,10 +668,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.4",
           "hash": "sha256;c6f1bc086e802b6de209decb3edcef8be31a88fd306fec59e7ac6709bbe2bade",
           "url": "https://github.com/Moulberry/SBCustomMobTex/releases/download/v1.4/SBCustomMobTex-1.4.jar",
@@ -893,10 +692,7 @@
       },
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "4.1.0",
           "hash": "sha256;5d804aeaaa10957fbf137c7cf9bd362108acaf2a",
           "url": "https://github.com/Deftu/OofMod/releases/download/4.1.0/OofMod-4.1.0.jar",

@@ -3,56 +3,38 @@
   "mods": [
     {
       "id": "replayMod",
-      "nicknames": [
-        "The Replay Mod"
-      ],
+      "nicknames": ["The Replay Mod"],
       "display": "The Replay Mod",
       "icon": "https://images.feathermc.com/3xUj5.png",
       "forgeid": "replayMod",
       "description": "A Minecraft Mod to record, relive and share your experience.",
-      "meta": {
-        "author": "ReplayMod"
-      },
+      "meta": { "author": "ReplayMod" },
       "conflicts": [],
-      "categories": [
-        "Media"
-      ],
+      "categories": ["Media"],
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "v1.8.9-2.6.3",
           "hash": "sha1;77c1316427d65ee3c9883a7517c6bf7a097b24ac",
           "filename": "replaymod-1.8.9-2.6.3.jar",
           "url": "https://minio.replaymod.com/replaymod/replaymod-1.8.9-2.6.3.jar"
         },
         {
-          "mcversion": "1.12.2",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.12.2"],
           "version": "v1.12.2-2.6.3",
           "hash": "sha1;984489e9ec23c1b4e6c4ff5a00b35eef1be8dde8",
           "filename": "replaymod-1.12.2-2.6.3.jar",
           "url": "https://minio.replaymod.com/replaymod/replaymod-1.12.2-2.6.3.jar"
         },
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "v1.17.1-2.6.3",
           "hash": "sha1;9b3c88b9b7d791ea59bcf90635b6067c6f46982b",
           "filename": "replaymod-1.17.1-2.6.3.jar",
           "url": "https://minio.replaymod.com/replaymod/replaymod-1.17.1-2.6.3.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "v1.18.1-2.6.3",
           "hash": "sha1;a68fed1d79349749d92792bd66769957ad9471f7",
           "filename": "replaymod-1.18.1-2.6.3.jar",
@@ -62,27 +44,17 @@
     },
     {
       "id": "patcher",
-      "nicknames": [
-        "Patcher"
-      ],
+      "nicknames": ["Patcher"],
       "display": "Patcher",
       "icon": "https://images.feathermc.com/RyVqN.png",
       "forgeid": "patcher",
       "description": "A Forge mod full of Vanilla bug fixes, Quality of Life improvements, and performance enhancements.",
-      "meta": {
-        "author": "Sk1er LLC"
-      },
+      "meta": { "author": "Sk1er LLC" },
       "conflicts": [],
-      "categories": [
-        "Performance",
-        "Tools"
-      ],
+      "categories": ["Performance", "Tools"],
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.8.0",
           "hash": "sha1;6f30807c8e2dd086a0d1b9033bede34ca184a3fd",
           "filename": "patcher-1.8.9.jar",
@@ -92,36 +64,24 @@
     },
     {
       "id": "irisShaders",
-      "nicknames": [
-        "Iris Shaders"
-      ],
+      "nicknames": ["Iris Shaders"],
       "display": "Iris Shaders",
       "icon": "https://images.feathermc.com/POrjh.png",
       "forgeid": "irisShaders",
       "description": "MUST USE SODIUM! A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs.",
-      "meta": {
-        "author": "Iris Shaders"
-      },
+      "meta": { "author": "Iris Shaders" },
       "conflicts": [],
-      "categories": [
-        "Performance"
-      ],
+      "categories": ["Performance"],
       "downloads": [
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "1.2.0",
           "hash": "sha1;486171a70fda0e785000eafc4210e1a056bf49b4",
           "filename": "iris-1.17.jar",
           "url": "https://github.com/IrisShaders/Iris/releases/download/1.17.x%2Fv1.2.0/iris-mc1.17-1.2.0-pre.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "1.2.0",
           "hash": "sha1;94c66f904514e1a7e0ad106542a693e09b603044",
           "filename": "iris-1.18.jar",
@@ -131,56 +91,38 @@
     },
     {
       "id": "xaerosMinimap",
-      "nicknames": [
-        "Xaero's Minimap"
-      ],
+      "nicknames": ["Xaero's Minimap"],
       "display": "Xaero's Minimap",
       "icon": "https://images.feathermc.com/yONLv.png",
       "forgeid": "xaerosMinimap",
       "description": "Xaero's minimap keeps the aesthetic of vanilla Minecraft, which helps it be a more seamless addition to the game. It is also the first rotating square minimap for Minecraft.",
-      "meta": {
-        "author": "xaero96"
-      },
+      "meta": { "author": "xaero96" },
       "conflicts": [],
-      "categories": [
-        "Tools"
-      ],
+      "categories": ["Tools"],
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "21.10.18",
           "hash": "sha1;d29375fff47db0c1dadf97c3e3ec6d1be1e45c3f",
           "filename": "Xaeros_Minimap_Forge_1.8.9.jar",
           "url": "https://media.forgecdn.net/files/3599/490/Xaeros_Minimap_21.10.18_Forge_1.8.9.jar"
         },
         {
-          "mcversion": "1.12.2",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.12.2"],
           "version": "22.1.0",
           "hash": "sha1;796b92f0725374c934bf992434b3c523ceb69789",
           "filename": "Xaeros_Minimap_Forge_1.12.jar",
           "url": "https://media.forgecdn.net/files/3613/277/Xaeros_Minimap_22.1.0_Forge_1.12.jar"
         },
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "22.2.0.1",
           "hash": "sha1;984afffc5c80bb1d95eff77508a325ab42c6ef2a",
           "filename": "xaeros-minimap-fabric-1.17.1.jar",
           "url": "https://media.forgecdn.net/files/3647/3/Xaeros_Minimap_22.2.0.1_Fabric_1.17.1.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "22.2.0.1",
           "hash": "sha1;906734bf4692daeb43eafe77ac2cff5ce8c7d777",
           "filename": "xaeros-minimap-fabric-1.18.1.jar",
@@ -190,36 +132,24 @@
     },
     {
       "id": "modMenu",
-      "nicknames": [
-        "Mod Menu"
-      ],
+      "nicknames": ["Mod Menu"],
       "display": "Mod Menu",
       "icon": "https://images.feathermc.com/G6Jod.png",
       "forgeid": "modMenu",
       "description": "A menu for, you guessed it, mods!",
-      "meta": {
-        "author": "TerraformersMC"
-      },
+      "meta": { "author": "TerraformersMC" },
       "conflicts": [],
-      "categories": [
-        "Tools"
-      ],
+      "categories": ["Tools"],
       "downloads": [
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "2.0.14",
           "hash": "sha1;024f4736d4a8585f1eac91e92892d4eab2b0ad8a",
           "filename": "modmenu-fabric-1.17.jar",
           "url": "https://media.forgecdn.net/files/3479/750/modmenu-2.0.14.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "3.0.1",
           "hash": "sha1;5b7328a666250330b3dd6a7a5190783d618a0307",
           "filename": "modmenu-fabric-1.18.jar",
@@ -229,36 +159,24 @@
     },
     {
       "id": "roughlyEnoughItems",
-      "nicknames": [
-        "Roughly Enough Items"
-      ],
+      "nicknames": ["Roughly Enough Items"],
       "display": "Roughly Enough Items",
       "icon": "https://images.feathermc.com/pAHPN.png",
       "forgeid": "roughlyEnoughItems",
       "description": "Alternative of AlmostEnoughItems / JustEnoughItems",
-      "meta": {
-        "author": "shedaniel"
-      },
+      "meta": { "author": "shedaniel" },
       "conflicts": [],
-      "categories": [
-        "Tools"
-      ],
+      "categories": ["Tools"],
       "downloads": [
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "v6.3.358",
           "hash": "sha1;f279cc95ec599114868ddb463a313651607c9118",
           "filename": "RoughlyEnoughItems-fabric-1.17.1.jar",
           "url": "https://media.forgecdn.net/files/3587/232/RoughlyEnoughItems-6.3.358.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "v7.1.357",
           "hash": "sha1;6d2ce01f6a76b1a95b146eed9449990664029e3c",
           "filename": "RoughlyEnoughItems-fabric-1.18.1.jar",
@@ -268,36 +186,24 @@
     },
     {
       "id": "Litematica",
-      "nicknames": [
-        "Litematica"
-      ],
+      "nicknames": ["Litematica"],
       "display": "Litematica",
       "icon": "https://images.feathermc.com/GJe8h.png",
       "forgeid": "Litematica",
       "description": "A modern client-side schematic mod for Minecraft",
-      "meta": {
-        "author": "masady"
-      },
+      "meta": { "author": "masady" },
       "conflicts": [],
-      "categories": [
-        "Tools"
-      ],
+      "categories": ["Tools"],
       "downloads": [
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "0.9.0",
           "hash": "sha1;2c8f73c09b3ac999f8e9ae03cf217860f60b3dc7",
           "filename": "litematica-fabric-1.17.jar",
           "url": "https://media.forgecdn.net/files/3580/241/litematica-fabric-1.17.1-0.9.0.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "0.10.1",
           "hash": "sha1;536520071a4b70797b3a8be51a92e565b9ba227f",
           "filename": "litematica-fabric-1.18.jar",
@@ -307,36 +213,24 @@
     },
     {
       "id": "durability101",
-      "nicknames": [
-        "Durability101"
-      ],
+      "nicknames": ["Durability101"],
       "display": "Durability101",
       "icon": "https://images.feathermc.com/tRco9.png",
       "forgeid": "durability101",
       "description": "Show durability on damaged items",
-      "meta": {
-        "author": "ShayBox"
-      },
+      "meta": { "author": "ShayBox" },
       "conflicts": [],
-      "categories": [
-        "Tools"
-      ],
+      "categories": ["Tools"],
       "downloads": [
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "0.0.4",
           "hash": "sha1;d1adccc2009c9402982360b63cfb734acf4a8650",
           "filename": "durability101-fabric-1.17.jar",
           "url": "https://media.forgecdn.net/files/3447/869/Durability101-fabric-1.17-0.0.4.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "0.0.4",
           "hash": "sha1;1d1c4f3976f0510a3c6b1fb949234bbc5ca835a2",
           "filename": "durability101-fabric-1.18.jar",
@@ -346,36 +240,24 @@
     },
     {
       "id": "mouseTweaks",
-      "nicknames": [
-        "Mouse Tweaks"
-      ],
+      "nicknames": ["Mouse Tweaks"],
       "display": "Mouse Tweaks",
       "icon": "https://images.feathermc.com/ev0TS.png",
       "forgeid": "mouseTweaks",
       "description": "A Minecraft mod that enhances inventory management.",
-      "meta": {
-        "author": "YaLTeR"
-      },
+      "meta": { "author": "YaLTeR" },
       "conflicts": [],
-      "categories": [
-        "Tools"
-      ],
+      "categories": ["Tools"],
       "downloads": [
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "2.15",
           "hash": "sha1;74219037f0a7058fa6d2dcdfe977f56db2360cc7",
           "filename": "mousetweaks-fabric-1.17.jar",
           "url": "https://media.forgecdn.net/files/3515/479/MouseTweaks-fabric-mc1.17.1-2.15.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "2.22",
           "hash": "sha1;204b054b2dd027014c8dd346e64c4cd2cc1db9b0",
           "filename": "mousetweaks-fabric-1.18.jar",
@@ -385,36 +267,24 @@
     },
     {
       "id": "clientTweaks",
-      "nicknames": [
-        "Client Tweaks"
-      ],
+      "nicknames": ["Client Tweaks"],
       "display": "Client Tweaks",
       "icon": "https://images.feathermc.com/izb0I.png",
       "forgeid": "clientTweaks",
       "description": "This mod adds a bunch of optional tweaks to improve the Quality of Life during gameplay. Tweaks can be individually enabled or disabled and configured. Many of the tweaks are disabled by default, so make sure to enable the features you want for the most bestest experience possible.",
-      "meta": {
-        "author": "ModdingForBlockheads"
-      },
+      "meta": { "author": "ModdingForBlockheads" },
       "conflicts": [],
-      "categories": [
-        "Tools"
-      ],
+      "categories": ["Tools"],
       "downloads": [
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "6.0.0",
           "hash": "sha1;9b12f485de32940f31533cafa0b81b6b87cb842f",
           "filename": "clienttweaks-fabric-1.17.jar",
           "url": "https://media.forgecdn.net/files/3528/42/clienttweaks-fabric-6.0.0%2B0.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "7.0.1",
           "hash": "sha1;5e85fff37d6e4b4d2b8dfca43419e204aca1c894",
           "filename": "clienttweaks-fabric-1.18.jar",
@@ -424,36 +294,24 @@
     },
     {
       "id": "wthit",
-      "nicknames": [
-        "WTHIT"
-      ],
+      "nicknames": ["WTHIT"],
       "display": "WTHIT",
       "icon": "https://images.feathermc.com/MVX5E.png",
       "forgeid": "wthit",
       "description": "WTHIT is a mod that adds an ingame tooltip with information about what block (or fluid) the player is looking at.",
-      "meta": {
-        "author": "badasintended"
-      },
+      "meta": { "author": "badasintended" },
       "conflicts": [],
-      "categories": [
-        "Tools"
-      ],
+      "categories": ["Tools"],
       "downloads": [
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "3.11.2",
           "hash": "sha1;ebb1f4a816edc41825d1f37b6f9680a3ce40731a",
           "filename": "wthit-1.17.jar",
           "url": "https://media.forgecdn.net/files/3522/154/wthit-fabric-3.11.2.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "4.4.1",
           "hash": "sha1;f62def2da3d38d91bb18518d1fd069a2bce7d4a0",
           "filename": "wthit-1.18.jar",
@@ -463,36 +321,24 @@
     },
     {
       "id": "quickplay",
-      "nicknames": [
-        "Quickplay"
-      ],
+      "nicknames": ["Quickplay"],
       "display": "Quickplay",
       "icon": "https://images.feathermc.com/m7GWF.png",
       "forgeid": "quickplay",
       "description": "Minecraft mod that allows Hypixel users to quickly join games and execute functions on the network.",
-      "meta": {
-        "author": "bugfroggy"
-      },
+      "meta": { "author": "bugfroggy" },
       "conflicts": [],
-      "categories": [
-        "Hypixel"
-      ],
+      "categories": ["Hypixel"],
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "2.0.7",
           "hash": "sha1;c70f6c1284e0b0407618e8b734c0244a753a997c",
           "filename": "Quickplay-1.8.9-2.0.7.jar",
           "url": "https://github.com/QuickplayMod/quickplay/releases/download/2.0.7/Quickplay-1.8.9-2.0.7.jar"
         },
         {
-          "mcversion": "1.12.2",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.12.2"],
           "version": "2.0.7",
           "hash": "sha1;091a5954fe3166e9db567f47230c7d83696a7c33",
           "filename": "Quickplay-1.12-2.0.7.jar",
@@ -502,26 +348,17 @@
     },
     {
       "id": "skyblockAddons",
-      "nicknames": [
-        "Skyblock Addons"
-      ],
+      "nicknames": ["Skyblock Addons"],
       "display": "Skyblock Addons",
       "icon": "https://images.feathermc.com/rllkH.png",
       "forgeid": "skyblockAddons",
       "description": "Tons of utility stuff for Hypixel Skyblock",
-      "meta": {
-        "author": "Biscuit"
-      },
+      "meta": { "author": "Biscuit" },
       "conflicts": [],
-      "categories": [
-        "Hypixel"
-      ],
+      "categories": ["Hypixel"],
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.6.1",
           "hash": "sha1;033d8ebe8002987f403a02c4938cb9f14ddf9a28",
           "filename": "SkyblockAddons-1.6.1-for-MC-1.8.9.jar",
@@ -531,27 +368,17 @@
     },
     {
       "id": "chatTriggers",
-      "nicknames": [
-        "ChatTriggers"
-      ],
+      "nicknames": ["ChatTriggers"],
       "display": "ChatTriggers",
       "icon": "https://images.feathermc.com/3P9TI.png",
       "forgeid": "chatTriggers",
       "description": "ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript.",
-      "meta": {
-        "author": "ChatTriggers"
-      },
+      "meta": { "author": "ChatTriggers" },
       "conflicts": [],
-      "categories": [
-        "Hypixel",
-        "Tools"
-      ],
+      "categories": ["Hypixel", "Tools"],
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "2.0.3",
           "hash": "sha1;41b774865a702a10876d42981b39bfd689025d0b",
           "filename": "chattriggers-1.8.9.jar",
@@ -561,26 +388,17 @@
     },
     {
       "id": "apec",
-      "nicknames": [
-        "Apec"
-      ],
+      "nicknames": ["Apec"],
       "display": "Apec",
       "icon": "https://images.feathermc.com/maWKs.png",
       "forgeid": "apec",
       "description": "GUI Improvement mod for Skyblock.",
-      "meta": {
-        "author": "BananaFructa"
-      },
+      "meta": { "author": "BananaFructa" },
       "conflicts": [],
-      "categories": [
-        "Hypixel"
-      ],
+      "categories": ["Hypixel"],
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.10.1",
           "hash": "sha1;b9dc3a0a1f5aaf3b03b5fc4fd5db338135e39fd6",
           "filename": "Apec-forge-1.8.9.jar",
@@ -590,26 +408,17 @@
     },
     {
       "id": "dankersSkyblockMod",
-      "nicknames": [
-        "Danker's Skyblock Mod"
-      ],
+      "nicknames": ["Danker's Skyblock Mod"],
       "display": "Danker's Skyblock Mod",
       "icon": "https://images.feathermc.com/2j808.png",
       "forgeid": "dankersSkyblockMod",
       "description": "QOL changes that enhances your Hypixel Skyblock experience.",
-      "meta": {
-        "author": "bowser0000"
-      },
+      "meta": { "author": "bowser0000" },
       "conflicts": [],
-      "categories": [
-        "Hypixel"
-      ],
+      "categories": ["Hypixel"],
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.8.6",
           "hash": "sha1;f02880663a62a49bd55559ca710ecbdca3fd5406",
           "filename": "1.8.9.Danker.s.Skyblock.Mod.-.1.8.6.jar",
@@ -619,26 +428,17 @@
     },
     {
       "id": "dungeonsGuide",
-      "nicknames": [
-        "Dungeons Guide"
-      ],
+      "nicknames": ["Dungeons Guide"],
       "display": "Dungeons Guide",
       "icon": "https://images.feathermc.com/O78pW.png",
       "forgeid": "dungeonsGuide",
       "description": "A mod designed to help hypixel skyblock dungeons players find secrets and solve puzzles. Also comes with lots of QOL Features",
-      "meta": {
-        "author": "syeyoung"
-      },
+      "meta": { "author": "syeyoung" },
       "conflicts": [],
-      "categories": [
-        "Hypixel"
-      ],
+      "categories": ["Hypixel"],
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "3.7.5",
           "hash": "sha1;5ac145790e7a7f68405156f89f48f8a64eb2a8c4",
           "filename": "dungeonsguide-1.8.jar",
@@ -648,26 +448,17 @@
     },
     {
       "id": "cowlection",
-      "nicknames": [
-        "Cowlection"
-      ],
+      "nicknames": ["Cowlection"],
       "display": "Cowlection",
       "icon": "https://images.feathermc.com/K4CZy.png",
       "forgeid": "cowlection",
       "description": "This mod is very good for dungeon players who want to know who their teammates are. When you are about to do a run, it will display the stats of all members in your party.",
-      "meta": {
-        "author": "cow-mc"
-      },
+      "meta": { "author": "cow-mc" },
       "conflicts": [],
-      "categories": [
-        "Hypixel"
-      ],
+      "categories": ["Hypixel"],
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "0.14.0",
           "hash": "sha1;18110730ce2d95ef5c02f1d3a4e5f16934de5472",
           "filename": "Cowlection-1.8.9-0.14.0.jar",
@@ -677,26 +468,17 @@
     },
     {
       "id": "bazaarNotifier",
-      "nicknames": [
-        "BazaarNotifier"
-      ],
+      "nicknames": ["BazaarNotifier"],
       "display": "BazaarNotifier",
       "icon": "https://images.feathermc.com/8nRFL.png",
       "forgeid": "bazaarNotifier",
       "description": "Mod and Discord Bot for Hypixel Skyblock that helps with tracking bazaar sell offer and buy order movements",
-      "meta": {
-        "author": "meyi"
-      },
+      "meta": { "author": "meyi" },
       "conflicts": [],
-      "categories": [
-        "Hypixel"
-      ],
+      "categories": ["Hypixel"],
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.4.7",
           "hash": "sha1;66a7a87c8a7ee12a27022e4631a9cec4a5fb9a1e",
           "filename": "BazaarNotifier-1.4.7.jar",
@@ -706,26 +488,17 @@
     },
     {
       "id": "multiconnect",
-      "nicknames": [
-        "multiconnect"
-      ],
+      "nicknames": ["multiconnect"],
       "display": "multiconnect",
       "icon": "https://images.feathermc.com/uHao8.png",
       "forgeid": "multiconnect",
       "description": "A mod to connect to multiple Minecraft server versions",
-      "meta": {
-        "author": "Earthcomputer"
-      },
+      "meta": { "author": "Earthcomputer" },
       "conflicts": [],
-      "categories": [
-        "Tools"
-      ],
+      "categories": ["Tools"],
       "downloads": [
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "1.5.10",
           "hash": "sha1;c1c35a8057b2d5d43814729769d84f71e9564019",
           "filename": "multiconnect-fabric-1.18.jar",
@@ -735,46 +508,31 @@
     },
     {
       "id": "mumbleLink",
-      "nicknames": [
-        "MumbleLink"
-      ],
+      "nicknames": ["MumbleLink"],
       "display": "MumbleLink",
       "icon": "https://images.feathermc.com/Irisj.png",
       "forgeid": "mumbleLink",
       "description": "Feather has its own Voice Chat, but you can use Mumble Link as well! Minecraft + Mumble + MumbleLink = You hear where voices come from and how far away they are!",
-      "meta": {
-        "author": "zsawyer"
-      },
+      "meta": { "author": "zsawyer" },
       "conflicts": [],
-      "categories": [
-        "Tools"
-      ],
+      "categories": ["Tools"],
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "4.1.4",
           "hash": "sha1;464fdea4c8cdd06aa0e3aaed165661e74ae8411d",
           "filename": "MumbleLink-1.8.9-4.1.4.jar",
           "url": "https://github.com/zsawyer/MumbleLink/releases/download/4.1.4/MumbleLink-1.8.9-4.1.4.jar"
         },
         {
-          "mcversion": "1.12.2",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.12.2"],
           "version": "4.2.6",
           "hash": "sha1;340f0765ff742afd1a609d104622fcc6d0603e2f",
           "filename": "mumblelink-1.12.2-4.2.6.jar",
           "url": "https://github.com/zsawyer/MumbleLink/releases/download/4.2.6/mumblelink-1.12.2-4.2.6.jar"
         },
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "0.3.2",
           "hash": "sha1;b419ccf8c1e6fcc3e7e1b0e399379efe602e1903",
           "filename": "fabric-mumblelink-mod-0.8.4.jar",
@@ -784,36 +542,24 @@
     },
     {
       "id": "origins",
-      "nicknames": [
-        "Origins"
-      ],
+      "nicknames": ["Origins"],
       "display": "Origins",
       "icon": "https://images.feathermc.com/eBQed.png",
       "forgeid": "origins",
       "description": "Choose an Origin and begin your game with special abilities, some of which help you out, while others hinder you in your gameplay.",
-      "meta": {
-        "author": "Apace100"
-      },
+      "meta": { "author": "Apace100" },
       "conflicts": [],
-      "categories": [
-        "Fun"
-      ],
+      "categories": ["Fun"],
       "downloads": [
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "1.1.4",
           "hash": "sha1;a4db8930bcec8061efb800dbf853a4762dd12fd8",
           "filename": "origins-fabric-1.17.jar",
           "url": "https://media.forgecdn.net/files/3516/44/Origins-1.17-1.1.4.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "1.3.1",
           "hash": "sha1;b91027d7bcb8cdf348c8ce99d8cae95593c9b56e",
           "filename": "origins-fabric-1.18.jar",
@@ -823,46 +569,31 @@
     },
     {
       "id": "hdskins",
-      "nicknames": [
-        "HDSkins"
-      ],
+      "nicknames": ["HDSkins"],
       "display": "HDSkins",
       "icon": "https://images.feathermc.com/hHxqL.png",
       "forgeid": "hdskins",
       "description": "You want to use high-resolution skins instead of the old-fashioned 64x64 skins in Minecraft? Then you've come to the right place! Upload skins up to 2048x2048 pixels and see other users' HD skins in-game.\nDiscord: https://discord.hdskins.de/",
-      "meta": {
-        "author": "HDSkins"
-      },
+      "meta": { "author": "HDSkins" },
       "conflicts": [],
-      "categories": [
-        "Fun"
-      ],
+      "categories": ["Fun"],
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "",
           "hash": "sha1;526851d61d4a1e284f5abb609f5da2f5872db4de",
           "filename": "hdskins-fabric-1.18.jar",
           "url": "https://assets.feathercdn.net/mods/hdskins/1/HDSkins-1.8.jar"
         },
         {
-          "mcversion": "1.12.2",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.12.2"],
           "version": "",
           "hash": "sha1;0a0f27801dd67da1482b7feec8af27152f0e445a",
           "filename": "hdskins-fabric-1.18.jar",
           "url": "https://assets.feathercdn.net/mods/hdskins/1/HDSkins-1.12.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "",
           "hash": "sha1;1956921801c3acb833f3bd4863debff64b098a84",
           "filename": "hdskins-fabric-1.18.jar",
@@ -872,36 +603,24 @@
     },
     {
       "id": "continuity",
-      "nicknames": [
-        "Continuity"
-      ],
+      "nicknames": ["Continuity"],
       "display": "Continuity",
       "icon": "https://images.feathermc.com/rVGo8.png",
       "forgeid": "continuity",
       "description": "Continuity is a Fabric mod built around modern APIs to allow for the most efficient connected textures experience possible. It is designed to provide full Optifine parity for all resource packs that use the Optifine/MCPatcher CTM format.",
-      "meta": {
-        "author": "Pepper_Bell"
-      },
+      "meta": { "author": "Pepper_Bell" },
       "conflicts": [],
-      "categories": [
-        "Fun"
-      ],
+      "categories": ["Fun"],
       "downloads": [
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "1.0.3",
           "hash": "sha1;6fe13a8aa458ce7e6f1dcc7277c84543f5c3dd01",
           "filename": "continuity-fabric-1.17.jar",
           "url": "https://media.forgecdn.net/files/3549/414/continuity-1.0.3%2B1.17.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "1.0.3",
           "hash": "sha1;1d09ae500d2f24112c4c5bc6f00f05bbcc1a0f72",
           "filename": "continuity-fabric-1.18.jar",
@@ -911,36 +630,24 @@
     },
     {
       "id": "citResewn",
-      "nicknames": [
-        "CIT Resewn"
-      ],
+      "nicknames": ["CIT Resewn"],
       "display": "CIT Resewn",
       "icon": "https://images.feathermc.com/SL3zp.png",
       "forgeid": "citResewn",
       "description": "Re-implements MCPatcher's CIT (custom item textures from optifine resource packs)",
-      "meta": {
-        "author": "SHsuperCM"
-      },
+      "meta": { "author": "SHsuperCM" },
       "conflicts": [],
-      "categories": [
-        "Fun"
-      ],
+      "categories": ["Fun"],
       "downloads": [
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "0.9.1",
           "hash": "sha1;ac422ad6ec5bed7a52c34af6dd6fa8430a802c92",
           "filename": "CITResewn-fabric-1.17.jar",
           "url": "https://media.forgecdn.net/files/3609/272/CITResewn-0.9.1%2B1.17.1.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "0.9.1",
           "hash": "sha1;a320fbe1f0f6c1364c6afb224f993ba4252e6206",
           "filename": "CITResewn-fabric-1.18.jar",
@@ -950,36 +657,24 @@
     },
     {
       "id": "optifineFabric",
-      "nicknames": [
-        "Optifine Fabric"
-      ],
+      "nicknames": ["Optifine Fabric"],
       "display": "Optifine Fabric",
       "icon": "https://images.feathermc.com/DZaee.png",
       "forgeid": "optifineFabric",
       "description": "NOT COMPATIBLE WITH SODIUM AND LITHIUM! Optifine w/ OptiFabric.",
-      "meta": {
-        "author": "sp614x & Chocohead"
-      },
+      "meta": { "author": "sp614x & Chocohead" },
       "conflicts": [],
-      "categories": [
-        "Performance"
-      ],
+      "categories": ["Performance"],
       "downloads": [
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "OptiFine HD U H1",
           "hash": "sha1;cc64084e73d6423baf7ccbdd9f3760dd56f2fce5",
           "filename": "OptiFine_17.jar",
           "url": "https://optifine.net/adloadx?f=OptiFine_1.17.1_HD_U_H1.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "OptiFine HD U H4",
           "hash": "sha1;326c160481cc849bccb821939992c101a8fe163b",
           "filename": "OptiFine_1.18.jar",
@@ -989,34 +684,24 @@
     },
     {
       "id": "optifine",
-      "nicknames": [
-        "Optifine"
-      ],
+      "nicknames": ["Optifine"],
       "display": "Optifine",
       "icon": "https://images.feathermc.com/DZaee.png",
       "forgeid": "optifine",
       "description": "Performance enhancing FPS boost",
-      "meta": {
-        "author": "sp614x"
-      },
+      "meta": { "author": "sp614x" },
       "conflicts": [],
       "categories": [],
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "OptiFine HD U M6 pre2",
           "hash": "sha1;0bb792be16ec78d8b62586cc4856950befb3391b",
           "filename": "preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
           "url": "https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar"
         },
         {
-          "mcversion": "1.12.2",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.12.2"],
           "version": "OptiFine HD U G5",
           "hash": "sha1;ca3aea3a09ce215906c346fe190907fe0347b0c4",
           "filename": "OptiFine_1.12.2_HD_U_G5.jar",
@@ -1026,36 +711,24 @@
     },
     {
       "id": "resourcePackOrganizer",
-      "nicknames": [
-        "Resource Pack Organizer"
-      ],
+      "nicknames": ["Resource Pack Organizer"],
       "display": "Resource Pack Organizer",
       "icon": "https://images.feathermc.com/WbYbd.png",
       "forgeid": "resourcePackOrganizer",
       "description": "Minecraft mod that enhances the Resource Pack menu with folder support for easier pack organization, ability to search packs by name or description, new sorting options, and several other features.",
-      "meta": {
-        "author": "chylex"
-      },
+      "meta": { "author": "chylex" },
       "conflicts": [],
-      "categories": [
-        "Tools"
-      ],
+      "categories": ["Tools"],
       "downloads": [
         {
-          "mcversion": "1.8.9",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.8.9"],
           "version": "1.2",
           "hash": "sha1;f63fadf325c5018e5ea2c312525ba8975b3424b1",
           "filename": "Resource_Pack_Manager_1.2.jar",
           "url": "https://assets.feathercdn.net/mods/resource-pack-organizer/Resource_Pack_Manager_1.2.jar"
         },
         {
-          "mcversion": "1.12.2",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.12.2"],
           "version": "1.0.3",
           "hash": "sha1;2154538b137e38ba3c525cccf0aa969ff11215d3",
           "filename": "ResourcePackOrganizer++MC-1.12++v1.0.4.jar",
@@ -1065,34 +738,24 @@
     },
     {
       "id": "starlight",
-      "nicknames": [
-        "Starlight"
-      ],
+      "nicknames": ["Starlight"],
       "display": "Starlight",
       "icon": "https://images.feathermc.com/0zc0N.png",
       "forgeid": "starlight",
       "description": "Fabric mod for rewriting the light engine to fix lighting performance and lighting errors.",
-      "meta": {
-        "author": "Spottedstar"
-      },
+      "meta": { "author": "Spottedstar" },
       "conflicts": [],
       "categories": [],
       "downloads": [
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "1.0.0",
           "hash": "sha1;a4eaa5af56eb7719bae025f9d7c5da1490d4822f",
           "filename": "starlight-1.0.0+fabric.73f6d37.jar",
           "url": "https://media.forgecdn.net/files/3442/770/starlight-1.0.0%2Bfabric.73f6d37.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "1.0.0",
           "hash": "sha1;743b14918588186cae2117d1a9684b400939e6f8",
           "filename": "starlight-1.0.0+fabric.d0a3220.jar",
@@ -1102,34 +765,24 @@
     },
     {
       "id": "entityCulling",
-      "nicknames": [
-        "EntityCulling"
-      ],
+      "nicknames": ["EntityCulling"],
       "display": "EntityCulling",
       "icon": "https://images.feathermc.com/rJgul.png",
       "forgeid": "entityCulling",
       "description": "Using async path-tracing to skip rendering Tiles/Entities that are not visible.",
-      "meta": {
-        "author": "tr7zw"
-      },
+      "meta": { "author": "tr7zw" },
       "conflicts": [],
       "categories": [],
       "downloads": [
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "1.5.0-1.17.1",
           "hash": "sha1;19bacef4b20221e6be8aa1b17415c9a1465f19ad",
           "filename": "entityculling-fabric-1.17.1.jar",
           "url": "https://media.forgecdn.net/files/3642/141/entityculling-fabric-mc1.17.1-1.5.0.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "1.5.0-1.18",
           "hash": "sha1;d1b944079c193a8d5adf9144cab3bd762bb12f5e",
           "filename": "entityculling-fabric-1.18.1.jar",
@@ -1139,34 +792,24 @@
     },
     {
       "id": "lazyDFU",
-      "nicknames": [
-        "LazyDFU"
-      ],
+      "nicknames": ["LazyDFU"],
       "display": "LazyDFU",
       "icon": "https://images.feathermc.com/xrb95.png",
       "forgeid": "lazyDFU",
       "description": "Fabric mod that makes Minecraft DataFixerUpper initialization lazy.",
-      "meta": {
-        "author": "astei"
-      },
+      "meta": { "author": "astei" },
       "conflicts": [],
       "categories": [],
       "downloads": [
         {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.17.1-fabric"],
           "version": "0.1.2",
           "hash": "sha1;2efec5781f1271bdcdae462eee402ccb97bff6fe",
           "filename": "lazydfu-0.1.2.jar",
           "url": "https://github.com/astei/lazydfu/releases/download/0.1.2/lazydfu-0.1.2.jar"
         },
         {
-          "mcversion": "1.18.1-fabric",
-          "mcversions": [
-            "1.8.9"
-          ],
+          "mcversions": ["1.18.1-fabric"],
           "version": "0.1.2",
           "hash": "sha1;2efec5781f1271bdcdae462eee402ccb97bff6fe",
           "filename": "lazydfu-0.1.2.jar",

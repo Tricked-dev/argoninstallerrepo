@@ -221,6 +221,7 @@ export interface File {
 
 export interface Hashes {
 	sha1: string;
+	sha256: string;
 	sha512?: string;
 }
 
@@ -249,7 +250,6 @@ export interface User {
 //*  *//
 
 export interface DownloadMod {
-	mcversion?: string;
 	mcversions: string[];
 	version: string;
 	// Hash of the mod supported formats, sha256, sha512, sha1, md5; syntax md5;<hash>

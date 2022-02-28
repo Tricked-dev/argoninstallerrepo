@@ -57,7 +57,6 @@ export default async () => {
 					{
 						version: r.tag_name.replace('v', ''),
 						hash,
-						mcversion: mod.download.version,
 						mcversions: [mod.download.version],
 						url: download.browser_download_url,
 						filename: filename,
@@ -68,14 +67,17 @@ export default async () => {
 			const r: ModRinthMod = await fetch(
 				`https://api.modrinth.com/v2/project/${mod.download.modrinth}`
 			).then((r) => r.json());
-			await new Promise((res) => setTimeout(res, 200));
+			await new Promise((res) => setTimeout(res, 40));
 			const version: ModRinthVersion[] = await fetch(
 				`https://api.modrinth.com/v2/project/${mod.download.modrinth}/version`
 			).then((r) => r.json());
+			await new Promise((res) => setTimeout(res, 40));
 			const members: ModRinthMembers[] = await fetch(
 				`https://api.modrinth.com/v2/project/${mod.download.modrinth}/members`
 			).then((r) => r.json());
+			await new Promise((res) => setTimeout(res, 40));
 			const versions: Record<string, boolean> = {};
+
 			const data: Mod = {
 				downloads: version
 					.map((vers) => {
@@ -83,7 +85,18 @@ export default async () => {
 							return;
 						else versions[vers.game_versions.join('')] = true;
 						const prim = vers.files.find((x) => x.primary) || vers.files[0];
-
+						let hash;
+						if (prim.hashes['sha1']) {
+							hash = `sha1;${prim.hashes['sha1']}`;
+						} else if (prim.hashes['sha256']) {
+							hash = `sha256;${prim.hashes['sha256']}`;
+						} else if (prim.hashes['sha512']) {
+							hash = `sha512;${prim.hashes['sha512']}`;
+						} else {
+							hash = Object.entries(prim.hashes).map(
+								(x) => `${x[0]};${x[1]}`
+							)[0];
+						}
 						return {
 							mcversion: vers.game_versions.map(
 								(x) => `${x}-${vers.loaders[0]}`
@@ -92,9 +105,7 @@ export default async () => {
 								(x) => `${x}-${vers.loaders[0]}`
 							),
 							version: vers.version_number,
-							hash: Object.entries(prim.hashes).map(
-								(x) => `${x[0]};${x[1]}`
-							)[0],
+							hash: hash,
 							url: `${encodeURI(prim.url)}`,
 							filename: `${prim.filename}`,
 						};
@@ -132,8 +143,5 @@ export default async () => {
 			// }
 		}
 	}
-	Deno.writeTextFile(
-		'repos/std.json',
-		JSON.stringify({ id: 'std', mods }, null, 2)
-	);
+	Deno.writeTextFile('repos/std.json', JSON.stringify({ id: 'std', mods }));
 };

@@ -73,7 +73,6 @@ export default async () => {
 			},
 			downloads: [
 				{
-					mcversion: '1.8.9',
 					mcversions: ['1.8.9'],
 					version: version || '0.1.0',
 					hash: mod.hash,
@@ -86,13 +85,9 @@ export default async () => {
 
 	Deno.writeTextFile(
 		'repos/skyclient.json',
-		JSON.stringify(
-			{
-				id: 'skyclient',
-				mods,
-			},
-			null,
-			2
-		)
+		JSON.stringify({
+			id: 'skyclient',
+			mods,
+		})
 	);
 };

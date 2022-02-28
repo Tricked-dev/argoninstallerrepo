@@ -28,8 +28,7 @@ export default async () => {
 			downloads: Object.entries(mod.mcVersions)
 				.filter((x) => x[1].type !== 'link' && x[1].sha1)
 				.map(([k, v]) => ({
-					mcversion: k,
-					mcversions: ['1.8.9'],
+					mcversions: [k],
 					version: v.version,
 					hash: `sha1;${v.sha1}`,
 					filename: v.name || v.download.split('/').at(-1)!,
@@ -40,13 +39,9 @@ export default async () => {
 
 	Deno.writeTextFile(
 		'repos/feather.json',
-		JSON.stringify(
-			{
-				id: 'feather',
-				mods: featherMods.filter((x) => x.downloads.length !== 0),
-			},
-			null,
-			2
-		)
+		JSON.stringify({
+			id: 'feather',
+			mods: featherMods.filter((x) => x.downloads.length !== 0),
+		})
 	);
 };
