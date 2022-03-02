@@ -131,10 +131,10 @@
       "downloads": [
         {
           "mcversions": ["1.8.9"],
-          "version": "1.1.3",
-          "hash": "md5;5C7EFBDBCEC7A85176DFC5DEF121DE52",
-          "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.1.3/SkyblockClient-Updater-1.1.3.jar",
-          "filename": "SkyblockClient-Updater-1.1.3.jar"
+          "version": "1.2.0",
+          "hash": "md5;B6330B9DFA703CB61E9FC275935B5996",
+          "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.2.0/SkyblockClient-Updater-1.2.0.jar",
+          "filename": "SkyblockClient-Updater-1.2.0.jar"
         }
       ]
     },
@@ -201,10 +201,10 @@
       "downloads": [
         {
           "mcversions": ["1.8.9"],
-          "version": "1.8.0",
+          "version": "1.8.1",
           "hash": "sha256;c89142adccbe833081a61ac0b09ab936859de826150d25a0719fc1603b8ce83b",
-          "url": "https://static.sk1er.club/repo/mods/patcher/1.8.0/1.8.9/Patcher-1.8.0%20(1.8.9).jar",
-          "filename": "Patcher-1.8.0 (1.8.9).jar"
+          "url": "https://static.sk1er.club/repo/mods/patcher/1.8.1/1.8.9/Patcher-1.8.1%20(1.8.9).jar",
+          "filename": "Patcher-1.8.1 (1.8.9).jar"
         }
       ]
     },
@@ -515,10 +515,10 @@
       "downloads": [
         {
           "mcversions": ["1.8.9"],
-          "version": "3.3.0",
-          "hash": "sha256;df6fbc7d921ec9d13864398868b6a9d723f547a3b194fa1b63e9df59810a928c",
-          "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.3.0/Dungeon_Rooms-3.3.0.jar",
-          "filename": "Dungeon_Rooms-3.3.0.jar"
+          "version": "3.3.1",
+          "hash": "md5;1451F17853BE70FAB6EDBEF5983F714E",
+          "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.3.1/Dungeon_Rooms-3.3.1.jar",
+          "filename": "Dungeon_Rooms-3.3.1.jar"
         }
       ]
     },

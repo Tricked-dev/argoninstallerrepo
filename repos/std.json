@@ -28,6 +28,14 @@
     {
       "downloads": [
         {
+          "mcversion": "1.18.2-fabric",
+          "mcversions": ["1.18.2-fabric"],
+          "version": "mc1.18.2-0.4.1",
+          "hash": "sha1;f839863a6be7014b8d80058ea1f361521148d049",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%252Bbuild.15.jar",
+          "filename": "sodium-fabric-mc1.18.2-0.4.1+build.15.jar"
+        },
+        {
           "mcversion": "1.18.1-fabric",
           "mcversions": ["1.18.1-fabric"],
           "version": "mc1.18.1-0.4.0-alpha6",
@@ -75,11 +83,11 @@
       "nicknames": [],
       "description": "Modern rendering engine and client-side optimization mod for Minecraft",
       "conflicts": [],
-      "categories": ["utility", "optimization"],
+      "categories": ["optimization"],
       "meta": {
         "body_url": "https://cdn.modrinth.com/data/AANobbMI/description.md",
         "discord": "https://jellysquid.me/discord",
-        "src": "https://github.com/jellysquid3/sodium-fabric",
+        "src": "https://github.com/CaffeineMC/sodium-fabric",
         "modrinth": "https://modrinth.com/mod/sodium",
         "author": "jellysquid3"
       }
@@ -87,12 +95,20 @@
     {
       "downloads": [
         {
+          "mcversion": "1.18.2-fabric",
+          "mcversions": ["1.18.2-fabric"],
+          "version": "1.0.2+mc1.18.2",
+          "hash": "sha1;9421de0ce575f84ac652694f8f2bc9a468a42375",
+          "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.2+mc1.18.2/indium-1.0.2%252Bmc1.18.2.jar",
+          "filename": "indium-1.0.2+mc1.18.2.jar"
+        },
+        {
           "mcversion": "1.18-fabric",
           "mcversions": ["1.18-fabric", "1.18.1-fabric"],
-          "version": "1.0.2-alpha2+mc1.18.1",
-          "hash": "sha1;111912f57b1edd769b19c24419390db0652fd0c6",
-          "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.2-alpha2+mc1.18.1/indium-1.0.2-alpha2+mc1.18.1.jar",
-          "filename": "indium-1.0.2-alpha2+mc1.18.1.jar"
+          "version": "1.0.2-alpha3+mc1.18.1",
+          "hash": "sha1;09657e42e26fd30bb3401a15e5ab9cbc05e5e6c0",
+          "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.2-alpha3+mc1.18.1/indium-1.0.2-alpha3+mc1.18.1.jar",
+          "filename": "indium-1.0.2-alpha3+mc1.18.1.jar"
         },
         {
           "mcversion": "1.17.1-fabric",
@@ -202,9 +218,17 @@
     {
       "downloads": [
         {
+          "mcversion": "1.18.2-fabric",
+          "mcversions": ["1.18.2-fabric"],
+          "version": "1.0.2+1.18.2",
+          "hash": "sha1;a436b72ee514bd2b59900159bcc4d461f96ef340",
+          "url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/1.0.2+1.18.2/starlight-1.0.2+fabric.89b8d9f.jar",
+          "filename": "starlight-1.0.2+fabric.89b8d9f.jar"
+        },
+        {
           "mcversion": "1.18-fabric",
           "mcversions": ["1.18-fabric", "1.18.1-fabric"],
-          "version": "Starlight 1.0.0 1.18.x",
+          "version": "1.0.0+1.18.0-1.18.1",
           "hash": "sha1;743b14918588186cae2117d1a9684b400939e6f8",
           "url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.18.x/starlight-1.0.0+fabric.d0a3220.jar",
           "filename": "starlight-1.0.0+fabric.d0a3220.jar"
@@ -256,7 +280,8 @@
             "1.17-fabric",
             "1.17.1-fabric",
             "1.18-fabric",
-            "1.18.1-fabric"
+            "1.18.1-fabric",
+            "1.18.2-fabric"
           ],
           "version": "0.1.2",
           "hash": "sha1;2efec5781f1271bdcdae462eee402ccb97bff6fe",
@@ -638,28 +663,36 @@
     {
       "downloads": [
         {
+          "mcversion": "1.18.2-fabric",
+          "mcversions": ["1.18.2-fabric"],
+          "version": "mc1.18.2-0.4.1",
+          "hash": "sha1;cbd957f1d28d426a2d2df94e9591975264fbab87",
+          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.1/sodium-extra-mc1.18.2-0.4.1.jar",
+          "filename": "sodium-extra-mc1.18.2-0.4.1.jar"
+        },
+        {
+          "mcversion": "1.16.5-fabric",
+          "mcversions": ["1.16.5-fabric"],
+          "version": "mc1.16.5-0.4.1",
+          "hash": "sha1;130cec2b255d76b0ec4322e369f3a866bcceaaab",
+          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.4.1/sodium-extra-mc1.16.5-0.4.1.jar",
+          "filename": "sodium-extra-mc1.16.5-0.4.1.jar"
+        },
+        {
+          "mcversion": "1.17.1-fabric",
+          "mcversions": ["1.17.1-fabric"],
+          "version": "mc1.17.1-0.4.1",
+          "hash": "sha1;83031c52ed40d0d06d3a7dc6368723ac056244a9",
+          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.4.1/sodium-extra-mc1.17.1-0.4.1.jar",
+          "filename": "sodium-extra-mc1.17.1-0.4.1.jar"
+        },
+        {
           "mcversion": "1.18.1-fabric",
           "mcversions": ["1.18.1-fabric"],
           "version": "mc1.18.1-0.4.0",
           "hash": "sha1;0a5e52d66faf9ba68cec2d732b72557173a990a0",
           "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.1-0.4.0/sodium-extra-mc1.18.1-0.4.0.jar",
           "filename": "sodium-extra-mc1.18.1-0.4.0.jar"
-        },
-        {
-          "mcversion": "1.17.1-fabric",
-          "mcversions": ["1.17.1-fabric"],
-          "version": "mc1.17.1-0.4.0",
-          "hash": "sha1;5a8ead439b9dba43fe9fe26936d8b022d398dce8",
-          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.4.0/sodium-extra-mc1.17.1-0.4.0.jar",
-          "filename": "sodium-extra-mc1.17.1-0.4.0.jar"
-        },
-        {
-          "mcversion": "1.16.5-fabric",
-          "mcversions": ["1.16.5-fabric"],
-          "version": "mc1.16.5-0.4.0",
-          "hash": "sha1;b1d62c055cd7f1271772322235c685058555b0fa",
-          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.4.0/sodium-extra-mc1.16.5-0.4.0.jar",
-          "filename": "sodium-extra-mc1.16.5-0.4.0.jar"
         },
         {
           "mcversion": "1.18-fabric",
@@ -836,6 +869,14 @@
       "downloads": [
         {
           "mcversion": "1.18.1-fabric",
+          "mcversions": ["1.18.1-fabric", "1.18.2-fabric"],
+          "version": "0.1.7",
+          "hash": "sha1;8c9286ce6f17b600407c52ace5387f1f14d142a2",
+          "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.7/krypton-0.1.7.jar",
+          "filename": "krypton-0.1.7.jar"
+        },
+        {
+          "mcversion": "1.18.1-fabric",
           "mcversions": ["1.18.1-fabric"],
           "version": "0.1.6",
           "hash": "sha1;f0f3961ed0a22a8b3d5b20af4dde7ac6fbc06a46",
@@ -959,7 +1000,7 @@
       "downloads": [
         {
           "mcversion": "1.18.1-fabric",
-          "mcversions": ["1.18.1-fabric"],
+          "mcversions": ["1.18.1-fabric", "1.18.2-fabric"],
           "version": "1.9.0",
           "hash": "sha1;dc07b38ae4c4b4788851d852f51970d65103a01f",
           "url": "https://cdn.modrinth.com/data/jxuxsA0D/versions/1.9.0/TieFix-1.9.0.jar",
@@ -1010,7 +1051,7 @@
         },
         {
           "mcversion": "1.18-fabric",
-          "mcversions": ["1.18-fabric", "1.18.1-fabric"],
+          "mcversions": ["1.18-fabric", "1.18.1-fabric", "1.18.2-fabric"],
           "version": "1.1.1+1.18",
           "hash": "sha1;0fe49bcdb499f7cd68bf5666e5893bfa7edd04ee",
           "url": "https://cdn.modrinth.com/data/kYq5qkSL/versions/1.1.1+1.18/borderless-mining-1.1.1+1.18.jar",
@@ -1602,7 +1643,8 @@
             "1.17-fabric",
             "1.17.1-fabric",
             "1.18-fabric",
-            "1.18.1-fabric"
+            "1.18.1-fabric",
+            "1.18.2-fabric"
           ],
           "version": "2.3.2",
           "hash": "sha1;9bc9c61f0a7dc6c765118a0527850b91847608cb",
@@ -1719,6 +1761,14 @@
     },
     {
       "downloads": [
+        {
+          "mcversion": "1.18.2-fabric",
+          "mcversions": ["1.18.2-fabric"],
+          "version": "fabric-1.18.2-1.2.10",
+          "hash": "sha1;8983b9a620db20a645ea1622a9361011113e4b04",
+          "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/fabric-1.18.2-1.2.10/plasmovoice-fabric-1.18.2-1.2.10.jar",
+          "filename": "plasmovoice-fabric-1.18.2-1.2.10.jar"
+        },
         {
           "mcversion": "1.18-forge",
           "mcversions": ["1.18-forge", "1.18.1-forge"],
