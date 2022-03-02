@@ -1,11 +1,11 @@
 import { turnBuffer } from './mod.ts';
 import { Mod, SkyClientMods } from './types.ts';
+import { createHash } from 'https://deno.land/std@0.127.0/hash/mod.ts';
 
 export default async () => {
 	const r = await fetch(
 		'https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/mods.json?raw=true'
 	).then((r) => r.json() as unknown as SkyClientMods[]);
-	const decoder = new TextDecoder();
 	const mods: Mod[] = [];
 	for (const mod of r) {
 		if (mod.hidden) continue;
@@ -24,13 +24,10 @@ export default async () => {
 				await Deno.writeFile(`hashes/${mod.file}`, new Uint8Array(r));
 			}
 
-			const cmd = await Deno.run({
-				cmd: ['md5', `hashes/${mod.file}`],
-				stdout: 'piped',
-			});
-			const data = decoder.decode(await cmd.output());
-			cmd.close();
-			const hash = data.split(' ')[0];
+			const data = createHash('md5');
+			data.update(await Deno.readFile(`hashes/${mod.file}`));
+			const hash = data.toString();
+
 			mod.hash = `md5;${hash}`;
 		} else {
 			mod.hash = `sha256;${mod.hash}`;

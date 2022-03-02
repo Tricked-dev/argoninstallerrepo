@@ -7,11 +7,10 @@ import {
 	ModRinthVersion,
 } from './types.ts';
 import { turnBuffer } from './mod.ts';
+import { createHash } from 'https://deno.land/std@0.127.0/hash/mod.ts';
 
 const moddata = JSON.parse(await Deno.readTextFile('std_data.json'));
 export default async () => {
-	const decoder = new TextDecoder();
-
 	const mods: Mod[] = [];
 
 	for (const mod of moddata) {
@@ -34,14 +33,9 @@ export default async () => {
 				}).then(turnBuffer);
 				await Deno.writeFile(`hashes/${filename}`, new Uint8Array(r));
 			}
-
-			const cmd = await Deno.run({
-				cmd: ['md5', `hashes/${filename}`],
-				stdout: 'piped',
-			});
-			const data = decoder.decode(await cmd.output());
-			cmd.close();
-			const hash = `md5;${data.split(' ')[0]}`;
+			const data = createHash('md5');
+			data.update(await Deno.readFile(`hashes/${filename}`));
+			const hash = data.toString();
 
 			mods.push({
 				id: mod.id,

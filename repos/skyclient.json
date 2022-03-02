@@ -132,7 +132,7 @@
         {
           "mcversions": ["1.8.9"],
           "version": "1.2.0",
-          "hash": "md5;B6330B9DFA703CB61E9FC275935B5996",
+          "hash": "md5;b6330b9dfa703cb61e9fc275935b5996",
           "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.2.0/SkyblockClient-Updater-1.2.0.jar",
           "filename": "SkyblockClient-Updater-1.2.0.jar"
         }
@@ -392,7 +392,7 @@
         {
           "mcversions": ["1.8.9"],
           "version": "1.2.0-pre4",
-          "hash": "md5;7699CD5610DFB330FFFA0A3057F0A330",
+          "hash": "md5;7699cd5610dfb330fffa0a3057f0a330",
           "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.0-pre4/Skytils-1.2.0-pre4.jar",
           "filename": "Skytils-1.2.0-pre4.jar"
         }
@@ -516,7 +516,7 @@
         {
           "mcversions": ["1.8.9"],
           "version": "3.3.1",
-          "hash": "md5;1451F17853BE70FAB6EDBEF5983F714E",
+          "hash": "md5;1451f17853be70fab6edbef5983f714e",
           "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.3.1/Dungeon_Rooms-3.3.1.jar",
           "filename": "Dungeon_Rooms-3.3.1.jar"
         }
