@@ -1,5 +1,7 @@
 # TModInstaller repo
 
+[![.github/workflows/update.yml](https://github.com/Tricked-dev/tmodinstallerrepo/actions/workflows/update.yml/badge.svg)](https://github.com/Tricked-dev/tmodinstallerrepo/actions/workflows/update.yml)
+
 Minecraft mod installer gui application repository
 
 current repos:
