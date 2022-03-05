@@ -12,8 +12,9 @@ export default async () => {
 		if (mod.ignored) continue;
 		if (!mod.url) continue;
 		if (!mod.hash) {
+			let file: Uint8Array;
 			try {
-				await Deno.stat(`hashes/${mod.file}`);
+				file = await Deno.readFile(`hashes/${mod.file}`);
 			} catch (_) {
 				const r = await fetch(mod.url, {
 					headers: {
@@ -22,13 +23,12 @@ export default async () => {
 					},
 				}).then(turnBuffer);
 				await Deno.writeFile(`hashes/${mod.file}`, new Uint8Array(r));
+				file = new Uint8Array(r);
 			}
-
-			const data = createHash('md5');
-			data.update(await Deno.readFile(`hashes/${mod.file}`));
-			const hash = data.toString();
-
-			mod.hash = `md5;${hash}`;
+			const data = await crypto.subtle.digest('SHA-256', file);
+			mod.hash = `sha256;${[...new Uint8Array(data)]
+				.map((b) => b.toString(16).padStart(2, '0'))
+				.join('')}`;
 		} else {
 			mod.hash = `sha256;${mod.hash}`;
 		}

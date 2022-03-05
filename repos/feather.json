@@ -2,67 +2,6 @@
   "id": "feather",
   "mods": [
     {
-      "id": "replayMod",
-      "nicknames": ["The Replay Mod"],
-      "display": "The Replay Mod",
-      "icon": "https://images.feathermc.com/3xUj5.png",
-      "forgeid": "replayMod",
-      "description": "A Minecraft Mod to record, relive and share your experience.",
-      "meta": { "author": "ReplayMod" },
-      "conflicts": [],
-      "categories": ["Media"],
-      "downloads": [
-        {
-          "mcversions": ["1.8.9"],
-          "version": "v1.8.9-2.6.3",
-          "hash": "sha1;77c1316427d65ee3c9883a7517c6bf7a097b24ac",
-          "filename": "replaymod-1.8.9-2.6.3.jar",
-          "url": "https://minio.replaymod.com/replaymod/replaymod-1.8.9-2.6.3.jar"
-        },
-        {
-          "mcversions": ["1.12.2"],
-          "version": "v1.12.2-2.6.3",
-          "hash": "sha1;984489e9ec23c1b4e6c4ff5a00b35eef1be8dde8",
-          "filename": "replaymod-1.12.2-2.6.3.jar",
-          "url": "https://minio.replaymod.com/replaymod/replaymod-1.12.2-2.6.3.jar"
-        },
-        {
-          "mcversions": ["1.17.1-fabric"],
-          "version": "v1.17.1-2.6.3",
-          "hash": "sha1;9b3c88b9b7d791ea59bcf90635b6067c6f46982b",
-          "filename": "replaymod-1.17.1-2.6.3.jar",
-          "url": "https://minio.replaymod.com/replaymod/replaymod-1.17.1-2.6.3.jar"
-        },
-        {
-          "mcversions": ["1.18.1-fabric"],
-          "version": "v1.18.1-2.6.3",
-          "hash": "sha1;a68fed1d79349749d92792bd66769957ad9471f7",
-          "filename": "replaymod-1.18.1-2.6.3.jar",
-          "url": "https://minio.replaymod.com/replaymod/replaymod-1.18.1-2.6.3.jar"
-        }
-      ]
-    },
-    {
-      "id": "patcher",
-      "nicknames": ["Patcher"],
-      "display": "Patcher",
-      "icon": "https://images.feathermc.com/RyVqN.png",
-      "forgeid": "patcher",
-      "description": "A Forge mod full of Vanilla bug fixes, Quality of Life improvements, and performance enhancements.",
-      "meta": { "author": "Sk1er LLC" },
-      "conflicts": [],
-      "categories": ["Performance", "Tools"],
-      "downloads": [
-        {
-          "mcversions": ["1.8.9"],
-          "version": "1.8.0",
-          "hash": "sha1;6f30807c8e2dd086a0d1b9033bede34ca184a3fd",
-          "filename": "patcher-1.8.9.jar",
-          "url": "https://static.sk1er.club/repo/mods/patcher/1.8.0/1.8.9/Patcher-1.8.0%20(1.8.9).jar"
-        }
-      ]
-    },
-    {
       "id": "irisShaders",
       "nicknames": ["Iris Shaders"],
       "display": "Iris Shaders",

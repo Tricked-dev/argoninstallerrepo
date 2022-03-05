@@ -132,7 +132,7 @@
         {
           "mcversions": ["1.8.9"],
           "version": "1.2.0",
-          "hash": "md5;b6330b9dfa703cb61e9fc275935b5996",
+          "hash": "sha256;5c1764482dc3b8a0945f2e1ded8c405e9acbebd6512c5eb84508edc5518e4050",
           "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.2.0/SkyblockClient-Updater-1.2.0.jar",
           "filename": "SkyblockClient-Updater-1.2.0.jar"
         }
@@ -392,7 +392,7 @@
         {
           "mcversions": ["1.8.9"],
           "version": "1.2.0-pre4",
-          "hash": "md5;7699cd5610dfb330fffa0a3057f0a330",
+          "hash": "sha256;8861883ba32eff0beaf37a04ce6f8747fa224408229d84247d95a7a3caa63bca",
           "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.0-pre4/Skytils-1.2.0-pre4.jar",
           "filename": "Skytils-1.2.0-pre4.jar"
         }
@@ -490,10 +490,10 @@
       "downloads": [
         {
           "mcversions": ["1.8.9"],
-          "version": "3.7.5",
-          "hash": "sha256;deeb5380a9f34c1b62ab428bb867caccefb039b9d3e2857ca2a5389163744152",
-          "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.5/dungeonsguide-3.7.5.jar",
-          "filename": "dungeonsguide-3.7.5.jar"
+          "version": "3.7.6",
+          "hash": "sha256;09cd2efdea6b3f1799074da2f3a1d5f6e228c458d3c34c005cf103ab73f1697b",
+          "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.6/dungeonsguide-3.7.6.jar",
+          "filename": "dungeonsguide-3.7.6.jar"
         }
       ]
     },
@@ -516,7 +516,7 @@
         {
           "mcversions": ["1.8.9"],
           "version": "3.3.1",
-          "hash": "md5;1451f17853be70fab6edbef5983f714e",
+          "hash": "sha256;a26d1fedef6962baec6bb9f5c8e574b5dfad9bcd8237c85966c833a554bd363e",
           "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.3.1/Dungeon_Rooms-3.3.1.jar",
           "filename": "Dungeon_Rooms-3.3.1.jar"
         }
@@ -582,10 +582,10 @@
       "downloads": [
         {
           "mcversions": ["1.8.9"],
-          "version": "3",
-          "hash": "sha256;4fbabf2214e156744395572334045183",
-          "url": "https://cdn.discordapp.com/attachments/923979897850966016/944361645608693770/Craftify-1.0.0-beta-3.jar",
-          "filename": "Craftify-1.0.0-beta-3.jar"
+          "version": "5",
+          "hash": "sha256;e0a1f173581205af85e54c52ad650a1434b8e374e8e7bc033b07f8cd391dc039",
+          "url": "https://cdn.discordapp.com/attachments/923979897850966016/949367200593100810/Craftify-1.0.0-beta-5.jar",
+          "filename": "Craftify-1.0.0-beta-5.jar"
         }
       ]
     },
@@ -697,6 +697,26 @@
           "hash": "sha256;5d804aeaaa10957fbf137c7cf9bd362108acaf2a",
           "url": "https://github.com/Deftu/OofMod/releases/download/4.1.0/OofMod-4.1.0.jar",
           "filename": "OofMod-4.1.0.jar"
+        }
+      ]
+    },
+    {
+      "id": "synthesis",
+      "nicknames": ["synth"],
+      "forgeid": "synthesis",
+      "display": "Synthesis",
+      "description": "Hypixel SkyBlock QoL Mod. A collection of random mod features not to be found anywhere else.",
+      "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/github.png",
+      "categories": ["All Skyblock"],
+      "conflicts": [],
+      "meta": { "author": "SirDesco, Antonio32A" },
+      "downloads": [
+        {
+          "mcversions": ["1.8.9"],
+          "version": "0.2.0",
+          "hash": "sha256;be178ec3525487a3a52f8867647a2d9630fad1e7511913202c4b2ac2cc7a43bf",
+          "url": "https://cdn.discordapp.com/attachments/931696052724203550/937623068715651092/Synthesis-0.2.0.jar",
+          "filename": "Synthesis-0.2.0.jar"
         }
       ]
     }

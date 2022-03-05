@@ -15,10 +15,10 @@ export default async () => {
 
 	for (const mod of moddata) {
 		if (mod.download.github) {
-			const r: GithubRelease = await fetch(
-				`https://api.github.com/repos/${mod.download.github}/releases/latest`
+			const r: GithubRelease[] = await fetch(
+				`https://api.github.com/repos/${mod.download.github}/releases`
 			).then((r) => r.json());
-			const download = r.assets.find((x) =>
+			const download = r[0].assets.find((x) =>
 				x.browser_download_url.endsWith('.jar')
 			)!;
 			const filename = download.browser_download_url.split('/').at(-1)!;
@@ -33,10 +33,13 @@ export default async () => {
 				}).then(turnBuffer);
 				await Deno.writeFile(`hashes/${filename}`, new Uint8Array(r));
 			}
-			const data = createHash('md5');
-			data.update(await Deno.readFile(`hashes/${filename}`));
-			const hash = data.toString();
-
+			const data = await crypto.subtle.digest(
+				'SHA-1',
+				await Deno.readFile(`hashes/${filename}`)
+			);
+			const hash = `sha1;${[...new Uint8Array(data)]
+				.map((b) => b.toString(16).padStart(2, '0'))
+				.join('')}`;
 			mods.push({
 				id: mod.id,
 				forgeid: mod.forgeid,
@@ -49,8 +52,8 @@ export default async () => {
 				categories: mod.categories,
 				downloads: [
 					{
-						version: r.tag_name.replace('v', ''),
-						hash,
+						version: r[0].tag_name.replace('v', ''),
+						hash: hash,
 						mcversions: [mod.download.version],
 						url: download.browser_download_url,
 						filename: filename,
