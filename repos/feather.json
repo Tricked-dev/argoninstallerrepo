@@ -366,26 +366,6 @@
       ]
     },
     {
-      "id": "dungeonsGuide",
-      "nicknames": ["Dungeons Guide"],
-      "display": "Dungeons Guide",
-      "icon": "https://images.feathermc.com/O78pW.png",
-      "forgeid": "dungeonsGuide",
-      "description": "A mod designed to help hypixel skyblock dungeons players find secrets and solve puzzles. Also comes with lots of QOL Features",
-      "meta": { "author": "syeyoung" },
-      "conflicts": [],
-      "categories": ["Hypixel"],
-      "downloads": [
-        {
-          "mcversions": ["1.8.9"],
-          "version": "3.7.5",
-          "hash": "sha1;5ac145790e7a7f68405156f89f48f8a64eb2a8c4",
-          "filename": "dungeonsguide-1.8.jar",
-          "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.5/dungeonsguide-3.7.5.jar"
-        }
-      ]
-    },
-    {
       "id": "cowlection",
       "nicknames": ["Cowlection"],
       "display": "Cowlection",
