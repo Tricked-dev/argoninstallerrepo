@@ -310,9 +310,9 @@
       "icon": "https://cdn.modrinth.com/data/hvFnDODi/icon.png",
       "forgeid": "lazydfu",
       "nicknames": [],
-      "description": "Makes the initialization of DataFixerUpper \"lazy\", making the game start more quickly",
+      "description": "Makes the game boot faster by deferring non-essential initialization",
       "conflicts": [],
-      "categories": ["utility", "misc", "optimization"],
+      "categories": ["optimization"],
       "meta": {
         "body_url": "https://cdn.modrinth.com/data/hvFnDODi/description.md",
         "discord": "https://discord.gg/RUGArxEQ8J",
@@ -1470,7 +1470,25 @@
       "downloads": [
         {
           "mcversion": "1.17-fabric",
-          "mcversions": ["1.17-fabric", "1.17.1-fabric", "1.18-fabric"],
+          "mcversions": [
+            "1.17-fabric",
+            "1.17.1-fabric",
+            "1.18-fabric",
+            "1.18.1-pre1-fabric",
+            "1.18.1-rc1-fabric",
+            "1.18.1-rc2-fabric",
+            "1.18.1-rc3-fabric",
+            "1.18.1-fabric",
+            "22w03a-fabric",
+            "22w05a-fabric",
+            "22w06a-fabric",
+            "22w07a-fabric",
+            "1.18.2-pre1-fabric",
+            "1.18.2-pre2-fabric",
+            "1.18.2-pre3-fabric",
+            "1.18.2-rc1-fabric",
+            "1.18.2-fabric"
+          ],
           "version": "2.1.0+1.17",
           "hash": "sha1;5f1f59c0ff6d54fc7ec1d42eb347a2f6987d234c",
           "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.0+1.17/lambdynamiclights-2.1.0+1.17.jar",

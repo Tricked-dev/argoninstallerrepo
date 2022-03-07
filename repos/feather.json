@@ -25,6 +25,13 @@
           "hash": "sha1;94c66f904514e1a7e0ad106542a693e09b603044",
           "filename": "iris-1.18.jar",
           "url": "https://github.com/IrisShaders/Iris/releases/download/1.18.x%2Fv1.2.0/iris-mc1.18.1-1.2.0-pre.jar"
+        },
+        {
+          "mcversions": ["1.18.2-fabric"],
+          "version": "1.2.1",
+          "hash": "sha1;ecd7b64f80821721b2cd15c866140225baa9d4ad",
+          "filename": "iris-1.18.2.jar",
+          "url": "https://github.com/IrisShaders/Iris/releases/download/1.18.x-v1.2.1/iris-mc1.18.2-1.2.1-rc2-0cc372f0.jar"
         }
       ]
     },
@@ -66,6 +73,13 @@
           "hash": "sha1;906734bf4692daeb43eafe77ac2cff5ce8c7d777",
           "filename": "xaeros-minimap-fabric-1.18.1.jar",
           "url": "https://media.forgecdn.net/files/3647/8/Xaeros_Minimap_22.2.0.1_Fabric_1.18.jar"
+        },
+        {
+          "mcversions": ["1.18.2-fabric"],
+          "version": "22.3.0",
+          "hash": "sha1;abb8c88dd736b59948b280d9219fc5cb1c022cfc",
+          "filename": "xaeros-minimap-fabric-1.18.1.jar",
+          "url": "https://media.forgecdn.net/files/3667/603/Xaeros_Minimap_22.3.0_Fabric_1.18.2.jar"
         }
       ]
     },
@@ -302,26 +316,6 @@
           "hash": "sha1;033d8ebe8002987f403a02c4938cb9f14ddf9a28",
           "filename": "SkyblockAddons-1.6.1-for-MC-1.8.9.jar",
           "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.6.1/SkyblockAddons-1.6.1-for-MC-1.8.9.jar"
-        }
-      ]
-    },
-    {
-      "id": "chatTriggers",
-      "nicknames": ["ChatTriggers"],
-      "display": "ChatTriggers",
-      "icon": "https://images.feathermc.com/3P9TI.png",
-      "forgeid": "chatTriggers",
-      "description": "ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript.",
-      "meta": { "author": "ChatTriggers" },
-      "conflicts": [],
-      "categories": ["Hypixel", "Tools"],
-      "downloads": [
-        {
-          "mcversions": ["1.8.9"],
-          "version": "2.0.3",
-          "hash": "sha1;41b774865a702a10876d42981b39bfd689025d0b",
-          "filename": "chattriggers-1.8.9.jar",
-          "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/2.0.3/ctjs-2.0.3-1.8.9.jar"
         }
       ]
     },
@@ -679,6 +673,13 @@
           "hash": "sha1;743b14918588186cae2117d1a9684b400939e6f8",
           "filename": "starlight-1.0.0+fabric.d0a3220.jar",
           "url": "https://media.forgecdn.net/files/3554/912/starlight-1.0.0%2Bfabric.d0a3220.jar"
+        },
+        {
+          "mcversions": ["1.18.2-fabric"],
+          "version": "1.0.2",
+          "hash": "sha1;a436b72ee514bd2b59900159bcc4d461f96ef340",
+          "filename": "starlight-1.18.2-fabric.jar",
+          "url": "https://media.forgecdn.net/files/3667/443/starlight-1.0.2%2Bfabric.89b8d9f.jar"
         }
       ]
     },
@@ -704,7 +705,14 @@
           "mcversions": ["1.18.1-fabric"],
           "version": "1.5.0-1.18",
           "hash": "sha1;d1b944079c193a8d5adf9144cab3bd762bb12f5e",
-          "filename": "entityculling-fabric-1.18.1.jar",
+          "filename": "entityculling-fabric-1.18.jar",
+          "url": "https://media.forgecdn.net/files/3642/143/entityculling-fabric-mc1.18-1.5.0.jar"
+        },
+        {
+          "mcversions": ["1.18.2-fabric"],
+          "version": "1.5.0-1.18",
+          "hash": "sha1;d1b944079c193a8d5adf9144cab3bd762bb12f5e",
+          "filename": "entityculling-fabric-1.18.jar",
           "url": "https://media.forgecdn.net/files/3642/143/entityculling-fabric-mc1.18-1.5.0.jar"
         }
       ]
