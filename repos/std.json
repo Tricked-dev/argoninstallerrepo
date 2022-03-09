@@ -687,26 +687,26 @@
         {
           "mcversion": "1.18.2-fabric",
           "mcversions": ["1.18.2-fabric"],
-          "version": "mc1.18.2-0.4.1",
-          "hash": "sha1;cbd957f1d28d426a2d2df94e9591975264fbab87",
-          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.1/sodium-extra-mc1.18.2-0.4.1.jar",
-          "filename": "sodium-extra-mc1.18.2-0.4.1.jar"
-        },
-        {
-          "mcversion": "1.16.5-fabric",
-          "mcversions": ["1.16.5-fabric"],
-          "version": "mc1.16.5-0.4.1",
-          "hash": "sha1;130cec2b255d76b0ec4322e369f3a866bcceaaab",
-          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.4.1/sodium-extra-mc1.16.5-0.4.1.jar",
-          "filename": "sodium-extra-mc1.16.5-0.4.1.jar"
+          "version": "mc1.18.2-0.4.2",
+          "hash": "sha1;8d0a71cef3b11b9403ba12de20c6016fc884b7a5",
+          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.2/sodium-extra-mc1.18.2-0.4.2.jar",
+          "filename": "sodium-extra-mc1.18.2-0.4.2.jar"
         },
         {
           "mcversion": "1.17.1-fabric",
           "mcversions": ["1.17.1-fabric"],
-          "version": "mc1.17.1-0.4.1",
-          "hash": "sha1;83031c52ed40d0d06d3a7dc6368723ac056244a9",
-          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.4.1/sodium-extra-mc1.17.1-0.4.1.jar",
-          "filename": "sodium-extra-mc1.17.1-0.4.1.jar"
+          "version": "mc1.17.1-0.4.2",
+          "hash": "sha1;c68f33b1caaea1551bd9875dbb92796b15cb9e55",
+          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.4.2/sodium-extra-mc1.17.1-0.4.2.jar",
+          "filename": "sodium-extra-mc1.17.1-0.4.2.jar"
+        },
+        {
+          "mcversion": "1.16.5-fabric",
+          "mcversions": ["1.16.5-fabric"],
+          "version": "mc1.16.5-0.4.2",
+          "hash": "sha1;631c1ebe4b2bae4d52320ea76d00974967fd312b",
+          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.4.2/sodium-extra-mc1.16.5-0.4.2.jar",
+          "filename": "sodium-extra-mc1.16.5-0.4.2.jar"
         },
         {
           "mcversion": "1.18.1-fabric",
@@ -892,10 +892,10 @@
         {
           "mcversion": "1.18.1-fabric",
           "mcversions": ["1.18.1-fabric", "1.18.2-fabric"],
-          "version": "0.1.7",
-          "hash": "sha1;8c9286ce6f17b600407c52ace5387f1f14d142a2",
-          "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.7/krypton-0.1.7.jar",
-          "filename": "krypton-0.1.7.jar"
+          "version": "0.1.9",
+          "hash": "sha1;466a8a26949497a3b11886a788e6e156a8b03d24",
+          "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.9/krypton-0.1.9.jar",
+          "filename": "krypton-0.1.9.jar"
         },
         {
           "mcversion": "1.18.1-fabric",
@@ -962,20 +962,20 @@
     {
       "downloads": [
         {
+          "mcversion": "1.18-fabric",
+          "mcversions": ["1.18-fabric"],
+          "version": "1.2.3+1.18",
+          "hash": "sha1;57b0ded948fb33a35906a0d9a6007ad6d2b9db9f",
+          "url": "https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.3+1.18/modmanager-1.2.3%252B1.18.jar",
+          "filename": "modmanager-1.2.3+1.18.jar"
+        },
+        {
           "mcversion": "1.16-fabric",
           "mcversions": ["1.16-fabric"],
           "version": "1.2.2+1.16",
           "hash": "sha1;d84a6413dd0c3cafb230dd7ac2f1f85862ed8201",
           "url": "https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.2+1.16/modmanager-1.2.2+1.16.jar",
           "filename": "modmanager-1.2.2+1.16.jar"
-        },
-        {
-          "mcversion": "1.18-fabric",
-          "mcversions": ["1.18-fabric"],
-          "version": "1.2.2+1.18",
-          "hash": "sha1;ecf4da053cc570500eaf17e478e331277397f7d0",
-          "url": "https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.2+1.18/modmanager-1.2.2+1.18.jar",
-          "filename": "modmanager-1.2.2+1.18.jar"
         },
         {
           "mcversion": "1.17-fabric",

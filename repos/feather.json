@@ -107,6 +107,13 @@
           "hash": "sha1;5b7328a666250330b3dd6a7a5190783d618a0307",
           "filename": "modmenu-fabric-1.18.jar",
           "url": "https://media.forgecdn.net/files/3570/652/modmenu-3.0.1.jar"
+        },
+        {
+          "mcversions": ["1.18.2-fabric"],
+          "version": "3.1.0",
+          "hash": "sha1;b520422af2fce2d7cd02b6b9ae4f025822670c28",
+          "filename": "modmenu-fabric-1.18.2.jar",
+          "url": "https://github.com/TerraformersMC/ModMenu/releases/download/v3.1.0/modmenu-3.1.0.jar"
         }
       ]
     },
@@ -184,6 +191,13 @@
         },
         {
           "mcversions": ["1.18.1-fabric"],
+          "version": "0.0.4",
+          "hash": "sha1;1d1c4f3976f0510a3c6b1fb949234bbc5ca835a2",
+          "filename": "durability101-fabric-1.18.jar",
+          "url": "https://media.forgecdn.net/files/3599/853/Durability101-fabric-1.18-0.0.4.jar"
+        },
+        {
+          "mcversions": ["1.18.2-fabric"],
           "version": "0.0.4",
           "hash": "sha1;1d1c4f3976f0510a3c6b1fb949234bbc5ca835a2",
           "filename": "durability101-fabric-1.18.jar",
@@ -737,6 +751,13 @@
         },
         {
           "mcversions": ["1.18.1-fabric"],
+          "version": "0.1.2",
+          "hash": "sha1;2efec5781f1271bdcdae462eee402ccb97bff6fe",
+          "filename": "lazydfu-0.1.2.jar",
+          "url": "https://github.com/astei/lazydfu/releases/download/0.1.2/lazydfu-0.1.2.jar"
+        },
+        {
+          "mcversions": ["1.18.2-fabric"],
           "version": "0.1.2",
           "hash": "sha1;2efec5781f1271bdcdae462eee402ccb97bff6fe",
           "filename": "lazydfu-0.1.2.jar",
