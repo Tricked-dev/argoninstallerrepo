@@ -1812,10 +1812,26 @@
         {
           "mcversion": "1.18.2-forge",
           "mcversions": ["1.18.2-forge"],
-          "version": "forge-1.18.2-1.2.10",
-          "hash": "sha1;e1516095f431689ec26003dde47433ac6da34572",
-          "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/forge-1.18.2-1.2.10/plasmovoice-forge-1.18.2-1.2.10.jar",
-          "filename": "plasmovoice-forge-1.18.2-1.2.10.jar"
+          "version": "forge-1.18.2-1.2.11",
+          "hash": "sha1;76a965202218d5b443df7c0f1bf00eb56c2f430e",
+          "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/forge-1.18.2-1.2.11/plasmovoice-forge-1.18.2-1.2.11.jar",
+          "filename": "plasmovoice-forge-1.18.2-1.2.11.jar"
+        },
+        {
+          "mcversion": "1.17-forge",
+          "mcversions": ["1.17-forge", "1.17.1-forge"],
+          "version": "forge-1.17-1.2.11",
+          "hash": "sha1;7fa02759708194fbf89f55d1d52d6d4aed6b4c14",
+          "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/forge-1.17-1.2.11/plasmovoice-forge-1.17.1-1.2.11.jar",
+          "filename": "plasmovoice-forge-1.17.1-1.2.11.jar"
+        },
+        {
+          "mcversion": "1.16.4-forge",
+          "mcversions": ["1.16.4-forge", "1.16.5-forge"],
+          "version": "forge-1.16-1.2.11",
+          "hash": "sha1;caaf956b1e50cc1e0b7cd4b9e970f637cdb2b5f1",
+          "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/forge-1.16-1.2.11/plasmovoice-forge-1.16.5-1.2.11.jar",
+          "filename": "plasmovoice-forge-1.16.5-1.2.11.jar"
         },
         {
           "mcversion": "1.18-forge",
@@ -1824,22 +1840,6 @@
           "hash": "sha1;0bf6358097181ead6e5f433973a62846a1e73aad",
           "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/forge-1.18-1.2.10/plasmovoice-forge-1.18.1-1.2.10.jar",
           "filename": "plasmovoice-forge-1.18.1-1.2.10.jar"
-        },
-        {
-          "mcversion": "1.17-forge",
-          "mcversions": ["1.17-forge", "1.17.1-forge"],
-          "version": "forge-1.17-1.2.10",
-          "hash": "sha1;d438205ed47a834f84ff4f8079af1fc7272d823f",
-          "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/forge-1.17-1.2.10/plasmovoice-forge-1.17.1-1.2.10.jar",
-          "filename": "plasmovoice-forge-1.17.1-1.2.10.jar"
-        },
-        {
-          "mcversion": "1.16.4-forge",
-          "mcversions": ["1.16.4-forge", "1.16.5-forge"],
-          "version": "forge-1.16-1.2.10",
-          "hash": "sha1;668793676b072a70d0ed428a432b2dac8f8248ff",
-          "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/forge-1.16-1.2.10/plasmovoice-forge-1.16.5-1.2.10.jar",
-          "filename": "plasmovoice-forge-1.16.5-1.2.10.jar"
         },
         {
           "mcversion": "1.18-forge",
