@@ -1566,6 +1566,14 @@
     {
       "downloads": [
         {
+          "mcversion": "1.18.2-fabric",
+          "mcversions": ["1.18.2-fabric"],
+          "version": "1.2.3+1.18",
+          "hash": "sha1;f5bdcf5dde183ca6c5b8ee28ab6193c1a9ef390d",
+          "url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.3+1.18/lambdabettergrass-1.2.3%252B1.18.jar",
+          "filename": "lambdabettergrass-1.2.3+1.18.jar"
+        },
+        {
           "mcversion": "1.17-fabric",
           "mcversions": [
             "1.17-fabric",
