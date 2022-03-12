@@ -1136,6 +1136,14 @@
     {
       "downloads": [
         {
+          "mcversion": "1.18.2-forge",
+          "mcversions": ["1.18.2-forge"],
+          "version": "4.1.4+1.18.2-forge",
+          "hash": "sha1;c0b14165fe37f2005084dedb3a67c66e5c5246eb",
+          "url": "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.4+1.18.2-forge/notenoughcrashes-4.1.4%252B1.18.2-forge.jar",
+          "filename": "notenoughcrashes-4.1.4+1.18.2-forge.jar"
+        },
+        {
           "mcversion": "1.16.5-forge",
           "mcversions": ["1.16.5-forge"],
           "version": "4.1.4+1.16.5-forge",

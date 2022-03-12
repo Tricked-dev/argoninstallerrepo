@@ -490,10 +490,10 @@
       "downloads": [
         {
           "mcversions": ["1.8.9"],
-          "version": "3.7.6",
-          "hash": "sha256;09cd2efdea6b3f1799074da2f3a1d5f6e228c458d3c34c005cf103ab73f1697b",
-          "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.6/dungeonsguide-3.7.6.jar",
-          "filename": "dungeonsguide-3.7.6.jar"
+          "version": "3.7.7",
+          "hash": "sha256;d949cde62c1cb940f5af21e01499e152b3edeafaa58c406b9e6ece3178e06f26",
+          "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.7/dungeonsguide-3.7.7.jar",
+          "filename": "dungeonsguide-3.7.7.jar"
         }
       ]
     },
@@ -582,10 +582,10 @@
       "downloads": [
         {
           "mcversions": ["1.8.9"],
-          "version": "6",
-          "hash": "sha256;e69068cf1a4212bedd2e20b4bf5bb9c773331a68d26d27fc292b9e1ed554ffd5",
-          "url": "https://cdn.discordapp.com/attachments/923979897850966016/950442869678829639/Craftify-1.0.0-beta-6.jar",
-          "filename": "Craftify-1.0.0-beta-6.jar"
+          "version": "7",
+          "hash": "sha256;6cc36f0290fc9607b8900a22aa66e4c26daf78fc639062f8036c5a5770cb058b",
+          "url": "https://cdn.discordapp.com/attachments/923979897850966016/951907355656863784/Craftify-1.0.0-beta-7.jar",
+          "filename": "Craftify-1.0.0-beta-7.jar"
         }
       ]
     },
