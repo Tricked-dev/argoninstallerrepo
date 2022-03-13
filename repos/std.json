@@ -1402,6 +1402,14 @@
     {
       "downloads": [
         {
+          "mcversion": "1.18.2-fabric",
+          "mcversions": ["1.18.2-fabric"],
+          "version": "3.1.1",
+          "hash": "sha1;783d7ab7d34e87c0671a9426be0021caee58c1b8",
+          "url": "https://cdn.modrinth.com/data/M08ruV16/versions/3.1.1/bobby-3.1.1.jar",
+          "filename": "bobby-3.1.1.jar"
+        },
+        {
           "mcversion": "1.17.1-fabric",
           "mcversions": ["1.17.1-fabric"],
           "version": "2.1.0",
