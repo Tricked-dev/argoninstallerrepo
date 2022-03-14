@@ -835,7 +835,7 @@
       "downloads": [
         {
           "mcversion": "1.18-fabric",
-          "mcversions": ["1.18-fabric", "1.18.1-fabric"],
+          "mcversions": ["1.18-fabric", "1.18.1-fabric", "1.18.2-fabric"],
           "version": "mc1.18.x-0.8.1",
           "hash": "sha1;9b826d21b9cd999853a57c76b0c47ee4d9161dc9",
           "url": "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.18.x-0.8.1/phosphor-fabric-mc1.18.x-0.8.1.jar",
