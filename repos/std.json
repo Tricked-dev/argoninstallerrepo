@@ -962,9 +962,9 @@
     {
       "downloads": [
         {
-          "mcversion": "1.18-fabric",
-          "mcversions": ["1.18-fabric"],
-          "version": "1.2.3+1.18",
+          "mcversion": "1.18.2-fabric",
+          "mcversions": ["1.18.2-fabric"],
+          "version": "1.2.3+1.18.2",
           "hash": "sha1;57b0ded948fb33a35906a0d9a6007ad6d2b9db9f",
           "url": "https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.3+1.18/modmanager-1.2.3%252B1.18.jar",
           "filename": "modmanager-1.2.3+1.18.jar"
@@ -976,6 +976,14 @@
           "hash": "sha1;d84a6413dd0c3cafb230dd7ac2f1f85862ed8201",
           "url": "https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.2+1.16/modmanager-1.2.2+1.16.jar",
           "filename": "modmanager-1.2.2+1.16.jar"
+        },
+        {
+          "mcversion": "1.18-fabric",
+          "mcversions": ["1.18-fabric"],
+          "version": "1.2.2+1.18",
+          "hash": "sha1;ecf4da053cc570500eaf17e478e331277397f7d0",
+          "url": "https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.2+1.18/modmanager-1.2.2+1.18.jar",
+          "filename": "modmanager-1.2.2+1.18.jar"
         },
         {
           "mcversion": "1.17-fabric",
