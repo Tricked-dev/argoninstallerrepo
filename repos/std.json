@@ -17,11 +17,11 @@
       "categories": ["All Skyblock", "Recommended Skyblock"],
       "downloads": [
         {
-          "version": "1.2.0-pre6",
-          "hash": "sha1;455077e1647e4d910f9e6105b32bcb7183b6c68e",
+          "version": "1.2.0",
+          "hash": "sha1;3ee7ed4103913287316b5e80c21c757b3fb81d46",
           "mcversions": ["1.8.9"],
-          "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.0-pre6/Skytils-1.2.0-pre6.jar",
-          "filename": "Skytils-1.2.0-pre6.jar"
+          "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.0/Skytils-1.2.0.jar",
+          "filename": "Skytils-1.2.0.jar"
         }
       ]
     },
