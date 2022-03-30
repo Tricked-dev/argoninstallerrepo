@@ -602,10 +602,17 @@
         },
         {
           "mcversions": ["1.18.1-fabric"],
-          "version": "OptiFine HD U H4",
-          "hash": "sha1;326c160481cc849bccb821939992c101a8fe163b",
-          "filename": "OptiFine_1.18.jar",
-          "url": "https://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H4.jar"
+          "version": "OptiFine HD U H6",
+          "hash": "sha1;c86534ee821a78efc741c9cb407eec76625e1bab",
+          "filename": "OptiFine_1.18.1.jar",
+          "url": "https://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H6.jar"
+        },
+        {
+          "mcversions": ["1.18.2-fabric"],
+          "version": "OptiFine HD U H6",
+          "hash": "sha1;445a8cb8a1d565d8a1fabc0ba984c5936edbf561",
+          "filename": "OptiFine_1.18.1.jar",
+          "url": "https://optifine.net/adloadx?f=OptiFine_1.18.2_HD_U_H6.jar"
         }
       ]
     },
