@@ -391,10 +391,10 @@
       "downloads": [
         {
           "mcversions": ["1.8.9"],
-          "version": "1.2.0",
-          "hash": "sha256;63ad3a0ce1e9ec90e85a7363327a1573",
-          "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.0/Skytils-1.2.0.jar",
-          "filename": "Skytils-1.2.0.jar"
+          "version": "1.2.1",
+          "hash": "sha256;3870554e93e30ee1c5f21dad9730ca7f",
+          "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.1/Skytils-1.2.1.jar",
+          "filename": "Skytils-1.2.1.jar"
         }
       ]
     },
