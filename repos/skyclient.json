@@ -256,6 +256,29 @@
       ]
     },
     {
+      "id": "betterhurtcam",
+      "nicknames": [],
+      "forgeid": "betterhurtcam",
+      "display": "BetterHurtCam",
+      "description": "Increase or decrease the hurtcam when hit.",
+      "icon": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/icons/wyvest.png",
+      "categories": ["All PvP", "Recommended PvP"],
+      "conflicts": [],
+      "meta": {
+        "author": "W-OVERFLOW (Salmon)",
+        "discord": "https://discord.gg/woverflow"
+      },
+      "downloads": [
+        {
+          "mcversions": ["1.8.9"],
+          "version": "2.1.3",
+          "hash": "sha256;3afaf5b1c2472bb03c2f1b7885f61d0c5fa6196c79259b443effcb47c46b521f",
+          "url": "https://github.com/W-OVERFLOW/BetterHurtCam/releases/download/v2.1.3/BetterHurtCam-2.1.3.jar",
+          "filename": "BetterHurtCam-2.1.3.jar"
+        }
+      ]
+    },
+    {
       "id": "nick_hider",
       "nicknames": ["nickhider"],
       "forgeid": "nick_hider",
@@ -391,10 +414,10 @@
       "downloads": [
         {
           "mcversions": ["1.8.9"],
-          "version": "1.2.2",
-          "hash": "sha256;418df6d675987a798a9d8c53b2c50a16",
-          "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.2/BSMod-1.2.2.jar",
-          "filename": "BSMod-1.2.2.jar"
+          "version": "1.2.3",
+          "hash": "sha256;2a6623798d9d29e2bec855b48af9e268",
+          "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.3/BSMod-1.2.3.jar",
+          "filename": "BSMod-1.2.3.jar"
         }
       ]
     },

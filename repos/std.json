@@ -17,11 +17,11 @@
       "categories": ["All Skyblock", "Recommended Skyblock"],
       "downloads": [
         {
-          "version": "1.2.2",
-          "hash": "sha1;721a1535a9c2d087b67907c6b23efeb3617eeb95",
+          "version": "1.2.3",
+          "hash": "sha1;dc38e80e01d11d7a40af4a3263831647402b7438",
           "mcversions": ["1.8.9"],
-          "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.2/BSMod-1.2.2.jar",
-          "filename": "BSMod-1.2.2.jar"
+          "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.3/BSMod-1.2.3.jar",
+          "filename": "BSMod-1.2.3.jar"
         }
       ]
     },
