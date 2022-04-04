@@ -605,10 +605,10 @@
       "downloads": [
         {
           "mcversions": ["1.8.9"],
-          "version": "7",
-          "hash": "sha256;6cc36f0290fc9607b8900a22aa66e4c26daf78fc639062f8036c5a5770cb058b",
-          "url": "https://cdn.discordapp.com/attachments/923979897850966016/951907355656863784/Craftify-1.0.0-beta-7.jar",
-          "filename": "Craftify-1.0.0-beta-7.jar"
+          "version": "8",
+          "hash": "sha256;c6a506ba0ee239fbca194b60b0f7dbeb",
+          "url": "https://cdn.discordapp.com/attachments/923979897850966016/960125452113027152/Craftify-1.0.0-beta-8.jar",
+          "filename": "Craftify-1.0.0-beta-8.jar"
         }
       ]
     },

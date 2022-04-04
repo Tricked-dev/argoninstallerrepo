@@ -695,26 +695,26 @@
         {
           "mcversion": "1.18.2-fabric",
           "mcversions": ["1.18.2-fabric"],
-          "version": "mc1.18.2-0.4.2",
-          "hash": "sha1;8d0a71cef3b11b9403ba12de20c6016fc884b7a5",
-          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.2/sodium-extra-mc1.18.2-0.4.2.jar",
-          "filename": "sodium-extra-mc1.18.2-0.4.2.jar"
+          "version": "mc1.18.2-0.4.3",
+          "hash": "sha1;026226ee3777ee0dc1226b843271447afc551349",
+          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.3/sodium-extra-mc1.18.2-0.4.3.jar",
+          "filename": "sodium-extra-mc1.18.2-0.4.3.jar"
         },
         {
           "mcversion": "1.17.1-fabric",
           "mcversions": ["1.17.1-fabric"],
-          "version": "mc1.17.1-0.4.2",
-          "hash": "sha1;c68f33b1caaea1551bd9875dbb92796b15cb9e55",
-          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.4.2/sodium-extra-mc1.17.1-0.4.2.jar",
-          "filename": "sodium-extra-mc1.17.1-0.4.2.jar"
+          "version": "mc1.17.1-0.4.3",
+          "hash": "sha1;debfd7204ccffefc22be32e0551bc289dbfa17d4",
+          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.4.3/sodium-extra-mc1.17.1-0.4.3.jar",
+          "filename": "sodium-extra-mc1.17.1-0.4.3.jar"
         },
         {
           "mcversion": "1.16.5-fabric",
           "mcversions": ["1.16.5-fabric"],
-          "version": "mc1.16.5-0.4.2",
-          "hash": "sha1;631c1ebe4b2bae4d52320ea76d00974967fd312b",
-          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.4.2/sodium-extra-mc1.16.5-0.4.2.jar",
-          "filename": "sodium-extra-mc1.16.5-0.4.2.jar"
+          "version": "mc1.16.5-0.4.3",
+          "hash": "sha1;0ac6549c081ad99aa2a3ceb3871ce8a25fc3dc09",
+          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.4.3/sodium-extra-mc1.16.5-0.4.3.jar",
+          "filename": "sodium-extra-mc1.16.5-0.4.3.jar"
         },
         {
           "mcversion": "1.18.1-fabric",
